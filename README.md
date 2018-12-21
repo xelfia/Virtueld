@@ -16,6 +16,7 @@ These names are not intended to narrow the category, but it indicates the starte
 # Powered By
 
 * https://unity3d.com/
+* https://github.com/dwango/UniVRM
 * https://studio.vroid.com/
 * https://hub.vroid.com/
 
