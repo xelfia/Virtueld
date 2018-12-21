@@ -8,9 +8,9 @@ These names are not intended to narrow the category, but it indicates the starte
 
 # Snapshots Cast by
 
-* An original character created on xismo
-* An original character (1) created on VRoid Studio
-* An original character (2) created on VRoid Studio
+* A working original character created on `xismo`
+* A working original character (1) created on `VRoid Studio`
+* A working original character (2) created on `VRoid Studio`
 * `VRoid Hub` じんるい 🔗 https://hub.vroid.com/characters/7101894907524669339/models/7778036813709384965
 
 # To be continued...?
