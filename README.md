@@ -4,7 +4,7 @@
 <img src="snapshot/XVRF2018-12-21-00.png" width="20%"/><img src="snapshot/XVRF2018-12-21-01.png" width="20%"/><img src="snapshot/XVRF2018-12-21-02.png" width="20%"/><img src="snapshot/XVRF2018-12-21-03.png" width="20%"/>
 
 * `XVRF` / `VRoid Fight` are temporal names.
-This name is not intended to narrow the category, but it indicates the started development part.
+These names are not intended to narrow the category, but it indicates the started development part.
 
 # Snapshots Cast by
 
