@@ -13,6 +13,12 @@ These names are not intended to narrow the category, but it indicates the starte
 * A working original character (2) created on `VRoid Studio`
 * `VRoid Hub` じんるい 🔗 https://hub.vroid.com/characters/7101894907524669339/models/7778036813709384965
 
+# Powered By
+
+* https://unity3d.com/
+* https://studio.vroid.com/
+* https://hub.vroid.com/
+
 # To be continued...?
 
 ...
