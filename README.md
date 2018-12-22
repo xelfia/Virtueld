@@ -8,23 +8,27 @@
 * `XVRF` / `VRoid Fight` are temporal names.
 These names are not intended to narrow the category, but it indicates the started development part.
 
-# Snapshots Cast by
+## Snapshots Cast by
 
 * A working-in-progress original character created on `xismo`
 * A working-in-progress original character (1) created on `VRoid Studio`
 * A working-in-progress original character (2) created on `VRoid Studio`
 * `VRoid Hub` じんるい 🔗 https://hub.vroid.com/characters/7101894907524669339/models/7778036813709384965
 
-# Powered By
+## Powered by
 
-* https://unity3d.com/
-* https://github.com/dwango/UniVRM
-* https://studio.vroid.com/
-* https://hub.vroid.com/
+* 🔗 [Unity](https://unity3d.com/)
+* 🔗 [UniVRM](https://github.com/dwango/UniVRM)
+* 🔗 [VRoid Studio](https://studio.vroid.com/)
+* 🔗 [VRoid Hub](https://hub.vroid.com/)
 
-# To be continued...?
+## To be continued...?
 
 ...
 
-# 👍
+## 👍
 🔗 https://www.pixiv.net/fanbox/creator/33312285
+
+## Developer's References
+
+* 🔗 `Japanese` [VRoid 更新履歴 🌟 VRoid Update History](https://twitter.com/i/moments/1038317938049134592)
