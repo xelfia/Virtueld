@@ -17,10 +17,7 @@ These names are not intended to narrow the category, but it indicates the starte
 
 ## Powered by
 
-* 🔗 [Unity](https://unity3d.com/)
-* 🔗 [UniVRM](https://github.com/dwango/UniVRM)
-* 🔗 [VRoid Studio](https://studio.vroid.com/)
-* 🔗 [VRoid Hub](https://hub.vroid.com/)
+* 🔗 [`Unity`](https://unity3d.com/) 🔗 [UniVRM](https://github.com/dwango/UniVRM) 🔗 [VRoid Studio](https://studio.vroid.com/) 🔗 [VRoid Hub](https://hub.vroid.com/)
 
 ## To be continued...?
 
