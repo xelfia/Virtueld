@@ -23,6 +23,12 @@ These names are not intended to narrow the category, but it indicates the starte
 
 For example, characters in `VRoid Hub`, there are varied body type of characters. Now under investigation that, but I have not in this time whether enable to provide good combat or not. If it is unfair but both players can be enjoyable, that will be provided as a special mode I think.
 
+### Informative Characters
+* `VRoid Hub` イフリート 🔗 https://hub.vroid.com/characters/852382471780392945/models/6959713455822728834
+  * Spinning hair
+  * High load at VRMSpringBone updating
+  * Transparent legs
+
 ## To be continued...?
 
 ...
