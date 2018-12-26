@@ -39,3 +39,6 @@ For example, characters in `VRoid Hub`, there are varied body type of characters
 ## Developer's References
 
 * 🔗 `Japanese` [VRoid 更新履歴 🌟 VRoid Update History](https://twitter.com/i/moments/1038317938049134592)
+
+--------
+[License / Third party notices](LICENSE.md)
