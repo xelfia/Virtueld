@@ -2,6 +2,7 @@
 * Project `XVRF` (working title) teaser site
 * A 🎮 game development project by individual developer
 * Works preliminarily on Unity 2018.3.0f2
+* [License / Third party notices](LICENSE.md)
 
 <img src="snapshot/XVRF2018-12-21-00.png" width="20%"/><img src="snapshot/XVRF2018-12-21-01.png" width="20%"/><img src="snapshot/XVRF2018-12-21-02.png" width="20%"/><img src="snapshot/XVRF2018-12-21-03.png" width="20%"/>
 
@@ -39,6 +40,3 @@ For example, characters in `VRoid Hub`, there are varied body type of characters
 ## Developer's References
 
 * 🔗 `Japanese` [VRoid 更新履歴 🌟 VRoid Update History](https://twitter.com/i/moments/1038317938049134592)
-
---------
-[License / Third party notices](LICENSE.md)
