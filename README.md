@@ -26,7 +26,7 @@ For example, characters in `VRoid Hub`, there are varied body type of characters
 ### Informative Characters
 * `VRoid Hub` イフリート 🔗 https://hub.vroid.com/characters/852382471780392945/models/6959713455822728834
   * Spinning hair
-  * High load at VRMSpringBone updating
+  * High load at `VRMSpringBone` updating
   * Transparent legs
 
 ## To be continued...?
