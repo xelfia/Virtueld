@@ -29,6 +29,17 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
   * Spinning hair
   * High load at `VRMSpringBone` updating
   * Transparent legs
+## Recommended System Requirements
+
+| |Recommended Specifications|
+|----|----|
+|Operating System|Windows 10 64-bit|
+|Video|DirectX 11 or later|
+|Memory|4GB RAM|
+|Storage|25GB avilable space|
+|Broadband Internet connection|
+
+* only as a guide
 
 ## To be continued...?
 
