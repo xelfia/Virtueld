@@ -18,6 +18,8 @@
 
 `MIT`
 
+🔗 https://github.com/ninlilizi/SEGI
+🔗 https://github.com/CK85/SEGI
 🔗 https://github.com/sonicether/SEGI
 
 
