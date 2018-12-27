@@ -45,6 +45,11 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 ...
 
+## Schedule
+* I am thinking about taking like the early access development model and to build this up with future patrons / supporters help. If so, it will do on a small scale. Though the informations limited, how do you think about it?
+* Early Access Date: TBD
+* Release Date: TBD
+
 ## 👍
 🔗 https://www.pixiv.net/fanbox/creator/33312285
 
