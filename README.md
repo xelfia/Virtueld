@@ -1,4 +1,4 @@
-# XVRF-Outpost
+# XVRF Outpost
 * Project `XVRF` (working title) teaser site
 * A 🎮 game development project by individual developer
 * Works preliminarily on `Unity 2018.3.0f2`
@@ -43,3 +43,5 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 --------
 🆇🅴🅻🅵
+©2018 XELF
+
