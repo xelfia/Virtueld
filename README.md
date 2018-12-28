@@ -55,7 +55,7 @@ If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
 |Early Access Date|TBD|
 |Release Date|TBD|
 
-## Developer's References
+## Developers' References
 
 * 🔗 `Japanese` [VRoid 更新履歴 🌟 VRoid Update History](https://twitter.com/i/moments/1038317938049134592)
 
