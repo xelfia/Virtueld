@@ -41,9 +41,9 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 * only as a guide
 
-## To be continued...?
+## To be continued…❓
 
-...
+❓❓❓
 
 ## Schedule
 * I am thinking about taking like the early access development model and to build this up with future patrons / supporters help. If so, it will do on a small scale. Though the informations limited, how do you think about it?
