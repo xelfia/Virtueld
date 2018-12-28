@@ -16,6 +16,10 @@ These names are not intended to narrow the category, but it indicates the starte
 * A working-in-progress original character (2) created on `VRoid Studio`
 * `VRoid Hub` じんるい 🔗 https://hub.vroid.com/characters/7101894907524669339/models/7778036813709384965
 
+## Reserved Specimens
+
+* `VRoid Hub` XVRF Specimen Male 1 🔗 https://hub.vroid.com/characters/6507936595093002129/models/7670077723001265143
+
 ## Powered by
 
 * 🔗 [`Unity`](https://unity3d.com/) 🔗 [UniVRM](https://github.com/dwango/UniVRM) 🔗 [VRoid Studio](https://studio.vroid.com/) 🔗 [VRoid Hub](https://hub.vroid.com/)
