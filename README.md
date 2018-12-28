@@ -50,7 +50,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
 
-* 関連する日本語での投稿 (Related post in Japanese`) 🔗 https://www.pixiv.net/fanbox/creator/33312285/post/239934
+* `日本語`による関連の投稿 (Related post in Japanese`) 🔗 https://www.pixiv.net/fanbox/creator/33312285/post/239934
 
 |||
 |----|----|
