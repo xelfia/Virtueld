@@ -36,8 +36,8 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Operating System|Windows 10 64-bit|
 |Video|DirectX 11 or later|
 |Memory|4GB RAM|
-|Storage|25GB avilable space|
-|Broadband Internet connection|
+|Storage|25GB available space|
+|Broadband Internet connection (as currently planned)|
 
 * only as a guide
 
