@@ -37,7 +37,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Video|DirectX 11 or later|
 |Memory|4GB RAM|
 |Storage|25GB available space|
-|Broadband Internet connection (as currently planned)|
+|Broadband Internet connection|✅ (as currently planned)|
 
 * only as a guide
 
