@@ -33,6 +33,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
   * Spinning hair
   * High load at `VRMSpringBone` updating
   * Transparent legs
+
 ## Recommended System Requirements
 
 | |Recommended Specifications|
@@ -44,6 +45,63 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Broadband Internet connection|✅ (as currently planned)|
 
 * only as a guide
+
+## How to Control / Input Device
+
+> This is preliminary
+
+* Gamepad is mainly used.
+  * For combat, left stick and 4 buttons are mainly used.
+  * Additional buttons are also used auxiliary.
+* Though gamepad is recommended, you can also play with Keyboard/Mouse under your input bindings.
+* You can customize the input bindings on `Input` tab of Configuration dialog.
+
+### How to open the Configuration dialog:
+
+* Open XVRF's `.exe` file with holding `[Ctrl]` to start the game app.
+
+### Notations
+
+* `Skill` (Command inputs) will be short as planned. 
+* Following notations are for generalize input devices.
+
+|Symbols (notations)|Name on `Input` tab|Basic Usage|
+|----|----|----|
+|Ⓐ|Attack|Attack|
+|Ⓚ|Kick|Kick|
+|Ⓣ|Throw|Throw / Face to Opponent / Clinch|
+|Ⓖ|Gurard|Guard|
+|🄻¹|L1|-|
+|🅁¹|L2|-|
+
+### Controls in Menu
+
+|Controls|Basic Usage|
+|----|----|
+|↑/↓/←/→|Navigate|
+|Ⓐ|Select / OK|
+|Ⓚ|Cancel|
+
+### Controls in Combat
+
+* Your Position and Opponent Position are required conditions.
+* Skills are optional: character customizable features (in planned).
+* ⚠ Note that described as when you are facing rightward view in screen.
+
+|Controls|Your Position|Opponent Position|Default Move|Skills (optional)|
+|----|----|----|----|----|
+|🄻¹+🅁¹|-|-|Reset Combat in Training Mode|-|
+|→|`Stand`|-|`Step Forward`|-|
+|←|`Stand`|-|`Step Backward`|-|
+|↑|`Stand`|-|`Step Leftward`|-|
+|↓|`Stand`|-|`Step Rightward`|-|
+|Ⓐ|`Stand`|-|-|`Punch`|
+|Ⓐ|`Punch`|-|-|`Jab`|
+|Ⓚ|`Stand`|-|-|`Round Kick`|
+|→Ⓚ|`Stand`|-|-|`Low Kick`|
+|Ⓣ|`Stand`|`Stand`|-|`Round Throw`|
+|Ⓣ|`Stand`|`Supine`/`Prone`|-|`Kneeling Mount`|
+|etc…|…|…|…|…|
 
 ## To be continued…❓
 
