@@ -53,17 +53,18 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 * Gamepad is mainly used.
   * For combat, left stick and 4 buttons are mainly used.
   * Additional buttons are also used auxiliary.
+  * `Skill` (Command inputs) will be short (in planned).
 * Though gamepad is recommended, you can also play with Keyboard/Mouse under your input bindings.
 * You can customize the input bindings on `Input` tab of Configuration dialog.
 
-### How to open the Configuration dialog:
+### How to open the Configuration dialog
 
 * Open XVRF's `.exe` file with holding `[Ctrl]` to start the game app.
 
 ### Notations
 
-* `Skill` (Command inputs) will be short as planned. 
 * Following notations are for generalize input devices.
+* Symbols are shown as similar icons in game screen.
 
 |Symbols (notations)|Name on `Input` tab|Basic Usage|
 |----|----|----|
@@ -73,6 +74,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Ⓖ|Gurard|Guard|
 |🄻¹|L1|-|
 |🅁¹|L2|-|
+|🔙|Back|Go Back on Menu / Open Escape Menu|
 
 ### Controls in Menu
 
@@ -101,6 +103,8 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |→Ⓚ|`Stand`|-|-|`Low Kick`|
 |Ⓣ|`Stand`|`Stand`|-|`Round Throw`|
 |Ⓣ|`Stand`|`Supine`/`Prone`|-|`Kneeling Mount`|
+|→|`Supine`/`Prone`|-|`Kip up`|-|
+|↑/↓|	`Supine`/`Prone`|-|`Roll Over`|-|
 |etc…|…|…|…|…|
 
 ## To be continued…❓
