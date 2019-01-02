@@ -104,6 +104,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Ⓖ|`Stand`|-|`Guard`|-|
 |Ⓣ|`Stand`|`Stand`|-|`Round Throw`|
 |Ⓣ|`Stand`|`Supine`/`Prone`|-|`Kneeling Mount`|
+|Ⓐ|`Kneeling Mount`|`Supine`/`Prone`|-|`Kneeling Slam`|
 |→|`Supine`/`Prone`|-|`Kip up`|-|
 |↑/↓|	`Supine`/`Prone`|-|`Roll Over`|-|
 |etc…|…|…|…|…|
