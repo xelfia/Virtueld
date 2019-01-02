@@ -99,6 +99,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |↓|`Stand`|-|`Step Rightward`|-|
 |Ⓐ|`Stand`|-|-|`Punch`|
 |Ⓐ|`Punch`|-|-|`Jab`|
+|→Ⓐ|`Stand`|-|-|`Splash`|
 |Ⓚ|`Stand`|-|-|`Round Kick`|
 |→Ⓚ|`Stand`|-|-|`Low Kick`|
 |Ⓖ|`Stand`|-|`Guard`|-|
