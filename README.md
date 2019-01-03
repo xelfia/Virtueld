@@ -114,7 +114,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 > This is preliminary
 
-* You can send via the in-game `Report`. Most of fields are automatically filled and read-only. `Log` is editable. Please check contents and press the `Send` if there is no problem with that content.
+* You can send via the in-game `Report`. Most of fields are automatically filled and read-only. `Log` is editable. Please confirm that there is no problem to submitting with that content, press `Send`.
 
 > Feel free to give your feedback. Even if there is no issue, it is also able to know your system environments as statistics☺️
 
