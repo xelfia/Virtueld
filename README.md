@@ -18,7 +18,7 @@ These names are not intended to narrow the category, but it indicates the starte
 
 ## Reserved Specimens
 
-* `VRoid Hub`  🔗 [XVRF Specimen Male 1](https://hub.vroid.com/characters/6507936595093002129/models/7670077723001265143)
+* `VRoid Hub` 🔗 [XVRF Specimen Male 1](https://hub.vroid.com/characters/6507936595093002129/models/7670077723001265143)
 
 ## Powered by
 
@@ -109,6 +109,16 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |→|`Supine`/`Prone`|-|`Kip up`|-|
 |↑/↓|	`Supine`/`Prone`|Not Mounted|`Roll Over`|-|
 |etc…|…|…|…|…|
+
+## Feedback / Report a bug
+
+> This is preliminary
+
+* You can send via the in-game `Report`. Most of fields are automatically filled and read-only. `Log` is editable. Please check contents and press the `Send` if there is no problem with that content.
+
+> Feel free to give your feedback. Even if there is no issue, it is also able to know your system environments as statistics☺️
+
+* If the in-game `Report` is not available, use the web form instead (in planned).
 
 ## To be continued…❓
 
