@@ -71,7 +71,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Ⓐ|Attack|Attack|
 |Ⓚ|Kick|Kick|
 |Ⓣ|Throw|Throw / Face to Opponent / Clinch|
-|Ⓖ|Gurard|Guard|
+|Ⓖ|Guard|Guard|
 |🄻¹|L1|-|
 |🅁¹|L2|-|
 |🔙|Back|Go Back on Menu / Open Escape Menu|
@@ -110,7 +110,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |↑/↓|	`Supine`/`Prone`|Not Mounted|`Roll Over`|-|
 |etc…|…|…|…|…|
 
-## Feedback / Report a bug
+## Feedback / Report a Bug
 
 > This is preliminary
 
