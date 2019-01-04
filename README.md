@@ -72,8 +72,8 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Ⓚ|Ⓚ Kick|Kick|
 |Ⓣ|Ⓣ Throw|Throw / Face to Opponent / Clinch|
 |Ⓖ|Ⓖ Guard|Guard|
-|←/→|Left Stick Horizontal|Move / Navitage on Menu|
-|↑/↓|Left Stick Vertical|Move / Navitage on Menu|
+|←/→|Left Stick Horizontal|Move / Naviagte on Menu|
+|↑/↓|Left Stick Vertical|Move / Navigate on Menu|
 |🄻¹|L1|-|
 |🅁¹|L2|-|
 |🔙|Back|Go Back on Menu / Open Escape Menu|
