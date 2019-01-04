@@ -68,10 +68,12 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 |Symbols (notations)|Name on `Input` tab|Basic Usage|
 |----|----|----|
-|Ⓐ|Attack|Attack|
-|Ⓚ|Kick|Kick|
-|Ⓣ|Throw|Throw / Face to Opponent / Clinch|
-|Ⓖ|Guard|Guard|
+|Ⓐ|Ⓐ Attack|Attack|
+|Ⓚ|Ⓚ Kick|Kick|
+|Ⓣ|Ⓣ Throw|Throw / Face to Opponent / Clinch|
+|Ⓖ|Ⓖ Guard|Guard|
+|←/→|Left Stick Horizontal|Move / Navitage on Menu|
+|↑/↓|Left Stick Vertical|Move / Navitage on Menu|
 |🄻¹|L1|-|
 |🅁¹|L2|-|
 |🔙|Back|Go Back on Menu / Open Escape Menu|
@@ -125,6 +127,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 ❓❓❓
 
 ## Schedule
+
 * I am thinking about taking like the early access development model and to build this up with future patrons / supporters help. If so, it will do on a small scale. Though the informations limited, how do you think about it?
 
 If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
