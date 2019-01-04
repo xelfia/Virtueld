@@ -139,6 +139,12 @@ If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
 |Early Access Date|TBD|
 |Release Date|TBD|
 
+## Attitude Survey for Early Access
+
+If you have interested in XVRF, feel free to send the [Form](https://docs.google.com/forms/d/e/1FAIpQLSc65YglSrOXShY44_p9BFVY2vyvtz4U2IY4n2N3NwmA4jZvYg/viewform)
+
+> This form is written in bilingual of `Japanese`/`English`.
+
 ## Developers' References
 
 * 🔗 `Japanese` [VRoid 更新履歴 🌟 VRoid Update History](https://twitter.com/i/moments/1038317938049134592)
