@@ -4,7 +4,13 @@
 * Works preliminarily on `Unity 2018.3.0f2`
 * [License / Third party notices](LICENSE.md)
 
+📷2019-01-07<br/>
+<img src="snapshot/XVRF2019-01-07-00.png" width="20%"/><img src="snapshot/XVRF2019-01-07-01.png" width="20%"/><img src="snapshot/XVRF2019-01-07-02.png" width="20%"/><img src="snapshot/XVRF2019-01-07-03.png" width="20%"/>
+
+📷2018-12-21<br/>
 <img src="snapshot/XVRF2018-12-21-00.png" width="20%"/><img src="snapshot/XVRF2018-12-21-01.png" width="20%"/><img src="snapshot/XVRF2018-12-21-02.png" width="20%"/><img src="snapshot/XVRF2018-12-21-03.png" width="20%"/>
+
+----
 
 * `XVRF` / `VRoid Fight` are temporal names.
 These names are not intended to narrow the category, but it indicates the started development part.
@@ -14,11 +20,12 @@ These names are not intended to narrow the category, but it indicates the starte
 * A working-in-progress original character created on `xismo`
 * A working-in-progress original character (1) created on `VRoid Studio`
 * A working-in-progress original character (2) created on `VRoid Studio`
+* `VRoid Hub` 🔗 [XVRF Specimen Male 1](https://hub.vroid.com/characters/6507936595093002129/models/7670077723001265143)
 * `VRoid Hub` 🔗 [じんるい](https://hub.vroid.com/characters/7101894907524669339/models/7778036813709384965)
 
 ## Reserved Specimens
 
-* `VRoid Hub` 🔗 [XVRF Specimen Male 1](https://hub.vroid.com/characters/6507936595093002129/models/7670077723001265143)
+...
 
 ## Powered by
 
