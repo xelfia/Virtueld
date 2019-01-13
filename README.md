@@ -4,6 +4,9 @@
 * Works preliminarily on `Unity 2018.3.0f2`
 * [License / Third party notices](LICENSE.md)
 
+📷2019-01-13: local VRM import screen<br/>
+<img src="snapshot/XVRF2019-01-13-00.png" width="20%"/><img src="snapshot/XVRF2019-01-13-01.png" width="20%"/><img src="snapshot/XVRF2019-01-13-02.png" width="20%"/><img src="snapshot/XVRF2019-01-13-03.png" width="20%"/>
+
 📷2019-01-07<br/>
 <img src="snapshot/XVRF2019-01-07-00.png" width="20%"/><img src="snapshot/XVRF2019-01-07-01.png" width="20%"/><img src="snapshot/XVRF2019-01-07-02.png" width="20%"/><img src="snapshot/XVRF2019-01-07-03.png" width="20%"/>
 
