@@ -4,6 +4,7 @@ body {
     font-family: 'Noto Sans JP', sans-serif;
     margin: 5%;
     line-height: 200%;
+    background-color: #FFF6F0;
 }
 h1 {
     font-family: 'Noto Sans JP', sans-serif;
@@ -34,5 +35,6 @@ hr {
     color: #883333;
     background-color: #FFEE88;
     margin: 4px;
-    padding: 4px;
+    padding: 4px 8px 4px 8px;
+    border-radius: 4px;
 }
