@@ -1,0 +1,24 @@
+﻿/* 🆇🅴🅻🅵 ©2019 XELF */
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 5%;
+}
+h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    font-size: 180%;
+}
+h2 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    font-size: 160%;
+}
+h2 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    font-size: 140%;
+}
+hr {
+    border: 1px solid black;
+}
