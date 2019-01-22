@@ -3,6 +3,7 @@
 body {
     font-family: 'Noto Sans JP', sans-serif;
     margin: 5%;
+    line-height: 200%;
 }
 h1 {
     font-family: 'Noto Sans JP', sans-serif;
@@ -21,4 +22,17 @@ h2 {
 }
 hr {
     border: 1px solid black;
+}
+.copyright {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 75%;
+    color: #333333;
+}
+.note {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 75%;
+    color: #883333;
+    background-color: #FFEE88;
+    margin: 4px;
+    padding: 4px;
 }
