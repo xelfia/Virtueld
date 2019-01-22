@@ -10,13 +10,16 @@ h1 {
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 900;
     font-size: 180%;
+    margin: 0% -6% 0% -6%;
+    padding: 2px 6% 2px 6%;
+    background-color: #FFFFFF;
 }
 h2 {
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 900;
     font-size: 160%;
 }
-h2 {
+h3 {
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 900;
     font-size: 140%;
@@ -28,6 +31,9 @@ hr {
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 75%;
     color: #333333;
+    margin: 0% -6% 0% -6%;
+    padding: 2px 6% 2px 6%;
+    background-color: #FFFFFF;
 }
 .note {
     font-family: 'Noto Sans JP', sans-serif;
