@@ -1,3 +1,5 @@
+<img src="image/xvrf-title-icon.png"/>
+
 # XVRF Outpost
 * Project `XVRF` (working title) teaser site
 * A 🎮 game development project by individual developer
