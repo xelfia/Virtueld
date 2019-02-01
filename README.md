@@ -3,7 +3,7 @@
 # XVRF Outpost
 * Project `XVRF` (working title) teaser site
 * A 🎮 game development project by individual developer
-* Works preliminarily on `Unity 2018.3.2f1` / `UniVRM 0.45`
+* Works preliminarily on `Unity 2018.3.3f1` / `UniVRM 0.45` / `VRoid SDK 0.0.14`
 * [License / Third party notices](LICENSE.md)
 
 📷2019-01-13: local VRM import screen<br/>
@@ -35,7 +35,7 @@ These names are not intended to narrow the category, but it indicates the starte
 
 ## Powered by
 
-* 🔗 [`Unity`](https://unity3d.com/) 🔗 [UniVRM](https://github.com/dwango/UniVRM) 🔗 [VRoid Studio](https://studio.vroid.com/) 🔗 [VRoid Hub](https://hub.vroid.com/)
+* 🔗 [`Unity`](https://unity3d.com/) 🔗 [UniVRM](https://github.com/dwango/UniVRM) 🔗 [VRoid Studio](https://studio.vroid.com/) 🔗 [VRoid Hub](https://hub.vroid.com/) 🔗 [VRoid SDK](https://developer.vroid.com/sdk/)
 
 ## Topics
 
