@@ -6,6 +6,9 @@
 * Works preliminarily on `Unity 2018.3.3f1` / `UniVRM 0.45` / `VRoid SDK 0.0.14`
 * [License / Third party notices](LICENSE.md)
 
+📷2019-02-01: VRoid Hub available<br/>
+<img src="snapshot/XVRF2019-02-01-00.png" width="20%"/><img src="snapshot/XVRF2019-02-01-01.png" width="20%"/><img src="snapshot/XVRF2019-02-01-02.png" width="20%"/>
+
 📷2019-01-13: local VRM import screen<br/>
 <img src="snapshot/XVRF2019-01-13-00.png" width="20%"/><img src="snapshot/XVRF2019-01-13-01.png" width="20%"/><img src="snapshot/XVRF2019-01-13-02.png" width="20%"/><img src="snapshot/XVRF2019-01-13-03.png" width="20%"/>
 
