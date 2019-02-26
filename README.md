@@ -3,7 +3,7 @@
 # XVRF Outpost
 * Project `XVRF` (working title) teaser site
 * A 🎮 game development project by individual developer
-* Works preliminarily on `Unity 2018.3.6f1` / `UniVRM 0.50` / `VRoid SDK 0.0.14`
+* Works preliminarily on `Unity 2018.3.6f1` / `UniVRM 0.50` / `VRoid SDK 0.0.15`
 * [License / Third party notices](LICENSE.md)
 
 📷2019-02-01: VRoid Hub available<br/>
