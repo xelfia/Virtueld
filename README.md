@@ -7,7 +7,7 @@
 * [License / Third party notices](LICENSE.md)
 
 📷2019-03-03: ᚡᛆᛚᚴᚤᚱᛄᛆ - HDRP edition as a promotional material</br>⚠HDRP game versions are currently not planned<br/>
-<img src="snapshot/Valkyrie 2019-02-26 1200x2400.png" width="20%"/>
+<img src="snapshot/Valkyrie 2019-02-26 1200x2400.png" width="10%"/>
 
 📷2019-02-01: VRoid Hub available<br/>
 <img src="snapshot/XVRF2019-02-01-00.png" width="20%"/><img src="snapshot/XVRF2019-02-01-01.png" width="20%"/><img src="snapshot/XVRF2019-02-01-02.png" width="20%"/>
