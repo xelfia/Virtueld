@@ -25,9 +25,9 @@ These names are not intended to narrow the category, but it indicates the starte
 
 ## Snapshots Cast by
 
-* A working-in-progress character created by XELF on `xismo`
+* `VRoid Hub` 🔗 [ᚡᛆᛚᚴᚤᚱᛄᛆ](https://hub.vroid.com/characters/5500341240985797385/models/2347767225951567710): Valkyrie / Valkyrja / ᚡᛆᛚᚴᚤᚱᛄᛆ / 🆅alky🆁ie created by XELF on `XISMO`
 * A working-in-progress character (1) created by XELF on `VRoid Studio`
-* `Vroid Hub` 🔗 [Victorine](https://hub.vroid.com/characters/1204568412013961579/models/5757254838117644958): XVRF Specimen Female 2 created by XELF on `VRoid Studio`
+* `VRoid Hub` 🔗 [Victorine](https://hub.vroid.com/characters/1204568412013961579/models/5757254838117644958): XVRF Specimen Female 2 created by XELF on `VRoid Studio`
 * `VRoid Hub` 🔗 [XVRF Specimen Male 1](https://hub.vroid.com/characters/6507936595093002129/models/7670077723001265143) created by XELF on `VRoid Studio`
 * `VRoid Hub` 🔗 [じんるい](https://hub.vroid.com/characters/7101894907524669339/models/7778036813709384965)
 * `VRoid Hub` 🔗 [うさ](https://hub.vroid.com/characters/8735174771329069411/models/7787870287866500519)
