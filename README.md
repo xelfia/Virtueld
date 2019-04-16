@@ -3,8 +3,7 @@
 # XVRF Outpost
 * Project `XVRF` (working title) teaser site
 * A 🎮 game development project by individual developer
-* Works preliminarily on `Unity 2019.1.0f1` (rc1) / `UniVRM 0.50` / `VRoid SDK 0.0.17` as a trial
-* Works preliminarily on `Unity 2018.3.7f1` / `UniVRM 0.50` / `VRoid SDK 0.0.17` as a base
+* Works preliminarily on `Unity 2019.1.0f2` / `UniVRM 0.50` / `VRoid SDK 0.0.17`
 * [License / Third party notices](LICENSE.md)
 
 📷2019-03-03: ᚡᛆᛚᚴᚤᚱᛄᛆ - HDRP edition as a promotional material</br>⚠HDRP game versions are currently not planned<br/>
