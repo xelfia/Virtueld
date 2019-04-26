@@ -73,10 +73,10 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
   * For combat, left stick and 4 buttons are mainly used.
   * Additional buttons are also used auxiliary.
   * `Skill` (Command inputs) will be short (in planned).
-* Though gamepad is recommended, you can also play with Keyboard/Mouse under your input bindings.
+* Though gamepad is recommended, you can also play with Keyboard/Mouse.
 
 * ~You can customize the input bindings on `Input` tab of Configuration dialog.~
-* XVRF now works with the New Input System. Since 4 buttons of any gamepad are mapped as `Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ` below under the New Input System. So I think you can play by default as expected bindings.
+* XVRF now works with the [New Input System](https://github.com/Unity-Technologies/InputSystem). Since 4 buttons of any gamepad are mapped as `Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ` below under the New Input System. So I think you can play by default as expected bindings.
 > Configuration under the New Input System is not provided in current versions. I apologize for the inconvenience.
 
 ### Abstract Gamepad on New Input System (overview)
@@ -127,20 +127,27 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Controls|Your Position|Opponent Position|Default Move|Skills (optional)|
 |----|----|----|----|----|
 |🄻¹+🅁¹|-|-|Reset Combat in Training Mode|-|
-|→|`Stand`|-|`Step Forward`|-|
+|→|`Stand`|-|`Run Forward`|-|
 |←|`Stand`|-|`Step Backward`|-|
 |↑|`Stand`|-|`Step Leftward`|-|
 |↓|`Stand`|-|`Step Rightward`|-|
-|Ⓐ|`Stand`|-|-|`Punch`|
+|Ⓐ|`Stand`|Your Forward|-|`Punch`|
+|Ⓐ|`Stand`|Your Behind|-|`Round Back Fist`|
 |Ⓐ|`Punch`|-|-|`Jab`|
 |→Ⓐ|`Stand`|-|-|`Splash`|
-|Ⓚ|`Stand`|-|-|`Round Kick`|
-|→Ⓚ|`Stand`|-|-|`Low Kick`|
+|Ⓚ|`Stand`|-|-|`Low Kick`|
+|→Ⓚ|`Stand`|-|-|`Sliding Kick`|
+|←Ⓚ|`Stand`|-|-|`Round Kick`|
 |Ⓖ|`Stand`|-|`Guard`|-|
-|Ⓣ|`Stand`|`Stand`|-|`Round Throw`|
+|→Ⓣ|`Stand`|`Stand`|-|`Jumping Closed Guard`|
+|←Ⓣ|`Stand`|`Stand`|-|`Round Throw`|
 |Ⓣ|`Stand`|`Supine`/`Prone`|-|`Kneeling Mount`|
+|Ⓣ|`Stand`|Not Face Forward|-|`Turn` to face forward|
 |Ⓐ|`Kneeling Mount`|`Supine`/`Prone`|-|`Kneeling Slam`|
-|→|`Supine`/`Prone`|-|`Kip up`|-|
+|→|`Kneeling Mount`|-|`On All Fours`|-|
+|→|`Supine`|-|`Get up off`|-|
+|←|`Supine`|-|`Kip up`|-|
+|→|`Prone`|-|`Get up off via Crouch`|-|
 |↑/↓|	`Supine`/`Prone`|Not Mounted|`Roll Over`|-|
 |etc…|…|…|…|…|
 
