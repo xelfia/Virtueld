@@ -65,7 +65,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 * only as a guide
 
-## 🎮 ☛ [How to Control / Input Device](controls.md)
+## 🎮 ☛ [How to Control / Input Device](controls.md) [`English`](controls.md) [`Japanese`](ja/controls.md)
 
 ## 📜 Feedback / Report a Bug
 
