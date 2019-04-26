@@ -45,7 +45,7 @@
 
 #### Notations and Input Bindings 
 
-|Symbols (notations)|~Name on `Input` tab (deprecated)~|Basic Usage|Gamepad (fixed)|Keyboard (fixed)| Mouse (fixed)|
+|Symbols (notations)|~Name on `Input` tab~ (deprecated)|Basic Usage|🎮Gamepad|⌨Keyboard|🖱Mouse|
 |----|----|----|----|----|----|
 |Ⓐ|Ⓐ Attack|Attack|`Ⓝ`|`[↑]` or Left `[Alt]`|`Left`|
 |Ⓚ|Ⓚ Kick|Kick|`Ⓔ`|`[→]` or `[Z]`|`Right`|
