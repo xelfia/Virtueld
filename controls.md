@@ -78,10 +78,13 @@
 |←|`Stand`|-|`Step Backward`|-|
 |↑|`Stand`|-|`Step Leftward`|-|
 |↓|`Stand`|-|`Step Rightward`|-|
+|↗|`Stand`|Your Closed Forward|`Step Around Left`|-|
+|↘|`Stand`|Your Closed Forward|`Step Around Right`|-|
 |Ⓐ|`Stand`|Your Forward|-|`Punch`|
 |Ⓐ|`Stand`|Your Behind|-|`Round Back Fist`|
 |Ⓐ|`Punch`|-|-|`Jab`|
 |→Ⓐ|`Stand`|-|-|`Splash`|
+|←Ⓐ|`Stand`|-|-|`Dosal Tackle`|
 |Ⓚ|`Stand`|-|-|`Low Kick`|
 |→Ⓚ|`Stand`|-|-|`Sliding Kick`|
 |←Ⓚ|`Stand`|-|-|`Round Kick`|
