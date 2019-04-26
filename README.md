@@ -74,7 +74,20 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
   * Additional buttons are also used auxiliary.
   * `Skill` (Command inputs) will be short (in planned).
 * Though gamepad is recommended, you can also play with Keyboard/Mouse under your input bindings.
-* You can customize the input bindings on `Input` tab of Configuration dialog.
+
+* ~You can customize the input bindings on `Input` tab of Configuration dialog.~
+* XVRF now works with the New Input System. Since 4 buttons of any gamepad are mapped as `Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ` below under the New Input System. So I think you can play by default as expected bindings.
+> Configuration under the New Input System is not provided in current versions. I apologize for the inconvenience.
+
+### Abstract Gamepad on New Input System (overview)
+
+| - | - | - | - | - | - | - | - |
+|----|----|----|----|----|----|----|----|
+| `Lt` | | | | | | | `Rt` |
+| `Ls` | | | | | | | `Rs` |
+| |`↑`| | | | |`Ⓝ`| |
+|`←`| |`→`|`Select` | `Start` |`Ⓦ`| |`Ⓔ`|
+| |`↓`| | | | |`Ⓢ`| |
 
 ### How to open the Configuration dialog
 
@@ -85,17 +98,17 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 * Following notations are for generalize input devices.
 * Symbols are shown as similar icons in game screen.
 
-|Symbols (notations)|Name on `Input` tab|Basic Usage|
-|----|----|----|
-|Ⓐ|Ⓐ Attack|Attack|
-|Ⓚ|Ⓚ Kick|Kick|
-|Ⓣ|Ⓣ Throw|Throw / Face to Opponent / Clinch|
-|Ⓖ|Ⓖ Guard|Guard|
-|←/→|Left Stick Horizontal|Move / Naviagte on Menu|
-|↑/↓|Left Stick Vertical|Move / Navigate on Menu|
-|🄻¹|L1|-|
-|🅁¹|L2|-|
-|🔙|Back|Go Back on Menu / Open Escape Menu|
+|Symbols (notations)|~Name on `Input` tab~|Basic Usage|Gamepad (fixed)|Keyboard (fixed)| Mouse (fixed)|
+|----|----|----|----|----|----|
+|Ⓐ|Ⓐ Attack|Attack|`Ⓝ`|`↑` or Left `Alt`|`Left`|
+|Ⓚ|Ⓚ Kick|Kick|`Ⓔ`|`→` or `Z`|`Right`|
+|Ⓣ|Ⓣ Throw|Throw / Face to Opponent / Clinch|`Ⓦ`|`←` or `X`|`Middle`|
+|Ⓖ|Ⓖ Guard|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
+|←/→|Left Stick Horizontal|Move / Naviagte on Menu|`←`/`→`|`A`/`D`|-|
+|↑/↓|Left Stick Vertical|Move / Navigate on Menu|`↑`/`↓`|`W`/`S`|-|
+|🄻¹|L1|-|`Ls`|`R` (temporal)|-|
+|🅁¹|R1|-|`Rs`|`R` (temporal)|-|
+|🔙|Back|Go Back on Menu / Open Escape Menu|`Select`|`Esc`|-|
 
 ### Controls in Menu
 
