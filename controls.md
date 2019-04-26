@@ -1,8 +1,8 @@
 <img src="image/xvrf-title-icon.png"/>
 
-[🔙](README.md)
+[🔙](README.md) | `English` | [`Japanese`](ja/controls.md)
 
-## How to Control / Input Device
+## 🎮 How to Control / Input Device
 
 > This is preliminary
 
@@ -13,7 +13,8 @@
 * Though gamepad is recommended, you can also play with Keyboard/Mouse.
 
 * ~You can customize the input bindings on `Input` tab of Configuration dialog.~
-* XVRF now works with the [New Input System](https://github.com/Unity-Technologies/InputSystem). Since 4 buttons of any gamepad are mapped as `Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ` below under the New Input System. So I think you can play by default as expected bindings.
+* XVRF now works with the Unity [New Input System](https://github.com/Unity-Technologies/InputSystem).
+  * Since 4 buttons of any gamepad are mapped as `Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ` below under the New Input System. So I think you can play by default as expected bindings.
 
 ### Abstract Gamepad on New Input System (overview)
 
@@ -30,17 +31,17 @@
 * Following notations are for generalize input devices.
 * Symbols are shown as similar icons in game screen.
 
-|Symbols (notations)|~Name on `Input` tab~|Basic Usage|Gamepad (fixed)|Keyboard (fixed)| Mouse (fixed)|
+|Symbols (notations)|~Name on `Input` tab (deprecated)~|Basic Usage|Gamepad (fixed)|Keyboard (fixed)| Mouse (fixed)|
 |----|----|----|----|----|----|
-|Ⓐ|Ⓐ Attack|Attack|`Ⓝ`|`↑` or Left `Alt`|`Left`|
-|Ⓚ|Ⓚ Kick|Kick|`Ⓔ`|`→` or `Z`|`Right`|
-|Ⓣ|Ⓣ Throw|Throw / Face to Opponent / Clinch|`Ⓦ`|`←` or `X`|`Middle`|
+|Ⓐ|Ⓐ Attack|Attack|`Ⓝ`|`[↑]` or Left `[Alt]`|`Left`|
+|Ⓚ|Ⓚ Kick|Kick|`Ⓔ`|`[→]` or `[Z]`|`Right`|
+|Ⓣ|Ⓣ Throw|Throw / Face to Opponent / Clinch|`Ⓦ`|`[←]` or `[X]`|`Middle`|
 |Ⓖ|Ⓖ Guard|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
-|←/→|Left Stick Horizontal|Move / Naviagte on Menu|`←`/`→`|`A`/`D`|-|
-|↑/↓|Left Stick Vertical|Move / Navigate on Menu|`↑`/`↓`|`W`/`S`|-|
-|🄻¹|L1|-|`Ls`|`R` (temporal)|-|
-|🅁¹|R1|-|`Rs`|`R` (temporal)|-|
-|🔙|Back|Go Back on Menu / Open Escape Menu|`Select`|`Esc`|-|
+|←/→|Left Stick Horizontal|Move / Naviagte on Menu|`←`/`→`|`[A]`/`[D]`|-|
+|↑/↓|Left Stick Vertical|Move / Navigate on Menu|`↑`/`↓`|`[W]`/`[S]`|-|
+|🄻¹|L1|-|`Ls`|`[R]` (temporal)|-|
+|🅁¹|R1|-|`Rs`|`[R]` (temporal)|-|
+|🔙|Back|Go Back on Menu / Open Escape Menu|`Select`|`[Esc]`|-|
 
 ### Controls in Menu
 
@@ -52,8 +53,8 @@
 
 ### Controls in Combat
 
-* Your Position and Opponent Position are required conditions.
-* Skills are optional: character customizable features (in planned).
+* **Your Position** and **Opponent Position** indicate required conditions.
+* **Skills** are optional: character customizable features (in planned).
 * ⚠ Note that described as when you are facing rightward view in screen.
 
 |Controls|Your Position|Opponent Position|Default Move|Skills (optional)|
@@ -80,7 +81,7 @@
 |→|`Supine`|-|`Get up off`|-|
 |←|`Supine`|-|`Kip up`|-|
 |→|`Prone`|-|`Get up off via Crouch`|-|
-|↑/↓|	`Supine`/`Prone`|Not Mounted|`Roll Over`|-|
+|↑/↓|`Supine`/`Prone`|Not Mounted|`Roll Over`|-|
 |etc…|…|…|…|…|
 
 ### How to open the Configuration dialog
