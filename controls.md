@@ -18,18 +18,32 @@
 
 ### Abstract Gamepad on New Input System (overview)
 
+* Look following chart as a gamepad 🎮
+
 | - | - | - | - | - | - | - | - |
 |----|----|----|----|----|----|----|----|
 | `Lt` | | | | | | | `Rt` |
 | `Ls` | | | | | | | `Rs` |
 | |`↑`| | | | |`Ⓝ`| |
-|`←`| |`→`|`Select` | `Start` |`Ⓦ`| |`Ⓔ`|
+|`←`|L-stick|`→`|`Select` | `Start` |`Ⓦ`| |`Ⓔ`|
 | |`↓`| | | | |`Ⓢ`| |
 
-### Notations
+### Gamepad Bindings on XVRF (default)
 
 * Following notations are for generalize input devices.
 * Symbols are shown as similar icons in game screen.
+
+| - | - | - | - | - | - | - | - |
+|----|----|----|----|----|----|----|----|
+| `🄻²` | | | | | | | `🅁²` |
+| `🄻¹` | | | | | | | `🅁¹` |
+| |`↑`| | | | |`Ⓐ`| |
+|`←`|L-stick|`→`|`🔙` | `⇒` |`Ⓣ`| |`Ⓚ`|
+| |`↓`| | | | |`Ⓖ`| |
+
+* ⚠ Arrows are L-stick inputs (not D-pad).
+
+#### Notations and Input Bindings 
 
 |Symbols (notations)|~Name on `Input` tab (deprecated)~|Basic Usage|Gamepad (fixed)|Keyboard (fixed)| Mouse (fixed)|
 |----|----|----|----|----|----|
