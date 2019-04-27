@@ -12,13 +12,13 @@
   * `Skill` (Command inputs) will be short (in planned).
 * Though gamepad is recommended, you can also play with Keyboard/Mouse.
 
-* ~You can customize the input bindings on `Input` tab of Configuration dialog.~
+* `deprecated` ~You can customize the input bindings on `Input` tab of Configuration dialog.~
 * XVRF now works with the Unity [New Input System](https://github.com/Unity-Technologies/InputSystem).
   * Since 4 buttons of any gamepad are mapped as `Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ` below under the New Input System. So I think you can play by default as expected bindings.
 
 ### Abstract Gamepad on New Input System (overview)
 
-* Look following chart as a gamepad 🎮
+* Look the following chart as a gamepad 🎮.
 
 | - | - | - | - | - | - | - | - |
 |----|----|----|----|----|----|----|----|
@@ -89,8 +89,8 @@
 |→Ⓚ|`Stand`|-|-|`Sliding Kick`|
 |←Ⓚ|`Stand`|-|-|`Round Kick`|
 |Ⓖ|`Stand`|-|`Guard`|-|
-|→Ⓣ|`Stand`|`Stand`|-|`Jumping Closed Guard`|
-|←Ⓣ|`Stand`|`Stand`|-|`Round Throw`|
+|→Ⓣ|`Stand`|`Stand`|Your Closed Forward|`Jumping Closed Guard`|
+|←Ⓣ|`Stand`|`Stand`|Your Closed Forward|`Round Throw`|
 |Ⓣ|`Stand`|`Supine`/`Prone`|-|`Kneeling Mount`|
 |Ⓣ|`Stand`|Not Face Forward|-|`Turn` to face forward|
 |Ⓐ|`Kneeling Mount`|`Supine`/`Prone`|-|`Kneeling Slam`|
@@ -104,7 +104,7 @@
 ### How to open the Configuration dialog
 
 * Open XVRF's `.exe` file with holding `[Ctrl]` to start the game app.
-> ⚠ Configuration under the New Input System is not provided in current versions. I apologize for the inconvenience.
+> ⚠ Configuration for the New Input System is not provided in current versions. I apologize for the inconvenience.
 
 --------
 🆇🅴🅻🅵
