@@ -1,16 +1,20 @@
 <img src="image/xvrf-title-icon.png"/>
 
 # XVRF Outpost
-* Project `XVRF` (working title) teaser site
+* `XVRF` (working title) home site
 * A 🎮 game development project by individual developer
-* Works preliminarily on `Unity 2019.1.0f2` / `UniVRM 0.50` / `VRoid SDK 0.0.17`
+* Works on `Unity 2019.1.0f2` / `UniVRM 0.50` / `VRoid SDK 0.0.17`
 * [License / Third party notices](LICENSE.md)
 
-# User's Manual
+## Downloads
+
+* ☛ [XVRF Downloads](https://xelf.booth.pm/items/1341365) for `Windows 10`
+
+## User's Manual
 
 `English (N/A)` / [`Japanease`](ja/manual.md)
 
-# History
+## History
 
 * 2019-05-01: 0.1.37 Early Access (as prototype / alpha) version released (first version).
 
