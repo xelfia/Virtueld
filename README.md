@@ -8,7 +8,7 @@
 
 ## Downloads
 
-* ☛ [XVRF Downloads](https://xelf.booth.pm/items/1341365) for `Windows 10`
+☛ [XVRF Download Site](https://xelf.booth.pm/items/1341365) for `Windows 10`
 
 ## User's Manual
 
