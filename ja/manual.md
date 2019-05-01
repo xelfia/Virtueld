@@ -178,7 +178,7 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 * [xelfia@twitter.com](https://twitter.com/xelfia)
 
 * 最新版 XVRF ダウンロードサイト: https://xelf.booth.pm/items/1341365
-* [ライセンス表示](LICENSE.md)
+* [ライセンス表示](../LICENSE.md)
 
 --------
 🆇🅴🅻🅵
