@@ -89,11 +89,7 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 * If the in-game `Report` is not available, use the web form instead (in planned).
 
-## To be continued…❓
-
-❓❓❓
-
-## Schedule
+## Schedule before 0.1.37
 
 * I am thinking about taking like the early access development model and to build this up with future patrons / supporters help. If so, it will do on a small scale. Though the informations limited, how do you think about it?
 
@@ -103,7 +99,7 @@ If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
 
 |||
 |----|----|
-|Early Access Date|TBD|
+|Early Access Date|2019/5/1 `0.1.37` Public Early Access released|
 |Release Date|TBD|
 
 ## Attitude Survey for Early Access
