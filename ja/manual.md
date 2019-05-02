@@ -174,7 +174,7 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 ## 更新履歴 / Update Logs
 
 ### 0.1.38
-* MToon描画をUnity 2019.1.0f2対応版に部分更新 by [MToon #44](https://github.com/Santarh/MToon/issues/44) / [diff](https://github.com/Santarh/MToon/commit/cbd3777fa9f29333c618eacb7b01857b953d729d#diff-50d180701d9ac0bb8b4772401996da0f)
+* MToon描画をUnity 2019.1.0f2対応版に部分更新 ← [MToon #44](https://github.com/Santarh/MToon/issues/44) / [diff](https://github.com/Santarh/MToon/commit/cbd3777fa9f29333c618eacb7b01857b953d729d#diff-50d180701d9ac0bb8b4772401996da0f)
   * `Unity 2019.1.0f2`で`MToon`シェーダを使うキャラクターモデルの描画がおかしくなります。
 ### 0.1.37
   * 初公開（アーリーアクセス版）
