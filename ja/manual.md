@@ -21,8 +21,8 @@
 
 # 起動方法
 
-* zipファイルをすべて展開する。（ダウンロードした後の初回）
-* 展開したフォルダの`XVRF.exe`を開く。
+1. zipファイルをすべて展開する。（ダウンロードした後の初回）
+2. 展開したフォルダの`XVRF.exe`を開く。
 
 > * OSやセキュリティ対策ソフトウェアによる保護の動作に対しては、一般的な手順に従ってお願いいたします。
 > * 更新版は改めてダウンロードし、同じ手順で起動してください。
@@ -42,7 +42,7 @@
 |`Discord`|（仮設置です。今後解説を検討）|
 |`Web`| [暫定公式サイト](../README.md)を開きます。|
 |`📜Report`| ソフトウェアの動作に関する報告フォームです。内容に問題なければ`Send`で送信できます。これが利用できない場合は、ほかの連絡方法でお知らせください。|
-|`⚙Settings`|設定です。（後述）|
+|`⚙Settings`|設定画面を開きます。（後述）|
 |`Quit`|ゲームを終了します。（確認あり）|
 
 # 設定 / `⚙Settings`
@@ -174,7 +174,7 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 ## 更新履歴 / Update Logs
 
 ### 0.1.38
-* MToon描画をUnity 2019.1.0f2対応版に部分更新 ← [MToon #44](https://github.com/Santarh/MToon/issues/44) / [diff](https://github.com/Santarh/MToon/commit/cbd3777fa9f29333c618eacb7b01857b953d729d#diff-50d180701d9ac0bb8b4772401996da0f)
+* MToon描画を`Unity 2019.1.0f2`対応版に部分更新 ← [MToon #44](https://github.com/Santarh/MToon/issues/44) / [diff](https://github.com/Santarh/MToon/commit/cbd3777fa9f29333c618eacb7b01857b953d729d#diff-50d180701d9ac0bb8b4772401996da0f)
   * `Unity 2019.1.0f2`で`MToon`シェーダを使うキャラクターモデルの描画がおかしくなります。
 ### 0.1.37
   * 初公開（アーリーアクセス版）
@@ -187,7 +187,7 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 
 ## 情報共有 / 連絡先
 
-* 推奨Twitterタグ（仮）: `#XVRF`
+* 推奨Twitterハッシュタグ（仮）: `#XVRF`
 
 * [xelfia@twitter.com](https://twitter.com/xelfia)
 
@@ -197,4 +197,3 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 --------
 🆇🅴🅻🅵
 ©2018-2019 XELF
-
