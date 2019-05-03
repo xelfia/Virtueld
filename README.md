@@ -16,6 +16,7 @@
 
 ## History
 
+* For more details and/or newer logs, see User's Manual (above).
 * 2019-05-01: 0.1.37 Early Access (as prototype / alpha) version released (first version).
 
 📷2019-03-03: ᚡᛆᛚᚴᚤᚱᛄᛆ - HDRP edition as a promotional material</br>⚠HDRP game versions are currently not planned<br/>
