@@ -37,7 +37,7 @@
 |---|---|
 |`👤🆚🤖`| 一人プレイ（プレイヤー対AI）を開始します。|
 |`🤖🆚🤖`| AI対AIの対戦デモを開始します。|
-|`Enable to start from URL`|この機能を設定をすると、 https://xelfia.github.io/XVRF-Outpost/ のページにある「▶️XVRF」のリンクから、あなたのWindowsにあるXVRFが起動できるようになります。通常はWindowsによるセキュリティの確認があります。進めた場合、XVRFをもう1つ起動して（Unityロゴが出て）、まもなく閉じます。もとのゲーム内で「Succeeded」が出れば、設定に成功しています。|
+|`Enable to start from URL`|この機能を設定をすると、 https://xelfia.github.io/XVRF-Outpost/ のページにある`▶️XVRF`のリンクから、あなたのWindowsにあるXVRFが起動できるようになります。通常はWindowsによるセキュリティの確認があります。進めた場合、XVRFをもう1つ起動して（Unityロゴが出て）、まもなく閉じます。もとのゲーム内で「Succeeded」が出れば、設定に成功しています。|
 |`👤Character Selection`| キャラクター選択画面に移動します。（後述）|
 |`Discord`|（仮設置です。今後解説を検討）|
 |`Web`| [暫定公式サイト](../README.md)を開きます。|
@@ -173,12 +173,13 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 
 ## 更新履歴 / Update Logs
 
-### 0.1.40
-* 一部画像を更新しました。有効期限を設定しました。期限切れの表示となった場合は最新版を探してみてください。
-### 0.1.38
+### 0.1.40 on `Unity 2019.1.0f2` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
+* 一部画像を更新しました。
+* 有効期限を設定しました。期限切れの表示となった場合は最新版を探してみてください。
+### 0.1.38 on `Unity 2019.1.0f2` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * MToon描画を`Unity 2019.1.0f2`対応版に部分更新 ← [MToon #44](https://github.com/Santarh/MToon/issues/44) / [diff](https://github.com/Santarh/MToon/commit/cbd3777fa9f29333c618eacb7b01857b953d729d#diff-50d180701d9ac0bb8b4772401996da0f)
   * `Unity 2019.1.0f2`で`MToon`シェーダを使うキャラクターモデルの描画がおかしくなります。
-### 0.1.37
+### 0.1.37 on `Unity 2019.1.0f2` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * 初公開（アーリーアクセス版）
 
 ## 🎮操作方法と入力デバイス
