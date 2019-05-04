@@ -100,7 +100,7 @@ If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
 
 |||
 |----|----|
-|Early Access Date|2019/5/1 `0.1.37` Public Early Access released|
+|Early Access Date|2019-05-01 `0.1.37` Public Early Access released|
 |Release Date|TBD|
 
 ## Attitude Survey for Early Access
