@@ -112,6 +112,7 @@ If you have interested in XVRF, feel free to submit the [📜Form](https://docs.
 ## Developers' References
 
 * 🔗 `Japanese` [VRoid 更新履歴 🌟 VRoid Update History](https://twitter.com/i/moments/1038317938049134592)
+* 🔗 Anyone can help: Unity Editor crash [Shared Stack Traces](https://scrapbox.io/XVRF/Shared_Stack_Traces)
 
 --------
 🆇🅴🅻🅵
