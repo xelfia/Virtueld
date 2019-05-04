@@ -1,7 +1,7 @@
 # XVRF Credits (preliminary)
 
 
-* ©2018 XELF
+* ©2018-2019 XELF
 
 `Other License`
 
@@ -52,7 +52,7 @@ SOFTWARE.
 
 `MIT`
 
-🔗 https://github.com/dwango/UniVRM
+🔗 https://github.com/vrm-c/UniVRM
 
 
 MIT License
@@ -139,5 +139,15 @@ SOFTWARE.
 `Creative Commons Attribution 3.0 Unported`
 
 🔗 https://freesound.org/people/Nightflame/sounds/397599/
+
+
+
+## Note Serif JP
+
+
+
+`SIL OPEN FONT LICENSE Version 1.1`
+
+🔗 https://www.google.com/get/noto/
 
 
