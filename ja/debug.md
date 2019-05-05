@@ -1,6 +1,6 @@
 <img src="../image/xvrf-title-icon.png"/>
 
-[🔙](../README.md) | [`取扱説明書`](manual.md) | [`操作方法`](controls.md) | `更新履歴` | `デバッグツール` | `English (N/A)` | `Japanese`
+[🔙](../README.md) | [`取扱説明書`](manual.md) | [`操作方法`](controls.md) | [`更新履歴`](history.md) | `デバッグツール` | `English (N/A)` | `Japanese`
 
 ----
 
