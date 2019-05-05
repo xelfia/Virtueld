@@ -1,6 +1,8 @@
 <img src="../image/xvrf-title-icon.png"/>
 
-[🔙](../README.md) | [`English`](../controls.md) | `Japanese`
+[🔙](../README.md) | [`取扱説明書`](manual.md) | `操作方法` [`更新履歴`](history.md) | [`English`](../controls.md) | `Japanese`
+
+----
 
 ## 🎮 操作方法 / 入力デバイス
 
@@ -10,7 +12,7 @@
   * 戦闘では主に、左スティックと4ボタンを使います。
   * 追加のボタンも補助として使います。
   * `スキル`(コマンド入力)は短いものだけです（予定）。
-* ゲームパッドを推奨しますが、キーボード/マウスでも遊べます。
+* 🎮ゲームパッドを推奨しますが、⌨キーボード/🖱マウスでも遊べます。
 
 * XVRFはUnityの[New Input System](https://github.com/Unity-Technologies/InputSystem)（新しい入力システム）で動作します。
   * New Input Systemでは、各種ゲームパッドの4ボタンが`Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ`に割り当てられます。想定の割り当て通りに既定で遊べると思います。
