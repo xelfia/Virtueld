@@ -1,6 +1,6 @@
 <img src="../image/xvrf-title-icon.png"/> May the XVRF with you
 
-[🔙](../README.md) | `取扱説明書` | [`操作方法`](controls.md) | [`更新履歴`](history.md) | `English (N/A)` | `Japanese`
+[🔙](../README.md) | `取扱説明書` | [`操作方法`](controls.md) | [`更新履歴`](history.md) | [`デバッグツール`](debug.md) | `English (N/A)` | `Japanese`
 
 ----
 
@@ -89,7 +89,7 @@
 
 VRM作者などのクリエイティブな方に、効果的に活用していただけるような機能を入れています。
 
-* 今後解説を検討しています。
+☛ `English (N/A)` [`Japanese`](debug.md)
 
 # キャラクターの選択方法 / `👤Character Selection`
 
