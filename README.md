@@ -3,7 +3,7 @@
 ||||||
 |-|-|-|-|-|
 **`English`**: | [`User's Manual`](manual.md) | [`Controls`](controls.md) | ~`History`~ | ~`Debug Tools`~
-**`Japanese`**: | [`取扱説明書`](ja/manual.md) | [`操作方法`](controls.md) | [`更新履歴`](history.md) | [`デバッグツール`](debug.md)
+**`Japanese`**: | [`取扱説明書`](ja/manual.md) | [`操作方法`](controls.md) | [`更新履歴`](ja/history.md) | [`デバッグツール`](ja/debug.md)
 
 ----
 
