@@ -65,7 +65,17 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 # `⚙Settings`
 
-`not translated`
+|||
+|---|---|
+|`Back`|Back to the previous screen.|
+|||
+|`Audio`|Master volume can be adjusted by slider.|
+|`Music`|Music volume can be adjusted by slider.|
+|`Sound Effect`|Sound Effect volume can be adjusted by slider.|
+|`AI Level`|AI's capability can be adjusted by slider. In the current versions, it is simply involved in the percentage of guard actions.|
+|`Active Camera`|When ☑, the camera moves around the subject.|
+|`Debug Tools`|When ☑, Debug tools related UI are displayed. (see below)|
+|`Move by Mouse`|When ☑, The relative movement of the mouse pointer corresponds to the movement input (equivalent to the L-stick on the gamepad 🎮).|
 
 > * Each setting is saved when you change it.
 
