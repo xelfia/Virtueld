@@ -114,7 +114,24 @@ I have added features that can be used effectively by creative people such as VR
 
 ## Controls on `👤Character Selection` screen
 
-`not translated`
+|||
+|---|---|
+|`Back`|Back to the previous screen.|
+|||
+|`P1`|When ☑, after selecting the character, it applies to player 1 `P1` (or AI 1 `A1`).|
+|`P2`|When ☑, after selecting the character, it applies to player 2 `P2` (or AI 2 `A2`).|
+|`Select VRM`|Model name of the selected character is displayed here.|
+|`Author`|Author name of the selected character is displayed here.|
+|`Open Folder`|Open the local VRM Folder📁. (see below)|
+|`⟳`|Reloads the list of character models.|
+|`⚙`|VRoid Hub can be `Link`ed or `Unlink`ed. (See below)|
+|`Local`|Enable/Disable the local VRM files. (See below)|
+|`VRoid Hub`|Enable/Disable your `VRoid Hub` character models. (See below)|
+|`VRoid Hub💛`|Enable/Disable your favorite `VRoid Hub` character models. (See below)|
+|`VRoid Hub★`|Enable/Disable the recommended `VRoid Hub` character models. (See below)|
+
+> * If you do `VRoid Hub` related operations without `VRoid Hub Link`, it will be the screen of `VRoid Hub Link` as well as `⚙`.
+> * The recommended character models are fixed in the game side and are subject to change without notice.
 
 ## Way to select a character
 
