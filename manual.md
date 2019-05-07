@@ -122,15 +122,34 @@ I have added features that can be used effectively by creative people such as VR
 
 ## Link to VRoid Hub
 
-`not translated`
+1. In the game `👤Character Selection`, press `⚙`.
+2. Web browser will automatically open and display the `Vroid Hub` authorization code.
+3. `Copy` the Authorization code in that page.
+4. The authorization code is automatically pasted on the game screen.
+> If you can not enter the authorization code, please contact me (XVRF side) because there is a possibility of specification change etc.
+
+5. Once you have confirmed that the authorization code is pasted, press `Link`.
+6. If it `Succeeded`, go to the next step.
+
+> If it `Failed. Please retry.`, Check the input content / internect connection / service running status etc and retry.
 
 ## Play with character model on VRoid Hub
 
-`not translated`
+1. After linking, let's search your favorite character in [VRoid Hub](https://hub.vroid.com).
+2. Let's press ♡ in that page.
+> * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
+
+3. In the game `👤Character Selection`, press `VRoid Hub` to turn it into ☑.
+4. You will surely find the character and you can play with it.
 
 ## Play with your character model on VRoid Hub
 
-`not translated`
+1. After linking, in the game `👤Character Selection`, press `VRoid Hub` to turn it into ☑.
+2. You will surely find the character and you can play with it.
+
+> * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
+> * If it does not work better than the bundled or standard characters, please refer:
+> ☛ `Japanese` [XVRF Model Definitions / XVRFで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
 
 ## Play with local VRM files
 
@@ -138,7 +157,7 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 > ☛ [About VRM](https://vrm-consortium.org/#vrm) in `Japanese`
 
-1. In`👤Character Selection` screen, press `Open Folder` to open the folder📁 of the following format.
+1. In the `👤Character Selection` screen, press `Open Folder` to open the folder📁 of the following format.
   * `≪drive_letter≫:\Users\≪user_name≫\Documents\VRM`
 2. Place VRM files into this folder📁.
 3. In-game `👤Character Selection` screen, press `Local` to turn it into ☑.
