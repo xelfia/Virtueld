@@ -159,7 +159,7 @@ I have added features that can be used effectively by creative people such as VR
 5. Once you have confirmed that the authorization code is pasted, press `Link`.
 6. If it `Succeeded`, go to the next step.
 
-> If it `Failed. Please retry.`, Check the input content / internect connection / service running status etc and retry.
+> If it `Failed. Please retry.`, Check the input content / internet connection / service running status etc and retry.
 
 ## Play with character model on VRoid Hub
 
