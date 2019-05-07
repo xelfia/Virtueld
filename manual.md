@@ -44,7 +44,7 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 # `🏠Lobby`
 
-> This page contains `(not translated)`: Please also refer to the [`Japanese`](ja/manual.md) version using machine translation etc. 🙇
+> This page contains `not translated`: Please also refer to the [`Japanese`](ja/manual.md) edition using machine translation etc. 🙇
 
 `not translated`
 
