@@ -223,7 +223,7 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 
 * 推奨Twitterハッシュタグ（仮）: `#XVRF`
 * ☛ [xelfia@twitter.com](https://twitter.com/xelfia)
-*　[ライセンス表示](../LICENSE.md)
+* [ライセンス表示](../LICENSE.md)
 
 --------
 🆇🅴🅻🅵
