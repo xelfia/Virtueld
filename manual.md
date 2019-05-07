@@ -57,11 +57,11 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 |`👤🆚🤖`| Start as Single Player (Player versus AI)|
 |`🤖🆚🤖`| Start demo as AI versus AI.|
 |`Enable to start from URL`|If you enable this feature, you can launch XVRF on your Windows from the link `▶️XVRF` on the page https://xelfia.github.io/XVRF-Outpost/. Usually, there is security confirmation by Windows. If you proceed, launch the secondary game app (with the Unity logo) and close it shortly. If `Succeeded` is displayed in the primary game app, it has been successfully enabled.|
-|`👤Character Selection`| Move to Character selection screen. (see below)|
+|`👤Character Selection`| Move to Character selection screen. (See below)|
 |`Discord`|(Provisional exposed. Under considering to describe in the future.)|
 |`Web`| Open the [Offical Web Site](README.md).|
 |`📜Report`| Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods.|
-|`⚙Settings`|Open the Settings screen (see below)|
+|`⚙Settings`|Open the Settings screen. (See below)|
 
 # `⚙Settings`
 
@@ -74,7 +74,7 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 |`Sound Effect`|Sound Effect volume can be adjusted by slider.|
 |`AI Level`|AI's capability can be adjusted by slider. In the current versions, it is simply involved in the percentage of guard actions.|
 |`Active Camera`|When ☑, the camera moves around the subject.|
-|`Debug Tools`|When ☑, Debug tools related UI are displayed. (see below)|
+|`Debug Tools`|When ☑, Debug tools related UI are displayed. (See below)|
 |`Move by Mouse`|When ☑, The relative movement of the mouse pointer corresponds to the movement input (equivalent to the L-stick on the gamepad 🎮).|
 
 > * Each setting is saved when you change it.
@@ -122,7 +122,7 @@ I have added features that can be used effectively by creative people such as VR
 |`P2`|When ☑, after selecting the character, it applies to player 2 `P2` (or AI 2 `A2`).|
 |`Select VRM`|Model name of the selected character is displayed here.|
 |`Author`|Author name of the selected character is displayed here.|
-|`Open Folder`|Open the local VRM Folder📁. (see below)|
+|`Open Folder`|Open the local VRM Folder📁. (See below)|
 |`⟳`|Reloads the list of character models.|
 |`⚙`|VRoid Hub can be `Link`ed or `Unlink`ed. (See below)|
 |`Local`|Enable/Disable the local VRM files. (See below)|
