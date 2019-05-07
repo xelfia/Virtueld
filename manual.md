@@ -67,6 +67,8 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 `not translated`
 
+> * Each setting is saved when you change it.
+
 # `Escape Menu`
 
 `not translated`
