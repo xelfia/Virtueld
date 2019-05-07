@@ -8,7 +8,7 @@
 
 * Although this software is a form of game, please think of it as a prototype (early access) still under development.
 * I'm hoping you enjoy as an app with your favorite VRM characters moving around.
-* I will update this work and explanation as often as possible.
+* I will update this work and descriptions as often as possible.
 
 * ☛ [XVRF Dowload Site](https://xelf.booth.pm/items/1341365)
 
@@ -46,6 +46,10 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 > This page contains `not translated`: Please also refer to the [`Japanese`](ja/manual.md) edition using machine translation etc. 🙇
 
+* After launching the game, you will see the `🏠Lobby`.
+
+> Please note that pictograms described here and in-game icons will look different.
+
 `not translated`
 
 # `⚙Settings`
@@ -71,7 +75,7 @@ I have added features that can be used effectively by creative people such as VR
 * Other characters are available in the following ways.
 
 > Unexpected behavior may occur with not bundled characters.
-> [VRoid Studio](https://studio.vroid.com/) characters of standard design work as it is.
+> [VRoid Studio](https://studio.vroid.com/) characters with a standard design work as it is.
 > What character is a good behavior, or would fit into the world, or funny, or will be an interesting behavior.
 > Please share your experiment on social media etc. ☺
 
