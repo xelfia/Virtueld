@@ -2,7 +2,7 @@
 
 ||||||
 |-|-|-|-|-|
-**`English`**: | ~`User's Manual`~ | [`Controls`](controls.md) | ~`History`~ | ~`Debug Tools`~
+**`English`**: | [`User's Manual`](manual.md) | [`Controls`](controls.md) | ~`History`~ | ~`Debug Tools`~
 **`Japanese`**: | [`取扱説明書`](ja/manual.md) | [`操作方法`](controls.md) | [`更新履歴`](history.md) | [`デバッグツール`](debug.md)
 
 ----
@@ -19,7 +19,7 @@
 
 ## User's Manual
 
-`English (N/A)` / [`Japanease`](ja/manual.md)
+[`English`](manual.md) / [`Japanease`](ja/manual.md)
 
 ## History
 
@@ -73,18 +73,6 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
   * High load at `VRMSpringBone` updating
   * Transparent legs
 
-## 💻 Recommended System Requirements
-
-| |Recommended Specifications|
-|----|----|
-|Operating System|Windows 10 64-bit|
-|Video|DirectX 11 or later|
-|Memory|4GB RAM|
-|Storage|25GB available space|
-|Broadband Internet connection|✅ (as currently planned)|
-
-* only as a guide
-
 ## 🎮 ☛ [How to Control / Input Device](controls.md) [`English`](controls.md) [`Japanese`](ja/controls.md)
 
 ## 📜 Feedback / Report a Bug
@@ -124,4 +112,6 @@ If you have interested in XVRF, feel free to submit the [📜Form](https://docs.
 --------
 🆇🅴🅻🅵
 ©2018-2019 XELF
+
+
 
