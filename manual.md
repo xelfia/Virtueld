@@ -81,7 +81,7 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 # `Escape Menu`
 
-In the combat screen as `👤🆚🤖` (Single play), input 🔙 to display the `Escape Menu`.
+In the combat screen as `👤🆚🤖` (Single Player), input 🔙 to display the `Escape Menu`.
 
 |||
 |---|---|
@@ -150,7 +150,7 @@ I have added features that can be used effectively by creative people such as VR
 
 ## Link to VRoid Hub
 
-1. In the game `👤Character Selection`, press `⚙`.
+1. In the game `👤Character Selection` screen, press `⚙`.
 2. Web browser will automatically open and display the `VRoid Hub` authorization code.
 3. `Copy` the Authorization code in that page.
 4. The authorization code is automatically pasted on the game screen.
@@ -167,12 +167,12 @@ I have added features that can be used effectively by creative people such as VR
 2. Let's press ♡ in that page.
 > * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
 
-3. In the game `👤Character Selection`, press `VRoid Hub` to turn it into ☑.
+3. In the game `👤Character Selection` screen, press `VRoid Hub` to turn it into ☑.
 4. You will surely find the character and you can play with it.
 
 ## Play with your character model on VRoid Hub
 
-1. After linking, in the game `👤Character Selection`, press `VRoid Hub` to turn it into ☑.
+1. After linking, in the game `👤Character Selection` screen, press `VRoid Hub` to turn it into ☑.
 2. You will surely find the character and you can play with it.
 
 > * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
@@ -185,10 +185,10 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 > ☛ [About VRM](https://vrm-consortium.org/#vrm) in `Japanese`
 
-1. In the `👤Character Selection` screen, press `Open Folder` to open the folder📁 of the following format.
+1. In the game `👤Character Selection` screen, press `Open Folder` to open the folder📁 of the following format.
   * `≪drive_letter≫:\Users\≪user_name≫\Documents\VRM`
 2. Place VRM files into this folder📁.
-3. In-game `👤Character Selection` screen, press `Local` to turn it into ☑.
+3. In the game `👤Character Selection` screen, press `Local` to turn it into ☑.
 4. You will surely find the character and you can play with it.
 
 > * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
