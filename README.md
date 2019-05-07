@@ -1,8 +1,9 @@
 <img src="image/xvrf-title-icon.png"/>
 
+||||||
+|-|-|-|-|-|
 **`English`**: | ~`User's Manual`~ | [`Controls`](controls.md) | ~`History`~ | ~`Debug Tools`~
-|-|-|
-**`Japanese`**: | [`User's Manual`](ja/manual.md) | [`Controls`](controls.md) | [`更新履歴`](history.md) | [`デバッグツール`](debug.md)
+**`Japanese`**: | [`取扱説明書`](ja/manual.md) | [`操作方法`](controls.md) | [`更新履歴`](history.md) | [`デバッグツール`](debug.md)
 
 ----
 
