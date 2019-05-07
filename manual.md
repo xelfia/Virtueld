@@ -50,7 +50,18 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 > Please note that pictograms described here and in-game icons will look different.
 
-`not translated`
+|||
+|---|---|
+|`Quit`|Quit the game. (with Confirmation)|
+|||
+|`👤🆚🤖`| Start as Single Player (Player versus AI)|
+|`🤖🆚🤖`| Start demo as AI versus AI.|
+|`Enable to start from URL`|If you enable this feature, you can launch XVRF on your Windows from the link `▶️XVRF` on the page https://xelfia.github.io/XVRF-Outpost/. Usually, there is security confirmation by Windows. If you proceed, launch the secondary game app (with the Unity logo) and close it shortly. If `Succeeded` is displayed in the primary game app, it has been successfully enabled.|
+|`👤Character Selection`| Move to Character selection screen. (see below)|
+|`Discord`|(Provisional exposed. Under considering to describe in the future.)|
+|`Web`| Open the [Offical Web Site](README.md).|
+|`📜Report`| Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods.|
+|`⚙Settings`|Open the Settings screen (see below)|
 
 # `⚙Settings`
 
