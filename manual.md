@@ -138,7 +138,15 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 > ☛ [About VRM](https://vrm-consortium.org/#vrm) in `Japanese`
 
-`not translated`
+1. In`👤Character Selection` screen, press `Open Folder` to open the folder📁 of the following format.
+  * `≪drive_letter≫:\Users\≪user_name≫\Documents\VRM`
+2. Place VRM files into this folder📁.
+3. In-game `👤Character Selection` screen, press `Local` to turn it into ☑.
+4. You will surely find the character and you can play with it.
+
+> * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
+> * If it does not work better than the bundled or standard characters, please refer:
+> ☛ `Japanese` [XVRF Model Definitions / XVRFで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
 
 ## ⚠Known Issues
 
