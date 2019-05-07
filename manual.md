@@ -136,7 +136,7 @@ I have added features that can be used effectively by creative people such as VR
 * First, please confirm (set) the state ☑ or ☐ of `P1` and `P2`.
 * Depending on the filters at the almost bottom of the screen, character model icons will be displayed at the abeve.
 
-> * If not applicable, it will be blank.
+> * If not found, it will be blank.
 > * If 🛇 is displyed, it can not be used because it does not meet the conditions of use.
 
 * Once a character model icon is selected, its descriptions are displayed on the screen.
