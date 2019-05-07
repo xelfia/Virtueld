@@ -58,6 +58,8 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 # Debug Tools
 
+I have added features that can be used effectively by creative people such as VRM authors.
+
 ☛ `English (N/A)` [`Japanese`](ja/debug.md)
 
 # Way to select a character / `👤Character Selection`
