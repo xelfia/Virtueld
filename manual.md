@@ -1,6 +1,6 @@
 <img src="image/xvrf-title-icon.png"/> May the XVRF with you
 
-[🔙](README.md) | `User's Manual` | [`Controls`](controls.md) | ~`History`~ | ~`Debug Tools`~ | `English (N/A)` | [`Japanese`](ja/manual.md)
+[🔙](README.md) | `User's Manual` | [`Controls`](controls.md) | ~`History`~ | ~`Debug Tools`~ | `English` | [`Japanese`](ja/manual.md)
 
 ----
 
@@ -52,7 +52,7 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 |||
 |---|---|
-|`Quit`|Quit the game. (with Confirmation)|
+|`Quit`|Quit the game. (with confirmation)|
 |||
 |`👤🆚🤖`| Start as Single Player (Player versus AI)|
 |`🤖🆚🤖`| Start demo as AI versus AI.|
