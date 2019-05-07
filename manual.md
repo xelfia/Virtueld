@@ -71,7 +71,7 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 > Unexpected behavior may occur with not bundled characters.
 > [VRoid Studio](https://studio.vroid.com/) characters of standard design work as it is.
 > What character is a good behavior, or would fit into the world, or funny, or will be an interesting behavior.
-> Please share your experiment on social media etc☺
+> Please share your experiment on social media etc. ☺
 
 ## Controls on `👤Character Selection` screen
 
@@ -107,7 +107,7 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 ## ✒Update Logs
 
-☛ `English (NA)` | [`Japanese`](ja/history.md)
+☛ `English (N/A)` | [`Japanese`](ja/history.md)
 
 ## 🎮Controls and Input Devices
 
@@ -115,7 +115,7 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 ## 📧Contacts
 
-* recommended Twitter Hashtag (priliminary): `#XVRF`
+* recommended Twitter hashtag (priliminary): `#XVRF`
 * ☛ [xelfia@twitter.com](https://twitter.com/xelfia)
 * [License](LICENSE.md)
 
