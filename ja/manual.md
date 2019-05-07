@@ -1,6 +1,6 @@
 <img src="../image/xvrf-title-icon.png"/> May the XVRF with you
 
-[🔙](../README.md) | `取扱説明書` | [`操作方法`](controls.md) | [`更新履歴`](history.md) | [`デバッグツール`](debug.md) | `English (N/A)` | `Japanese`
+[🔙](../README.md) | `取扱説明書` | [`操作方法`](controls.md) | [`更新履歴`](history.md) | [`デバッグツール`](debug.md) | [`English`](../manual.md) | `Japanese`
 
 ----
 
