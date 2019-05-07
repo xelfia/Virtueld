@@ -81,7 +81,17 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 # `Escape Menu`
 
-`not translated`
+In the combat screen as `👤🆚🤖` (Single play), input 🔙 to display the `Escape Menu`.
+
+|||
+|---|---|
+|`Continue▶`|Back to the combat screen and continue.|
+|||
+|`AI Level`|AI's capability can be adjusted by slider. In the current versions, it is simply involved in the percentage of guard actions.|
+|`👤Character Selection`|Open the `👤Character Selection`.|
+|`🏠Lobby`|Back to `🏠Lobby`.|
+
+> * Currently, combat does not pause. 
 
 # Debug Tools
 
