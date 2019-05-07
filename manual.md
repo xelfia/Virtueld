@@ -73,7 +73,6 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 > What character is a good behavior, or would fit into the world, or funny, or will be an interesting behavior.
 > Please share your experiment on social media etc☺
 
-
 ## Controls on `👤Character Selection` screen
 
 * (Not translated)
