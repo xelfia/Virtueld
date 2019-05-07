@@ -135,12 +135,23 @@ I have added features that can be used effectively by creative people such as VR
 
 ## Way to select a character
 
-`not translated`
+* First, please confirm (set) the state ☑ or ☐ of `P1` and `P2`.
+* Depending on the filters at the almost bottom of the screen, character model icons will be displayed at the abeve.
+
+> * If not applicable, it will be blank.
+> * If 🛇 is displyed, it can not be used because it does not meet the conditions of use.
+
+* Once a character model icon is selected, its descriptions are displayed on the screen.
+* With the character model icon is selected, select it again to determine to use that character.
+* `Loading...` after a while and combat starts.
+
+> * If there is any problem with the compatibility between XVRF and the selected chartacter model, unusual behavior may occur during or after `Loading...`.
+> * Please let me know if there is a posslbility of new discorveries☺
 
 ## Link to VRoid Hub
 
 1. In the game `👤Character Selection`, press `⚙`.
-2. Web browser will automatically open and display the `Vroid Hub` authorization code.
+2. Web browser will automatically open and display the `VRoid Hub` authorization code.
 3. `Copy` the Authorization code in that page.
 4. The authorization code is automatically pasted on the game screen.
 > If you can not enter the authorization code, please contact me (XVRF side) because there is a possibility of specification change etc.
