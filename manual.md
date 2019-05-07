@@ -46,15 +46,15 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 > This page contains `(not translated)`: Please also refer to the [`Japanese`](ja/manual.md) version using machine translation etc. 🙇
 
-* (Not translated)
+`not translated`
 
 # `⚙Settings`
 
-* (Not translated)
+`not translated`
 
 # `Escape Menu`
 
-* (Not translated)
+`not translated`
 
 # Debug Tools
 
@@ -75,35 +75,35 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 ## Controls on `👤Character Selection` screen
 
-* (Not translated)
+`not translated`
 
 ## Way to select a character
 
-* (Not translated)
+`not translated`
 
 ## Link to VRoid Hub
 
-* (Not translated)
+`not translated`
 
 ## Play with character model on VRoid Hub
 
-* (Not translated)
+`not translated`
 
 ## Play with your character model on VRoid Hub
 
-* (Not translated)
+`not translated`
 
 ## Play with local VRM files
 
-You can also use your own or VRM files that meet the conditions.
+You can also use your self-made VRM files or others-made VRM files that meet the conditions.
 
 > ☛ [About VRM](https://vrm-consortium.org/#vrm) in `Japanese`
 
-* (Not translated)
+`not translated`
 
 ## ⚠Known Issues
 
-* (Not translated)
+`not translated`
 
 ## ✒Update Logs
 
