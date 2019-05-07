@@ -95,6 +95,10 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 ## Play with local VRM files
 
+You can also use your own or VRM files that meet the conditions.
+
+> ☛ [About VRM](https://vrm-consortium.org/#vrm) in `Japanese`
+
 * (Not translated)
 
 ## ⚠Known Issues
@@ -113,7 +117,7 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 
 * recommended Twitter Hashtag (priliminary): `#XVRF`
 * ☛ [xelfia@twitter.com](https://twitter.com/xelfia)
-* ☛ [License](LICENSE.md)
+* [License](LICENSE.md)
 
 --------
 🆇🅴🅻🅵
