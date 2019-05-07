@@ -1,6 +1,6 @@
 <img src="image/xvrf-title-icon.png"/>
 
-[🔙](README.md) | `English` | [`Japanese`](ja/controls.md)
+[🔙](README.md) | [`User's Manual`](manual.md) | `Controls` | ~`History`~ | ~`Debug Tools`~ | `English` | [`Japanese`](ja/controls.md)
 
 ## 🎮 How to Control / Input Device
 
