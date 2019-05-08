@@ -150,7 +150,7 @@ I have added features that can be used effectively by creative people such as VR
 
 1. In the game `👤Character Selection` screen, press `⚙`.
 2. Web browser will automatically open and display the `VRoid Hub` authorization code.
-3. `Copy` the Authorization code in that page.
+3. `Copy` the authorization code in that page.
 4. The authorization code is automatically pasted on the game screen.
 > If you can not enter the authorization code, please contact me (XVRF side) because there is a possibility of specification change etc.
 
