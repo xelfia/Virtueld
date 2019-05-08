@@ -185,7 +185,7 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 1. In the game `👤Character Selection` screen, press `Open Folder` to open the folder📁 of the following format.
   * `≪drive_letter≫:\Users\≪user_name≫\Documents\VRM`
-2. Place VRM files into this folder📁.
+2. Place VRM files (`.vrm` format) into this folder📁.
 3. In the game `👤Character Selection` screen, press `Local` to turn it into ☑.
 4. You will surely find the character and you can play with it.
 
