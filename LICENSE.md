@@ -142,7 +142,7 @@ SOFTWARE.
 
 
 
-## Note Serif JP
+## Noto Serif JP
 
 
 
