@@ -34,10 +34,17 @@
 
 ## About `Latest Version Checker`
 
-> This page contains `not translated`: Please also refer to the [`Japanese`](ja/manual.md) edition using machine translation etc. 🙇
-
-`not translated`
-
+* After launching, it will automatically check if the download site has the latest version.
+  * ➡ If it can be determined that the latest version is **not available**
+    * ➡ Regardless of the expiration date below, go to `🏠Lobby` and play as it is.
+    > There is no message display.
+  * ➡ If it is determined that the latest version is **available**
+    * You will see the message `Newer Version Found`.
+      * ➡ Press `OK` to open the download site in your web browser and exit the current game. Please download the latest version of the page and try the latest version according to the startup method mentioned above.
+      * ➡ Press `Back` to proceed to the confirmation process of the expiration date. If it is within the expiration date, you can play as it is.
+  * ➡ When the presence or absence of the latest version **could not be confirmed**
+    > Network errors / Errors due to changes in download site specifications / Errors due to file format changes / Changes in publishing method etc.
+    * ➡ Proceed to the confirmation process of the expiration date. If it is within the expiration date, you can play as it is.
 
 ## About `Expilation`
 
@@ -201,6 +208,8 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 > ☛ `Japanese` [XVRF Model Definitions / XVRFで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
 
 ## ⚠Known Issues
+
+> This page contains `not translated`: Please also refer to the [`Japanese`](ja/manual.md) edition using machine translation etc. 🙇
 
 `not translated`
 
