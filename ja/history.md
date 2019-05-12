@@ -6,6 +6,11 @@
 
 # 更新履歴 / Update Logs
 
+## `2019-05-12` 0.1.63 on `Unity 2019.1.2f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
+* 昼/星空を選択できるようにしました。
+  * `Lobby`に`Scene`ボタンを追加しました。
+  * `Scene Settings`画面を追加しました。
+  * `Scene Settings`画面に`Starry Sky`トグルを追加しました。
 ## `2019-05-11` 0.1.62 on `Unity 2019.1.2f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * Unityを更新しました。
 * `👤Character Selection`にて、化けていた詳細情報のアイコンを修正しました。
