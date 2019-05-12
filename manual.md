@@ -74,6 +74,7 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 |`Web`| Open the [Offical Web Site](README.md).|
 |`📜Report`| Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods.|
 |`⚙Settings`|Open the Settings screen. (See below)|
+|`Scene Settings`|Open the Scene Settings screen. (See below)|
 
 # `⚙Settings`
 
@@ -88,6 +89,16 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 |`Active Camera`|When ☑, the camera moves around the subject.|
 |`Debug Tools`|When ☑, Debug tools related UI are displayed. (See below)|
 |`Move by Mouse`|When ☑, The relative movement of the mouse pointer corresponds to the movement input (equivalent to the L-stick on the gamepad 🎮).|
+
+> * Each setting is saved when you change it.
+
+# `Scene Settings`
+
+|||
+|---|---|
+|`Back`|Back to the previous screen.|
+|||
+|`Starry Sky`|When ☑, it is a starry sky. Otherwise, a daytime sky.|
 
 > * Each setting is saved when you change it.
 
