@@ -198,7 +198,7 @@ I have added features that can be used effectively by creative people such as VR
 1. After linking, in the game `👤Character Selection` screen, press `VRoid Hub` to turn it into ☑.
 2. You will surely find the character and you can play with it.
 
-> * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
+> * In XVRF, you can always play with your character in `VRoid Hub`, regardless of conditions of use.
 > * If it does not work better than the bundled or standard characters, please refer:
 > ☛ `Japanese` [XVRF Model Definitions / XVRFで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
 
