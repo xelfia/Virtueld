@@ -9,7 +9,7 @@
 ## `2019-05-17` 0.1.72 on `Unity 2019.1.2f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * 一部依存パッケージを更新しました。
 * 多言語に一部対応しました。
-  * Settings`に、英語`English`/日本語`Japanese`の言語切り替えトグルを追加しました。
+  * `⚙Settings`に、英語`English`/日本語`Japanese`の言語切り替えトグルを追加しました。
   * `👤Character Selection`にて、日本語表記に一部追加しました。
 ## `2019-05-16` 0.1.67 on `Unity 2019.1.2f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * `👤Character Selection`のあなたのキャラクターモデルの場合（`VRoid Hub`の☑に該当）、利用条件の設定によらず、遊べるようにしました。
