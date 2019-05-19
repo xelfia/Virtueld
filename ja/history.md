@@ -6,6 +6,8 @@
 
 # 更新履歴 / Update Logs
 
+## `2019-05-19` 0.1.75 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
+* `👤Character Selection`にて、詳細情報の書式を更新しました。
 ## `2019-05-18` 0.1.73 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * Unityを更新しました。
 * 一部依存パッケージを更新しました。
