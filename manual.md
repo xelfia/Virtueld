@@ -84,11 +84,11 @@ Selection screen for Single Player game mode.
 |---|---|
 |`Back`|Back to the previous screen.|
 |||
-|`Duel`|Start normal match (Duel) mode. It will be decided when either of `Life` becomes 0. Regardless of the result, the next new round will begin.|
-|`Survival`|Start Survival mode. It will be decided when either of `Life` becomes 0. If you win a round, you will advance to the next round. It will be difficult every round. If you do not win, the game is over.|
-|`Training`|Start Training mode. Each `Life` will regenerate over time. There is no end of the round. A round reset operation is available.|
+|`Duel`|Start normal match `Duel` mode. It will be decided when either of `Life` becomes 0. Regardless of the result, the next new round will begin.|
+|`Survival`|Start `Survival` mode. It will be decided when either of `Life` becomes 0. If you win a round, you will advance to the next round. It will be difficult every round. If you do not win, the game is over.|
+|`Training`|Start `Training` mode. Each `Life` will regenerate over time. There is no end of the round. A round reset operation is available.|
 
-> Depending on the version, game modes may change or increase/decrease the content.
+> Depending on versions, game modes may change the content or increase/decrease.
 
 # `⚙Settings`
 
