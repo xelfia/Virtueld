@@ -66,7 +66,7 @@
 |||
 |`👤🆚🤖`|一人プレイ（プレイヤー対AI）`Single Player Menu`を開きます。（後述）|
 |`🤖🆚🤖`|AI対AIの対戦デモを開始します。|
-|`Enable to start from URL`|この機能を有効化すると、 https://xelfia.github.io/XVRF-Outpost/ のページにある`▶️XVRF`のリンクから、あなたのWindowsにあるXVRFが起動できるようになります。通常はWindowsによるセキュリティの確認があります。進めた場合、XVRFをもう1つ起動して（Unityロゴが出て）、まもなく閉じます。もとのゲーム内で`Succeeded`が表示されれば、有効化に成功しています。|
+|`Bind` / `Unbind`|URLからゲームを起動可能にする機能の設定/解除です。（後述）|
 |`👤Character Selection`| キャラクター選択画面に移動します。（後述）|
 |`Discord`|（仮設置です。今後解説を検討）|
 |`Web`| [暫定公式サイト](../README.md)を開きます。|
@@ -87,6 +87,33 @@
 |`Training`|練習（トレーニング）モードを開始します。体力は徐々に回復します。ラウンドの終わりはありません。ラウンドの初期化操作が利用できます。|
 
 > バージョンによって、ゲームモードは内容が変更されたり増減したりすることがあります。
+
+# `Protocol (Enable to start from URL)`
+
+## 概要
+
+* この機能を有効化すると、 https://xelfia.github.io/XVRF-Outpost/ のページにある`▶️XVRF`のリンクから、あなたのWindowsにあるXVRFが起動できるようになります。
+
+## 有効化する / `Bind Protocol`
+
+1. `Bind`を押すと`Bind Protocol`画面が開きます。
+> * 何らかの設定がすでにある場合は`Bind Protocol (overwrite)`と表示されます。
+> * 異なるフォルダ📁（またはバージョン）のXVRFを登録する場合は、再び有効化の手順を行ってください。
+
+2. `OK`を押すと有効化を開始します。
+> * 通常はWindowsによるセキュリティの確認があります。
+
+3. XVRFがもう1つ起動して（Unityロゴが出て）、まもなく閉じます。
+4. もとのゲーム内で`Succeeded`が表示されれば、有効化に成功しています。
+
+## 無効化する / `Unbind Protocol`
+
+* 何か登録されている場合
+  * ➡ `Unbind`を押すと`Unbind Protocol`の画面が開きます。手順は`Bind Protocol`と同様です。
+> 特に解除したい場合に利用ください。
+
+* 何も登録されていない場合
+  * ➡ `Unbind`を押すと`Protocol Not Found`と表示されます。
 
 # ⚙設定 🙼 `⚙Settings`
 
