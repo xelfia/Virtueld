@@ -130,7 +130,7 @@ Selection screen for Single Player game mode.
 |`Active Camera`|When ☑, the camera moves around the subject.|
 |`Debug Tools`|When ☑, Debug tools related UI are displayed. (See below)|
 |`Move by Mouse`|When ☑, The relative movement of the mouse pointer corresponds to the movement input (equivalent to the L-stick on the gamepad 🎮).|
-
+|`English` / `Japanese`|☑ language is preferred. This setting is only reflected to the part that supports multiple languages. The initial setting depends on the execution environment (`Windows`).|
 > * Each setting is saved when you change it.
 
 # `Scene Settings`
