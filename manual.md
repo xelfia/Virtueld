@@ -66,15 +66,15 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 |---|---|
 |`Quit`|Quit the game. (with confirmation)|
 |||
-|`👤🆚🤖`| Open `Single Player Menu` (Player versus AI). (See below)|
-|`🤖🆚🤖`| Start demo as AI versus AI.|
-|`Enable to start from URL`|If you enable this feature, you can launch XVRF on your Windows from the link `▶️XVRF` on the page https://xelfia.github.io/XVRF-Outpost/. Usually, there is security confirmation by Windows. If you proceed, launch the secondary game app (with the Unity logo) and close it shortly. If `Succeeded` is displayed in the primary game app, it has been successfully enabled.|
+|`👤🆚🤖`|Open `Single Player Menu` (Player versus AI). (See below)|
+|`🤖🆚🤖`|Start demo as AI versus AI.|
+|`Bind` / `Unbind`|Enable/Disable of the feature which makes the game startable from URL. (See below)|
 |`👤Character Selection`| Move to Character selection screen. (See below)|
 |`Discord`|(Provisional exposed. Under considering to describe in the future.)|
 |`Web`| Open the [Offical Web Site](README.md).|
-|`📜Report`| Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods.|
-|`⚙Settings`|Open the Settings screen. (See below)|
-|`Scene Settings`|Open the Scene Settings screen. (See below)|
+|`📜Report`|Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods.|
+|`⚙Settings`|Open the `⚙Settings` screen. (See below)|
+|`⚙Scene`|Open the `Scene Settings` screen. (See below)|
 
 # `Single Player Menu`
 
@@ -89,6 +89,33 @@ Selection screen for Single Player game mode.
 |`Training`|Start `Training` mode. Each `Life` will regenerate over time. There is no end of the round. A round reset operation is available.|
 
 > Depending on versions, game modes may change the content or increase/decrease.
+
+# `Protocol (Enable to start from URL)`
+
+## Overview
+
+* If you enable this feature, you can launch XVRF on your Windows from the link `▶️XVRF` on the page https://xelfia.github.io/XVRF-Outpost/.
+
+## `Bind Protocol`
+
+1. Press `Bind` to open `Bind Protocol` screen.
+> * If you already have some settings, you will see `Bind Protocol (overwrite)`.
+> * If you want to register XVRF of different folder (or version), please follow the activation procedure again.
+
+2. Press `OK` to start to enable.
+> * Usually, there is security confirmation by Windows.
+
+3. Launch the secondary game app (with the Unity logo) and close it shortly.
+4. If `Succeeded` is displayed in the primary game app, it has been successfully enabled.
+
+## `Unbind Protocol`
+
+* When already registered something:
+  * ➡ Press `Unbind` to open `Unbind Protocol` screen. It is the same way as `Bind Protocol`.
+> Please use especially when you want to disable (remove).
+
+* When not registered anything:
+  * ➡ Press `Unbind` to will display `Protocol Not Found`.
 
 # `⚙Settings`
 
