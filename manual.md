@@ -27,7 +27,7 @@
 # How to start
 
 1. Unzip all files in the zip file. (first time after download)
-2. Open the `XVRF.exe` in the unzipped folder.
+2. Open the `XVRF.exe` in the unzipped folder📁.
 
 > * About protections by the Operating System `Windows 10` and/or anti-virus softwares, please treat with generic ways.
 > * For update versions, download it again, and do same way to start 🙇
@@ -105,7 +105,7 @@ Selection screen for Single Player game mode.
 2. Press `OK` to start to enable.
 > * Usually, there is security confirmation by Windows.
 
-3. Launch the secondary game app (with the Unity logo) and close it shortly.
+3. Launch the secondary game app (with the `Unity` logo) and close it shortly.
 4. If `Succeeded` is displayed in the primary game app, it has been successfully enabled.
 
 ## `Unbind Protocol`
