@@ -6,6 +6,11 @@
 
 # 更新履歴 / Update Logs
 
+## `2019-05-21` 0.1.84 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
+* `Protocol`(`Enable start from URL`)を調整しました。
+  * `🏠Lobby`にて、`Protocol`関連の表記を変更しました。
+  * `Bind Protocol`の動作を調整しました。
+  * `Unbind Protocol`を追加しました。
 ## `2019-05-20` 0.1.78 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * `Single Player Menu`画面を追加しました。
 * `Duel`モードを追加しました。
@@ -38,7 +43,7 @@
 * 押し具合に体重の違いを反映するようにしました。
 ## `2019-05-12` 0.1.63 on `Unity 2019.1.2f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * 昼/星空を選択できるようにしました。
-  * `Lobby`に`Scene`ボタンを追加しました。
+  * `🏠Lobby`に`Scene`ボタンを追加しました。
   * `Scene Settings`画面を追加しました。
   * `Scene Settings`画面に`Starry Sky`トグルを追加しました。
 ## `2019-05-11` 0.1.62 on `Unity 2019.1.2f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
