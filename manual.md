@@ -188,7 +188,7 @@ I have added features that can be used effectively by creative people such as VR
 |`Author`|Author name of the selected character is displayed here.|
 |`Open Folder`|Open the local VRM Folder📁. (See below)|
 |`⟳`|Reloads the list of character models.|
-|`⚙`|VRoid Hub can be `Link`ed or `Unlink`ed. (See below)|
+|`⚙`|`VRoid Hub` can be `Link`ed or `Unlink`ed. (See below)|
 |`Local`|Enable/Disable the local VRM files. (See below)|
 |`VRoid Hub`|Enable/Disable your `VRoid Hub` character models. (See below)|
 |`VRoid Hub💛`|Enable/Disable your favorite `VRoid Hub` character models. (See below)|
