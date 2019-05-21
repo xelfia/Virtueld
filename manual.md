@@ -128,7 +128,7 @@ Selection screen for Single Player game mode.
 |`Sound Effect`|Sound Effect volume can be adjusted by slider.|
 |`AI Level`|AI's capability can be adjusted by slider. In the current versions, it is simply involved in the percentage of guard actions.|
 |`Active Camera`|When ☑, the camera moves around the subject.|
-|`Debug Tools`|When ☑, Debug tools related UI are displayed. (See below)|
+|`Debug Tools`|When ☑, `Debug Tools` related UI are displayed. (See below)|
 |`Move by Mouse`|When ☑, The relative movement of the mouse pointer corresponds to the movement input (equivalent to the L-stick on the gamepad 🎮).|
 |`English` / `Japanese`|☑ language is preferred. This setting is only reflected to the part that supports multiple languages. The initial setting depends on the execution environment (`Windows`).|
 > * Each setting is saved when you change it.
