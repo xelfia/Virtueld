@@ -100,7 +100,7 @@ Selection screen for Single Player game mode.
 
 1. Press `Bind` to open `Bind Protocol` screen.
 > * If you already have some settings, you will see `Bind Protocol (overwrite)`.
-> * If you want to register XVRF of different folder (or version), please follow the activation procedure again.
+> * If you want to register XVRF of different folder📁 (or version), please follow the activation procedure again.
 
 2. Press `OK` to start to enable.
 > * Usually, there is security confirmation by Windows.
