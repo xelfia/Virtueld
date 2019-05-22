@@ -6,6 +6,8 @@
 
 # 更新履歴 / Update Logs
 
+## `2019-05-22` 0.1.85 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
+* `Life`バーの動作を更新しました。
 ## `2019-05-21` 0.1.84 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * `Protocol`(`Enable start from URL`)を調整しました。
   * `🏠Lobby`にて、`Protocol`関連の表記を変更しました。
