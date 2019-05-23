@@ -6,6 +6,12 @@
 
 # 更新履歴 / Update Logs
 
+## `2019-05-23` 0.1.88 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
+* 戦闘の通知を調整しました。
+  * 見た目を調整しました。
+  * `Survival`モードにて、`Game Over`の通知を追加しました。
+* `👤Character Selection`にて、`VRoid Hub`連携の再接続時におけるメッセージ`Linked to VRoid Hub`を省略するようにしました。
+* `Debug`バーにて、ロビー`🏠`ボタンの動作を修復しました。
 ## `2019-05-22` 0.1.85 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * `Life`バーの動作を更新しました。
 ## `2019-05-21` 0.1.84 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
