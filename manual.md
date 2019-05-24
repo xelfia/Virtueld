@@ -279,6 +279,8 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 * ☛ [xelfia@twitter.com](https://twitter.com/xelfia)
 * [License](LICENSE.md)
 
+> Thank you very much for everyone who `retweet`s/`like`s 🙇
+
 --------
 🆇🅴🅻🅵
 ©2018-2019 XELF
