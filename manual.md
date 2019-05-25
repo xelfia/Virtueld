@@ -186,7 +186,7 @@ I have added features that can be used effectively by creative people such as VR
 |`P2`|When ☑, after selecting the character, it applies to player 2 `P2` (or AI 2 `A2`).|
 |`Select VRM`|Model name of the selected character is displayed here.|
 |`Author`|Author name of the selected character is displayed here.|
-|`Open Folder`|Open the local VRM Folder📁. (See below)|
+|`📂Open Folder`|Open the local VRM Folder📁. (See below)|
 |`⟳`|Reloads the list of character models.|
 |`⚙`|`VRoid Hub` can be `Link`ed or `Unlink`ed. (See below)|
 |`Local`|Enable/Disable the local VRM files. (See below)|
@@ -249,7 +249,7 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 > ☛ [About VRM](https://vrm-consortium.org/#vrm) in `Japanese`
 
-1. In the game `👤Character Selection` screen, press `Open Folder` to open the folder📁 of the following format.
+1. In the game `👤Character Selection` screen, press `📂Open Folder` to open the folder📁 of the following format.
   * `≪drive_letter≫:\Users\≪user_name≫\Documents\VRM`
 2. Place VRM files (`.vrm` format) into this folder📁.
 3. In the game `👤Character Selection` screen, press `Local` to turn it into ☑.
