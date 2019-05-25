@@ -6,6 +6,8 @@
 
 # 更新履歴 / Update Logs
 
+## `2019-05-25` 0.1.91 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
+* 一部アイコンを追加/更新しました。
 ## `2019-05-24` 0.1.90 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
 * `Credits`画面を追加しました。
 ## `2019-05-23` 0.1.88 on `Unity 2019.1.3f1` `UniVRM 0.5.0`+ `VRoidSDK 0.0.17`
