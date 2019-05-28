@@ -6,6 +6,11 @@
 
 # 更新履歴 / Update Logs
 
+## `2019-05-28` 0.1.98 on `Unity 2019.1.4f1` `UniVRM 0.50`+ `VRoidSDK 0.0.17`
+* `Scene Settings`にて、不要なスライダーを除去しました。
+* `Noto Emoji`を対応フォントに追加しました。
+* `👤Character Selection`にて、描画を調整しました。
+* `Skill`画面の動作と項目を一部調整しました。（`デバッグ`/`開発中`）
 ## `2019-05-27` 0.1.96 on `Unity 2019.1.4f1` `UniVRM 0.50`+ `VRoidSDK 0.0.17`
 * ゲームパッド🎮の振動に対応しました。
 * `⚙Settings`に、`Vibration`スライダーを追加しました。
