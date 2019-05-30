@@ -89,8 +89,8 @@
 |→Ⓚ|`Stand`|-|-|`Sliding Kick`|
 |←Ⓚ|`Stand`|-|-|`Round Kick`|
 |Ⓖ|`Stand`|-|`Guard`|-|
-|→Ⓣ|`Stand`|`Stand`|Your Closed Forward|`Jumping Closed Guard`|
-|←Ⓣ|`Stand`|`Stand`|Your Closed Forward|`Round Throw`|
+|→Ⓣ|`Stand`|`Stand` + Your Closed Forward|`Jumping Closed Guard`|
+|←Ⓣ|`Stand`|`Stand` + Your Closed Forward|`Round Throw`|
 |Ⓣ|`Stand`|`Supine`/`Prone`|-|`Kneeling Mount`|
 |Ⓣ|`Stand`|Not Face Forward|-|`Turn` to face forward|
 |Ⓐ|`Kneeling Mount`|`Supine`/`Prone`|-|`Kneeling Slam`|
