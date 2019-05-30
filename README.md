@@ -24,6 +24,10 @@
 ## History
 
 * For more details and/or newer logs, see [`更新履歴 in Japanese`](ja/history.md).
+
+📷2019-05-30: `0.1.108` `Snapshots in Japanese`<br/>
+<img src="snapshot/XVRF2019-05-30-00.png" width="20%"/><img src="snapshot/XVRF2019-05-30-01.png" width="20%"/><img src="snapshot/XVRF2019-05-30-02.png" width="20%"/><img src="snapshot/XVRF2019-05-30-03.png" width="20%"/>
+
 * 2019-05-01: `0.1.37` Early Access (as prototype / alpha) version released (first version).
 
 📷2019-03-03: ᚡᛆᛚᚴᚤᚱᛄᛆ - HDRP edition as a promotional material</br>⚠HDRP game versions are currently not planned<br/>
