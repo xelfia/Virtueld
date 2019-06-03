@@ -273,6 +273,20 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 ☛ [`English`](controls.md) | [`Japanese`](ja/controls.md)
 
+## `📷Screenshot`
+
+* On each screen, press the `F12` key to open `📷Screenshot` screen.
+* At this time, a screenshot is taken, and the following menu and a preview of the screenshot are displayed.
+
+|||
+|---|---|
+|`Back`|Back to the **previous screen** to continue.|
+|||
+|`Capture`|Take a screenshot on the **previous screen** again. The same is true if you press the `F12` key on `📷Screenshot` screen.|
+|`Save`|Save the preview screenshot as an image file and open the local image folder📁 (in the format below) with the file.|
+
+* `≪drive_letter≫:\Users\≪user_name≫\Pictures\XVRF`
+
 ## 📧Contacts
 
 * recommended Twitter hashtag (priliminary): `#XVRF`
