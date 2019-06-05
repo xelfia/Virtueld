@@ -79,16 +79,6 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 ## 🎮 ☛ [How to Control / Input Device](controls.md) [`English`](controls.md) [`Japanese`](ja/controls.md)
 
-## 📜 Feedback / Report a Bug
-
-> This is preliminary
-
-* You can send via the in-game `Report`. Most of fields are automatically filled and read-only. `Log` is editable. Please confirm that there is no problem to submitting with that content, press `Send`.
-
-> Feel free to give your feedback. Even if there is no issue, it is also able to know your system environments as statistics☺️
-
-* If the in-game `Report` is not available, use the web form instead (in planned).
-
 ## Schedule before 0.1.37
 
 * I am thinking about taking like the early access development model and to build this up with future patrons / supporters help. If so, it will do on a small scale. Though the informations limited, how do you think about it?
