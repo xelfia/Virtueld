@@ -72,7 +72,7 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 |`👤Character Selection`| Move to Character selection screen. (See below)|
 |`Discord`|(Provisional exposed. Under considering to describe in the future.)|
 |`Web`| Open the [Offical Web Site](README.md).|
-|`📜Report`|Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods.|
+|`📜Report`|Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods. (See below)|
 |`⚙Settings`|Open the `⚙Settings` screen. (See below)|
 |`⚙Scene`|Open the `Scene Settings` screen. (See below)|
 
@@ -286,6 +286,32 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 |`Save`|Save the preview screenshot as an image file and open the local image folder📁 (in the format below) with the file.|
 
 * `≪drive_letter≫:\Users\≪user_name≫\Pictures\XVRF`
+
+## 📜How to manually report a issue
+
+> * If you can not report the operation from the `📜Report` in the game, and if it seems that you need a log to identify the problem, please report it according to the following procedure.
+
+1. On Windows running XVRF, files in the folder hierarchy of the following format have a log when they were probably last run by the Unity player.
+Look for this text file (`.log` format).
+
+* `≪drive_letter≫:\Users\≪user_name≫\AppData\LocalLow\XELF\XVRF\Player.log`
+> The part of `≪≫` differs depending on the environment.
+
+2. If the file is found, open that file.
+3. Copy the text of the content to the clipboard.
+4. Open the form below.
+
+☛ 📜[XVRF report form](https://docs.google.com/forms/d/e/1FAIpQLSdjhUb6AhpkO7nlG3015DIAD3Rq1K6cQPe_yP5--oi6qfcIZg/viewform)
+
+5. Paste it into `Log` of the form.
+> * If the log is long and you can't get into it, attach the area where the top is prioritized.
+
+6. Enter other fileds.
+> * Rquired fields may be in a range that you know. For fields that you do not know, please enter an appropriate sentence (e.g. `Unknown`).
+
+7. Press `Send`.
+8. If you do not mind, it would be appreciated if you could post the form via Twitter etc.
+> * Sorry to trouble you🙇
 
 ## 📧Contacts
 
