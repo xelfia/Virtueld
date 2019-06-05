@@ -287,6 +287,18 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 * `≪drive_letter≫:\Users\≪user_name≫\Pictures\XVRF`
 
+<!--
+## 📜 Feedback / Report a Bug
+
+> This is preliminary
+
+* You can send via the in-game `Report`. Most of fields are automatically filled and read-only. `Log` is editable. Please confirm that there is no problem to submitting with that content, press `Send`.
+
+> Feel free to give your feedback. Even if there is no issue, it is also able to know your system environments as statistics☺️
+
+* If the in-game `Report` is not available, use the web form instead (in planned).
+-->
+
 ## 📜How to manually report a issue
 
 > * If you can not report the operation from the `📜Report` in the game, and if it seems that you need a log to identify the problem, please report it according to the following procedure.
@@ -304,7 +316,7 @@ Look for this text file (`.log` format).
 ☛ 📜[XVRF report form](https://docs.google.com/forms/d/e/1FAIpQLSdjhUb6AhpkO7nlG3015DIAD3Rq1K6cQPe_yP5--oi6qfcIZg/viewform)
 
 5. Paste it into `Log` of the form.
-> * If the log is long and you can't get into it, attach the area where the top is prioritized.
+> * If the log is long and it does not fit, please paste in the range from the top as priority.
 
 6. Enter other fileds.
 > * Rquired fields may be in a range that you know. For fields that you do not know, please enter an appropriate sentence (e.g. `Unknown`).
