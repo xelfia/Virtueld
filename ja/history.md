@@ -6,7 +6,7 @@
 
 # 更新履歴 🙼 Update Logs
 
-## `2019-06-10` 0.1.127 on `Unity 2019.1.5f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
+## `2019-06-10` 0.1.128 on `Unity 2019.1.5f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * `⚙Settings`画面と`Scene Settings`画面にて、多言語に対応しました。
 * `Escape Menu`にて、背景を変更しました。
 * UIの入力設定を調整しました。（`開発中`）
