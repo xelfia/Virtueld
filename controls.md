@@ -38,7 +38,7 @@
 | `🄻²` | | | | | | | `🅁²` |
 | `🄻¹` | | | | | | | `🅁¹` |
 | |`↑`| | | | |`Ⓐ`| |
-|`←`|L-stick|`→`|`🔙` | `⇒` |`Ⓣ`| |`Ⓚ`|
+|`←`|L-stick|`→`|`🔙` | `▶️` |`Ⓣ`| |`Ⓚ`|
 | |`↓`| | | | |`Ⓖ`| |
 
 * ⚠ Arrows are L-stick inputs (not D-pad).
@@ -61,9 +61,11 @@
 
 |Controls|Basic Usage|
 |----|----|
-|↑/↓/←/→|Navigate|
-|Ⓐ|Select / OK|
+|↑/↓/←/→|Navigate (L-stick)|
+|⯅/⯆/⯇/⯈|Navigate (D-pad)|
+|Ⓖ|Select / OK|
 |Ⓚ|Cancel|
+|🄻²/🅁²/R-stick|Scroll on Scroll Rect|
 
 ### Controls in Combat
 
