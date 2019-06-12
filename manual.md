@@ -17,12 +17,19 @@
 | |Recommended Specifications|
 |----|----|
 |Operating System|Windows 10 64-bit|
-|Video|DirectX 11 or later|
+|Video|DirectX 11 or later `*1`|
 |Memory|4GB RAM|
 |Storage|25GB available space|
 |Broadband Internet connection|✅ (as currently planned)|
 
 > only as a guide
+
+## `*1`
+* Environment on `Intel HD Graphics` (some or all), it does not work properly (at `🏠Lobby` screen) with a phenomenon similar to the following report.
+  ☛ [Problems with Intel HD Graphics causing crashes](https://forum.unity.com/threads/problems-with-intel-hd-graphics-causing-crashes.635704/)
+  > Estimated from feedback received
+  * As this page shows, it is considered neither the game nor a Unity side, but a crash or a defect of the **graphics driver**.
+  * Please forgive that the problem is not the priority of the current measures, as it may not be perfect even if the problem is fixed, or the problem may be found in other parts.
 
 # How to start
 
