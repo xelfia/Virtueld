@@ -1,4 +1,4 @@
-<img src="image/xvrf-title-icon.png"/>
+<img src="image/xvrf-title-icon-1280x640.png" width="50%"/>
 
 [🔙](README.md) | [`User's Manual`](manual.md) | `Controls` | ~`History`~ | ~`Debug Tools`~ | `English` | [`Japanese`](ja/controls.md)
 

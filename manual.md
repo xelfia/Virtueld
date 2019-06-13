@@ -1,4 +1,4 @@
-<img src="image/xvrf-title-icon.png"/> May the XVRF with you
+<img src="image/xvrf-title-icon-1280x640.png" width="50%"/> May the XVRF with you
 
 [🔙](README.md) | `User's Manual` | [`Controls`](controls.md) | ~`History`~ | ~`Debug Tools`~ | `English` | [`Japanese`](ja/manual.md)
 
