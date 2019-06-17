@@ -299,7 +299,7 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 > This is preliminary
 
-* You can send via the in-game `Report`. Most of fields are automatically filled and read-only. `Log` is editable. Please confirm that there is no problem to submitting with that content, press `Send`.
+* You can send via the `Report` in-game. Most of fields are automatically filled and read-only. `Log` is editable. Please confirm that there is no problem to submitting with that content, press `Send`.
 
 > Feel free to give your feedback. Even if there is no issue, it is also able to know your system environments as statistics☺️
 
