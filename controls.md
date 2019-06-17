@@ -7,7 +7,7 @@
 > This is preliminary
 
 * Gamepad is mainly used.
-  * For combat, left stick and 4 buttons are mainly used.
+  * For combat, L-stick (left stick) and 4 buttons are mainly used.
   * Additional buttons are also used auxiliary.
   * `Skill` (Command inputs) will be short (in planned).
 * Though gamepad is recommended, you can also play with Keyboard/Mouse.
@@ -56,6 +56,8 @@
 |🄻¹|L1|-|`Ls`|`[R]` (temporal)|-|
 |🅁¹|R1|-|`Rs`|`[R]` (temporal)|-|
 |🔙|Back|Go Back on Menu / Open Escape Menu|`Select`|`[Esc]`|-|
+|📷|-|Open `📷Screenshot` Screen|Hold `🔙`|`[F12]`|-|
+|🔨|-|Enter `🔨Debug Toolbar` (when debug tools is enabled)|Hold `▶️`|`[F11]`|-|
 
 ### Controls in Menu
 
@@ -66,6 +68,7 @@
 |Ⓖ|Select / OK|
 |Ⓚ|Cancel|
 |🄻²/🅁²/R-stick|Scroll on Scroll Rect|
+|🔙|Go Back to Previous Screen|
 
 ### Controls in Combat
 
