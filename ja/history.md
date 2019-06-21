@@ -6,6 +6,8 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-06-21` 0.1.176 on `Unity 2019.1.7f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
+* `👤Character Selection`にて、一部の表記の変更と多言語化をしました。
 ## `2019-06-20` 0.1.175 on `Unity 2019.1.7f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * 塵の視覚効果を追加しました。
 ## `2019-06-19` 0.1.148 on `Unity 2019.1.7f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
