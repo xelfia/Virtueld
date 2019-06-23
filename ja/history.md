@@ -6,6 +6,13 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-06-23` 0.1.179 on `Unity 2019.1.7f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
+* `⚙Settings`を更新しました。
+  * レイアウトを調整しました。
+  * UI移動を調整しました。
+* `Scene Settings`にて、不要なトグルを除去しました。
+* `👤Character Selection`にて、多言語対応を一部追加しました。
+* アクティブカメラの挙動を調整しました。
 ## `2019-06-22` 0.1.177 on `Unity 2019.1.7f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * `👤Character Selection`を更新しました。
   * 一部の表記の変更と多言語化をしました。
