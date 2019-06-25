@@ -142,6 +142,39 @@ SOFTWARE.
 
 
 
+## blip2.wav
+
+
+* nsstudios
+
+`Creative Commons Attribution 3.0 Unported`
+
+🔗 https://freesound.org/people/nsstudios/sounds/321104/
+
+
+
+## buttonchime02up.wav
+
+
+* JustinBW
+
+`Creative Commons Attribution 3.0 Unported`
+
+🔗 https://freesound.org/people/JustinBW/sounds/80921/
+
+
+
+## Menu Interface - Cancel 003.wav
+
+
+* DWOBoyle
+
+`Creative Commons Attribution 3.0 Unported`
+
+🔗 https://freesound.org/people/DWOBoyle/sounds/143608/
+
+
+
 ## Noto Serif JP
 
 
