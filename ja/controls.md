@@ -17,6 +17,17 @@
 * XVRFはUnityの[New Input System](https://github.com/Unity-Technologies/InputSystem)（新しい入力システム）で動作します。
   * New Input Systemでは、各種ゲームパッドの4ボタンが`Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ`に割り当てられます。想定の割り当て通りに既定で遊べると思います。
 
+## 対応する🎮ゲームパッドについて
+
+XVRF特定バージョン時点の開発環境において、以下の入力デバイスがUSB接続で利用できたことを確認しています。
+> ⚠ 動作を保証するものではありません。
+
+* PlayStation 4対応コントローラー `DUALSHOCK 4`
+* `Xbox One コントローラー`
+* `Xbox 360 コントローラー`
+
+このほかに、Windows用ゲームパッドなどが利用できるものと考えられます。動作する可能性のある入力デバイスについては、New Input Systemの情報を参照ください。
+
 ## New Input Systemの抽象ゲームパッド（概要）
 
 * ゲームパッド🎮と見立てて、次の表を見てください。
