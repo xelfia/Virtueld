@@ -21,6 +21,7 @@
 |Memory|4GB RAM|
 |Storage|25GB available space|
 |Broadband Internet connection|✅ (as currently planned)|
+|Input Device|🎮Gamepad/⌨Keyboard/🖱Mouse: See☛[`Controls`](controls.md)|
 
 > only as a guide
 
