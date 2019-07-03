@@ -6,6 +6,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-07-03` 0.2.8 on `Unity 2019.1.8f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
+* `🏠Lobby`にて、`⚙Settings`の`🔨デバッグツール`の設定に依存にしてデバッグUIの表示する動作を復元しました。
+* `⚙Settings`/`Scene Settings`のレイアウトと表記を更新しました。
 ## `2019-07-02` 0.2.2 on `Unity 2019.1.8f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * 曇り空を追加しました。
 * `Scene Settings`を更新しました。
