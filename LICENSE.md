@@ -256,6 +256,17 @@ SOFTWARE.
 
 
 
+## Autumn beach sound.wav
+
+
+* straget
+
+`Creative Commons Zero v1.0 Universal`
+
+🔗 https://freesound.org/people/straget/sounds/411915/
+
+
+
 ## Noto Serif JP
 
 
