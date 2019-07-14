@@ -346,9 +346,9 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 * Discordに関する機能をテスター限定で実験/テスト中です。
 > `0.2.54現在`: `🏠Lobby`にある`Discord`ボタンの機能は保留中です。（ここではない動作を実験中です）
 
-`XVRFのDiscord関連テスター`参加方法は以下にて説明しています。
+* `XVRFのDiscord関連テスター`応募方法を以下にて説明しています。
 
-☛ 
+☛ [XVRFのDiscord関連機能テスター応募方法](https://scrapbox.io/XVRF/XVRF%E3%81%AEDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95)
 
 ## ⚠既知の問題 🙼 Known Issues
 
