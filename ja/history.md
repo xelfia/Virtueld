@@ -6,9 +6,12 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-07-15` 0.2.56 on `Unity 2019.1.10f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
+* `テスター限定`: マニュアルの`Discord関連機能`を参照してください。
+  * `Discord Rich Presence`の表示内容を更新しました。
 ## `2019-07-14` 0.2.54 on `Unity 2019.1.10f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * 戦闘の入力処理を更新しました。
-* `テスター限定`: マニュアルの`Discord関連機能`を参照ください。
+* `テスター限定`: マニュアルの`Discord関連機能`を参照してください。
   * `Discord Rich Presence`のテストを開始しました。
 ## `2019-07-13` 0.2.44 on `Unity 2019.1.10f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * Unityを更新しました。
