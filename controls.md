@@ -4,7 +4,8 @@
 
 ## 🎮 How to Control / Input Device
 
-> This is preliminary
+<!-- > This is preliminary-->
+> Contents may change
 
 * Gamepad is mainly used.
   * For combat, L-stick (left stick) and 4 buttons are mainly used.
@@ -12,7 +13,7 @@
   * `Skill` (Command inputs) will be short (in planned).
 * Though gamepad is recommended, you can also play with Keyboard/Mouse.
 
-* `deprecated` ~You can customize the input bindings on `Input` tab of Configuration dialog.~
+<!-- * `deprecated` ~You can customize the input bindings on `Input` tab of Configuration dialog.~ -->
 * XVRF now works with the Unity [New Input System](https://github.com/Unity-Technologies/InputSystem).
   * Since 4 buttons of any gamepad are mapped as `Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ` below under the New Input System. So I think you can play by default as expected bindings.
 
@@ -45,19 +46,19 @@
 
 #### Notations and Input Bindings 
 
-|Symbols (notations)|~Name on `Input` tab~ (deprecated)|Basic Usage|🎮Gamepad|⌨Keyboard|🖱Mouse|
+|Symbols (notations)|<!-- ~Name on `Input` tab~ (deprecated)-->|Basic Usage|🎮Gamepad|⌨Keyboard|🖱Mouse|
 |----|----|----|----|----|----|
-|Ⓐ|Ⓐ Attack|Attack|`Ⓝ`|`[↑]` or Left `[Alt]`|`Left`|
-|Ⓚ|Ⓚ Kick|Kick|`Ⓔ`|`[→]` or `[Z]`|`Right`|
-|Ⓣ|Ⓣ Throw|Throw / Face to Opponent / Clinch|`Ⓦ`|`[←]` or `[X]`|`Middle`|
-|Ⓖ|Ⓖ Guard|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
-|←/→|Left Stick Horizontal|Move / Naviagte on Menu|`←`/`→`|`[A]`/`[D]`|-|
-|↑/↓|Left Stick Vertical|Move / Navigate on Menu|`↑`/`↓`|`[W]`/`[S]`|-|
-|🄻¹|L1|-|`Ls`|`[R]` (temporal)|-|
-|🅁¹|R1|-|`Rs`|`[R]` (temporal)|-|
-|🔙|Back|Go Back on Menu / Open Escape Menu|`Select`|`[Esc]`|-|
-|📷|-|Open `📷Screenshot` Screen|Hold `🔙`|`[F12]`|-|
-|🔨|-|Enter `🔨Debug Toolbar` (when debug tools is enabled)|Hold `▶️`|`[F11]`|-|
+|Ⓐ|<!--Ⓐ Attack-->|Attack|`Ⓝ`|`[↑]` or Left `[Alt]`|`Left`|
+|Ⓚ|<!--Ⓚ Kick-->|Kick|`Ⓔ`|`[→]` or `[Z]`|`Right`|
+|Ⓣ|<!--Ⓣ Throw-->|Throw / Face to Opponent / Clinch|`Ⓦ`|`[←]` or `[X]`|`Middle`|
+|Ⓖ|<!--Ⓖ Guard-->|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
+|←/→|<!--Left Stick Horizontal-->|Move / Naviagte on Menu|`←`/`→`|`[A]`/`[D]`|-|
+|↑/↓|<!--Left Stick Vertical-->|Move / Navigate on Menu|`↑`/`↓`|`[W]`/`[S]`|-|
+|🄻¹|<!--L1-->|-|`Ls`|`[R]` (temporal)|-|
+|🅁¹|<!--R1-->|-|`Rs`|`[R]` (temporal)|-|
+|🔙|<!--Back-->|Go Back on Menu / Open Escape Menu|`Select`|`[Esc]`|-|
+|📷|<!-- - -->|Open `📷Screenshot` Screen|Hold `🔙`|`[F12]`|-|
+|🔨|<!-- - -->|Enter `🔨Debug Toolbar` (when debug tools is enabled)|Hold `▶️`|`[F11]`|-|
 
 ### Controls in Menu
 
@@ -110,6 +111,7 @@
 
 * Open XVRF's `.exe` file with holding `[Ctrl]` to start the game app.
 > ⚠ Configuration for the New Input System is not provided in current versions. I apologize for the inconvenience.
+> The existing `Input` tab is left blank.
 
 --------
 🆇🅴🅻🅵
