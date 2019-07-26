@@ -79,6 +79,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## UniTask
+
+
+* Copyright © 2019 Yoshifumi Kawai / Cysharp, Inc.
+
+`MIT`
+
+🔗 https://github.com/Cysharp/UniTask
+
+
+
 ## Starfield
 
 
