@@ -6,8 +6,13 @@
 
 # 更新履歴 🙼 Update Logs
 
-## `2019-07-26` 0.2.306 on `Unity 2019.1.11f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
+## `2019-07-27` 0.2.324 on `Unity 2019.1.11f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * 🧪`テスター限定` ☛ [`Discord関連機能`](manual.md#Discord関連機能) / [最新情報](https://scrapbox.io/XVRF/XVRF%E3%81%AEDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB)
+  * ロビー検索/接続/切断の動作を調整しました。
+  * `👤🆚👤`メニューの動作を調整しました。
+  * `Discord Rich Presence`の表示を調整しました。
+## `2019-07-26` 0.2.306 on `Unity 2019.1.11f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
+* 🧪`テスター限定`
   * ロビー検索/接続/切断の動作を調整しました。
   * `👤🆚👤`メニューの動作を調整しました。
 ## `2019-07-25` 0.2.274 on `Unity 2019.1.11f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
