@@ -10,7 +10,7 @@
 # XVRF Outpost
 * `XVRF` (working title) home site
 * A 🎮 game development project by individual developer
-* Works on `Unity 2019.1.11f1` / `UniVRM 0.53.0` / `VRoid SDK 0.0.17`
+* Works on `Unity 2019.1.12f1` / `UniVRM 0.53.0` / `VRoid SDK 0.0.17`
 * [License / Third party notices](LICENSE.md)
 
 ## Downloads
