@@ -92,7 +92,7 @@ If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
 |Early Access Date|2019-05-01 `0.1.37` Public Early Access released|
 |Release Date|TBD|
 
-## Attitude Survey for Early Access
+## XVRF Tester for `Discord`-related features
 
 If you have interested in XVRF, feel free to submit the [📜Form](https://docs.google.com/forms/d/e/1FAIpQLSc65YglSrOXShY44_p9BFVY2vyvtz4U2IY4n2N3NwmA4jZvYg/viewform)
 
