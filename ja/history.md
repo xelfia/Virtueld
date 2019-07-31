@@ -6,6 +6,12 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-07-31` 0.2.364 on `Unity 2019.2.0f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
+* Unityを更新しました。
+* 🧪`テスター限定`機能を更新しました。 ☛ [`Discord関連機能`](manual.md#Discord関連機能) / [最新情報](https://scrapbox.io/XVRF/XVRF%E3%81%AEDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB)
+  * 断る`✖Decline`を追加し、🎮ゲームパッド`L₃`操作を追加しました。
+  * 降伏`✖Yield`の🎮ゲームパッド`L₃`長押し操作を追加しました。
+  * 受けて立つ`Take up the Gauntlet`の🎮ゲームパッド操作を`R₃`に変更しました。
 ## `2019-07-30` 0.2.357 on `Unity 2019.1.12f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * 起動時にウィンドウフォーカスが外れた場合に、フォーカスがないときの入力応答になるようにしました。
 * 🧪`テスター限定`機能を更新しました。 ☛ [`Discord関連機能`](manual.md#Discord関連機能) / [最新情報](https://scrapbox.io/XVRF/XVRF%E3%81%AEDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB)
