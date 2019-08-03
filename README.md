@@ -109,6 +109,3 @@ If you have interested in XVRF, feel free to submit the [✒Application form for
 --------
 🆇🅴🅻🅵
 ©2018-2019 XELF
-
-
-
