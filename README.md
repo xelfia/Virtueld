@@ -92,9 +92,12 @@ If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
 |Early Access Date|2019-05-01 `0.1.37` Public Early Access released|
 |Release Date|TBD|
 
-## XVRF Tester for `Discord`-related features
+## ✒Application form for XVRF closed alpha features
 
-If you have interested in XVRF, feel free to submit the [📜Form](https://docs.google.com/forms/d/e/1FAIpQLSc65YglSrOXShY44_p9BFVY2vyvtz4U2IY4n2N3NwmA4jZvYg/viewform)
+* Closed alpha features in 0.2.x
+  * `Discord`-related features
+
+If you have interested in XVRF, feel free to submit the [✒Application form for XVRF closed alpha features](https://docs.google.com/forms/d/e/1FAIpQLSc65YglSrOXShY44_p9BFVY2vyvtz4U2IY4n2N3NwmA4jZvYg/viewform)
 
 > This form is written in bilingual of `Japanese`/`English`.
 
