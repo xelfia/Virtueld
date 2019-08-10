@@ -9,13 +9,13 @@
 ## `2019-08-10` 0.3.19 on `Unity 2019.2.0f1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `VRoid SDK`を更新しました。
 *`👤Character Selection`を更新しました。
-  * `Bunbled`トグルを☐で**同梱**`Bunbled`キャラクターがリストから消えるようにしました。
+  * `Bundled`トグルを☐で**同梱**`Bundled`キャラクターがリストから消えるようにしました。
   * 開いたときにキャラクターリストをリロードするようにしました。
   * キャラクターリストの順序を調整しました。
-  * フィルタの初期設定を☑**同梱**`Bunbled`キャラクターにしました。
+  * フィルタの初期設定を☑**同梱**`Bundled`キャラクターにしました。
 ## `2019-08-09` 0.3.17 on `Unity 2019.2.0f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * 画面切り替え動作を調整しました。
-* `👤Character Selection`にて、`Bunbled`トグルを追加しました。**同梱**`Bunbled`キャラクターの選択に対応しました。
+* `👤Character Selection`にて、`Bundled`トグルを追加しました。**同梱**`Bundled`キャラクターの選択に対応しました。
 ## `2019-08-08` 0.3.9 on `Unity 2019.2.0f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * 一部画像を更新しました。
 * 🧪`Discord`関連機能を更新しました。☛ [`Discord関連機能`](manual.md#Discord関連機能) / [最新情報](https://scrapbox.io/XVRF/XVRF%E3%81%AEDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB)
