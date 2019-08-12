@@ -6,15 +6,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-08-12` 0.3.23 on `Unity 2019.2.0f1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* 一部画像を更新しました。
 ## `2019-08-11` 0.3.21 on `Unity 2019.2.0f1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
-* `🏠Lobby`画面にて、XVRF（仮称）に対する正式に向けたタイトル名`Virtueld`とロゴの試案を導入しました。これらは未確定です。
-* `Virtueld`/`🆅i🆁tueld`/`ヴァーチュエルド`
-  * 🔈 /və́ːrtʃuəld/, /vɜːrtjuəld/, /vɝtʃuəld/
-  * 以下のようなものから造語しました。
-    * virtue: 剛勇 武勇 美徳
-    * virtual rearity: 仮想現実
-    * eld (age, era): 時代 世代 古代
-    * world: ((hu)man+age) 世界
+* `🏠Lobby`画面にて、XVRF（仮称）に対する正式に向けたタイトル名`Virtueld`とロゴの試案を導入しました。これらは未確定です。詳しくは取扱説明書をご覧ください。
+  * `Virtueld`/`🆅i🆁tueld`/`ヴァーチュエルド`
 ## `2019-08-10` 0.3.19 on `Unity 2019.2.0f1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `VRoid SDK`を更新しました。
 *`👤Character Selection`を更新しました。
