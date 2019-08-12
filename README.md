@@ -7,7 +7,7 @@
 
 ----
 
-# XVRF Outpost
+# Virtueld (XVRF) Outpost
 * home site of `Virtueld` (draft title) / `XVRF` (project name)
 * A 🎮 game development project by individual developer
 * Works on `Unity 2019.2.0f1` / `UniVRM 0.53.0` / `VRoid SDK 0.0.18`
@@ -15,7 +15,7 @@
 
 ## Downloads
 
-☛ [XVRF Download Site](https://xelf.booth.pm/items/1341365) for `Windows 10`
+☛ [Virtueld (XVRF) Download Site](https://xelf.booth.pm/items/1341365) for `Windows 10`
 
 ## User's Manual
 
@@ -64,7 +64,7 @@ The following are current candidates: I will touch on it briefly.
 |eld|age, era| 時代 世代 古代|
 |world|(hu)man + age|世界|
 
-> * Use the new draft title `Virtueld` since `2019-08-12`.
+> * Use the new draft title `Virtueld` since `0.3.21` `2019-08-12`.
 > * `XVRF` will remain as the project name for a while.
 > * Keyword `VRoid Fight` is not a title candidate.
 
@@ -114,7 +114,7 @@ If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
 
 ## ✒Application form for XVRF closed alpha features
 
-* Closed alpha features in 0.2.x
+* Closed alpha features in 0.2.x or later
   * `Discord`-related features
 
 If you have interested in XVRF, feel free to submit the [✒Application form for XVRF closed alpha features](https://docs.google.com/forms/d/e/1FAIpQLSc65YglSrOXShY44_p9BFVY2vyvtz4U2IY4n2N3NwmA4jZvYg/viewform)
