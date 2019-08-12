@@ -8,7 +8,7 @@
 ----
 
 # XVRF Outpost
-* `XVRF` (working title) home site
+* home site of `Virtueld` (draft title) / `XVRF` (project name)
 * A 🎮 game development project by individual developer
 * Works on `Unity 2019.2.0f1` / `UniVRM 0.53.0` / `VRoid SDK 0.0.18`
 * [License / Third party notices](LICENSE.md)
@@ -47,8 +47,28 @@
 
 ----
 
-* `XVRF` / `VRoid Fight` are temporal names.
-These names are not intended to narrow the category, but it indicates the started development part.
+## About Title
+
+Right now considering the official title name along with the logo.
+The following are current candidates: I will touch on it briefly.
+
+* `Virtueld` /` 🆅i🆁tueld` / `Vertueld`
+* 🔈 /və́ːrtʃuəld/, /vɜːrtjuəld/, /vɝtʃuəld/ for `English`
+* 🔈 /ヴァーチュエルド/ for `Japanese`
+* I coined it from the followings:
+
+|`English` Words|Related Words|Related `Japanese` Words|
+|--|--|--|
+|virtue|| 剛勇 武勇 美徳|
+|virtual rearity|| 仮想現実|
+|eld|age, era| 時代 世代 古代|
+|world|(hu)man + age|世界|
+
+> * Use the new draft title `Virtueld` since `2019-08-12`.
+> * `XVRF` will remain as the project name for a while.
+> * Keyword `VRoid Fight` is not a title candidate.
+
+> These names are not intended to narrow the category, but it indicates the started development part.
 
 ## 👤 Snapshots Cast by
 
