@@ -4,13 +4,30 @@
 
 ----
 
-# XVRF (working title) | User's Manual (priliminary)
+# Virtueld (XVRF) | User's Manual
 
 * Although this software is a form of game, please think of it as a prototype (early access) still under development.
 * I'm hoping you enjoy as an app with your favorite VRM characters moving around.
 * I will update this work and descriptions as often as possible.
 
-* ☛ [XVRF Dowload Site](https://xelf.booth.pm/items/1341365)
+* ☛ [Virtueld (XVRF) Dowload Site](https://xelf.booth.pm/items/1341365)
+
+# About Title
+
+Right now considering the official title name along with the logo.
+The following are current candidates:
+
+* `Virtueld` /` 🆅i🆁tueld` / `Vertueld`
+* 🔈 /və́ːrtʃuəld/, /vɜːrtjuəld/, /vɝtʃuəld/ for `English`
+* 🔈 /ヴァーチュエルド/ for `Japanese`
+* I coined it from the followings:
+
+|`English` Words|Related Words|Related `Japanese` Words|
+|--|--|--|
+|virtue|| 剛勇 武勇 美徳|
+|virtual rearity|| 仮想現実|
+|eld|age, era| 時代 世代 古代|
+|world|(hu)man + age|世界|
 
 ## 💻 Recommended System Requirements
 
@@ -78,7 +95,8 @@ Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm
 |`🤖🆚🤖`|Start demo as AI versus AI.|
 |`Bind` / `Unbind`|Enable/Disable of the feature which makes the game startable from URL. (See below)|
 |`👤Character Selection`| Move to Character selection screen. (See below)|
-|`Discord`|(Provisional exposed. Under considering to describe in the future.)|
+|`🔎👤🆚👤`|Move to Lobby Search screen. Under dvelopment as `Discord`-related features. (See below)|
+|`💬Discord`|Open the invitation page for Virtueld public channel.|
 |`Web`| Open the [Offical Web Site](README.md).|
 |`📜Report`|Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods. (See below)|
 |`⚙Settings`|Open the `⚙Settings` screen. (See below)|
@@ -147,7 +165,8 @@ Selection screen for Single Player game mode.
 |---|---|
 |`Back`|Back to the previous screen.|
 |||
-|`Starry Sky`|When ☑, it is a starry sky. Otherwise, a daytime sky.|
+|`Sky`|You can select either Sunny / Cloudy / Starry.|
+|`Vine Density`|You can adjust the amount of vines generated in the background (`⇐` None - Many `⇒`). Press `⟳` to start regeneration. It doesn't affect gameplay directly, but please note that it may be **high loaded** until the process is completed after game startup or `⟳`.|
 
 > * Each setting is saved when you change it.
 
@@ -267,11 +286,30 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 > * If it does not work better than the bundled or standard characters, please refer:
 > ☛ `Japanese` [XVRF Model Definitions / XVRFで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
 
-## ⚠Known Issues
+## Skill List
+
+> * Detailed explanation of the `Skill List` is in preparation.
+
+## Share the Model Characteristics
 
 > This page contains `not translated`: Please also refer to the [`Japanese`](ja/manual.md) edition using machine translation etc. 🙇
 
 `not translated`
+
+## ⚠Known Issues
+
+`not translated`
+
+## Discord-related features
+
+* Experiments / tests are being conducted for some of tester-only features related to `Discord`.
+> * As of `0.3.21`
+>   * `Discord` features can be started mainly from `🔎👤🆚👤` button that opens the lobby search in `🏠Lobby` screen.
+>   * Also, if you can connect to the `Discord` client on your operating system, `Discord` user information is displayed in `P1`.
+
+* How to apply for `XVRF Discord Related Testers` is explained below.
+
+☛ [XVRFのDiscord関連機能テスター応募方法](https://scrapbox.io/XVRF/XVRF%E3%81%AEDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95) in `Japanese` language
 
 ## ✒Update Logs
 
@@ -335,7 +373,8 @@ Look for this text file (`.log` format).
 
 ## 📧Contacts
 
-* recommended Twitter hashtag (priliminary): `#XVRF`
+* recommended Twitter hashtags (priliminary): `#Virtueld`
+> `#XVRF`
 * ☛ [xelfia@twitter.com](https://twitter.com/xelfia)
 * [License](LICENSE.md)
 
