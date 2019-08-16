@@ -52,7 +52,7 @@ The following are current candidates:
 # How to start
 
 1. Unzip all files in the zip file. (first time after download)
-2. Open the `XVRF.exe` in the unzipped folder📁.
+2. Open the `Virtueld.exe` (`XVRF.exe`) in the unzipped folder📁.
 
 > * About protections by the Operating System `Windows 10` and/or anti-virus softwares, please treat with generic ways.
 > * For update versions, download it again, and do same way to start 🙇
@@ -331,7 +331,7 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 |`Capture`|Take a screenshot on the **previous screen** again. The same is true if you press `[F12]` key or hold `🔙` on gamepad 🎮 on `📷Screenshot` screen.|
 |`Save`|Save the preview screenshot as an image file and open the local image folder📁 (in the format below) with the file.|
 
-* `≪drive_letter≫:\Users\≪user_name≫\Pictures\XVRF`
+* `≪drive_letter≫:\Users\≪user_name≫\Pictures\Virtueld`
 
 <!--
 ## 📜 Feedback / Report a Bug
