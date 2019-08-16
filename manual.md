@@ -25,7 +25,7 @@ The following are current candidates:
 |`English` Words|Related Words|Related `Japanese` Words|
 |--|--|--|
 |virtue|| 剛勇 武勇 美徳|
-|virtual rearity|| 仮想現実|
+|virtual reality|| 仮想現実|
 |eld|age, era| 時代 世代 古代|
 |world|(hu)man + age|世界|
 
