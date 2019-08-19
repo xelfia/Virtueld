@@ -6,6 +6,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-08-19` 0.3.39 on `Unity 2019.2.1f1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* `🏠Lobby`の`Web`ボタンなどをウェブサイトのリンクに更新しました。
+* ゲームアプリ外の更新として
+  * ウェブサイト [Virtueld](https://xelfia.github.io/Virtueld/)のURLと内容を更新しました。Twitter Cardに対応しました。
+  * [PATREON](https://www.patreon.com/XELF)を設置しました。
 ## `2019-08-18` 0.3.38 on `Unity 2019.2.1f1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `👤🆚👤`の`Discord`ロビー管理/検索で継続稼働時の問題について調整しました。
 * `👤🆚👤`メニューからの`👤Character Selection`にて、特定条件でロビー検索に戻ってしまう動作が起きていたのため、調整をしました。たとえば、キャラクターロードを中止し、その次のロード後の一部など。
