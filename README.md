@@ -60,7 +60,7 @@ The following are current candidates: I will touch on it briefly.
 |`English` Words|Related Words|Related `Japanese` Words|
 |--|--|--|
 |virtue|| 剛勇 武勇 美徳|
-|virtual rearity|| 仮想現実|
+|virtual reality|| 仮想現実|
 |eld|age, era| 時代 世代 古代|
 |world|(hu)man + age|世界|
 
@@ -103,9 +103,9 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 
 * I am thinking about taking like the early access development model and to build this up with future patrons / supporters help. If so, it will do on a small scale. Though the informations limited, how do you think about it?
 
-If 👍/📧 ➡ 🔗 https://www.pixiv.net/fanbox/creator/33312285
-
+<!--
 * `日本語`による関連の投稿 (Related post in `Japanese`) 🔗 https://www.pixiv.net/fanbox/creator/33312285/post/239934
+-->
 
 |||
 |----|----|
@@ -125,6 +125,9 @@ If you have interested in XVRF, feel free to submit the [✒Application form for
 
 * 🔗 `Japanese` [VRoid 更新履歴 🌟 VRoid Update History](https://twitter.com/i/moments/1038317938049134592)
 * 🔗 `Japanese` Anyone can help: Unity Editor crash [Shared Stack Traces](https://scrapbox.io/XVRF/Shared_Stack_Traces)
+
+--------
+Support Me ☛ [Patreon](https://www.patreon.com/XELF) or [PixivFANBOX](https://www.pixiv.net/fanbox/creator/33312285)
 
 --------
 🆇🅴🅻🅵
