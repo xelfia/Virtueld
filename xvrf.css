@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Noto Sans JP', sans-serif;
-    margin: 5%;
+    margin: 1% 5% 5% 5%;
     line-height: 200%;
     background-color: #FFF6F0;
 }
@@ -52,9 +52,9 @@ hr {
 }
 
 .logo {
-    margin: 0% -5% 0% -5%;
+    margin: 0% 0% 0% 0%;
     padding: 0px 0px;
-    width: 110%;
+    width: 100%;
 }
 
 .play {
