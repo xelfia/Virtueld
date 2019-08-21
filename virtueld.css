@@ -81,12 +81,12 @@ hr {
     .toc td {
         padding: .25em .25em;
         background: #ffccaa;
-        font-weight: 700;
+        font-weight: 500;
     }
 
     .toc th {
         text-align: right;
         padding: .25em .25em;
-        font-weight: 700;
+        font-weight: 500;
         font-style: oblique;
     }
