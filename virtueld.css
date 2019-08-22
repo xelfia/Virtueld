@@ -87,6 +87,12 @@ hr {
     margin: .5em;
 }
 
+.language {
+    background: rgba(66, 133, 223, 0.57);
+    color: #ffffff;
+    font-weight: 100;
+}
+
 code {
     font-family: 'Noto Sans JP', sans-serif;
     border-radius: 4px;
