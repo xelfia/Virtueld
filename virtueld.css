@@ -1,4 +1,5 @@
-﻿/* 🆇🅴🅻🅵 ©2019 XELF */
+﻿/* CSS for Virtueld
+    🆇🅴🅻🅵 ©2019 XELF */
 
 body {
     font-family: 'Noto Sans JP', sans-serif;
@@ -75,7 +76,7 @@ hr {
 
 .play {
     font-size: 200%;
-    background: #ff6622;
+    background: #cc6a3e;
     border-radius: .25em;
     margin: .5em;
     padding: .25em;
@@ -84,6 +85,13 @@ hr {
 
 .banner {
     margin: .5em;
+}
+
+code {
+    font-family: 'Noto Sans JP', sans-serif;
+    border-radius: 4px;
+    background: #EECC6644;
+    padding: .125em .25em .125em .25em;
 }
 
 .toc {
