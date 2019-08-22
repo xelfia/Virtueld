@@ -7,6 +7,22 @@ body {
     background-color: #FFF6F0;
 }
 
+a:link {
+    color: #f66b95;
+}
+
+a:visited {
+    color: #2edc87;
+}
+
+a:hover {
+    color: #7a3705;
+}
+
+a:active {
+    color: #ff9123;
+}
+
 h1 {
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 900;
