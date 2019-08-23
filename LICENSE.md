@@ -1,4 +1,4 @@
-# XVRF Credits (preliminary)
+# Credits of Virtueld (preliminary)
 
 
 * ©2018-2019 XELF
@@ -6,11 +6,12 @@
 `Other License`
 
 
-⚠ This is the preliminary credits of XVRF (working title). It is not certain to contained or not in the final product. However, some components have contributed in the screen shots.
+⚠ This is the preliminary credits of XVRF (project name). It is not certain to contained or not in the final product. However, some components have contributed in the screen shots.
+
 
 --------
+# Third Party Notices
 
-## Third Party Notices
 
 ## SEGI
 
