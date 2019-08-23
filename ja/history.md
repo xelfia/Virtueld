@@ -5,7 +5,12 @@
 
 ----
 
+> 履歴にあるDiscord関連機能とオンライン関連機能の項目は ☛ [`Discord関連機能`](manual.md#Discord関連機能) と [最新情報](https://scrapbox.io/XVRF/XVRF%E3%81%AEDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB) に、より詳細な情報があります。
+
 # 更新履歴 🙼 Update Logs
+
+## `2019-08-23` 0.3.64 on `Unity 2019.2.2f1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* 👤🆚👤`の同期関連を調整しました。
 
 ## `2019-08-22` 0.3.56 on `Unity 2019.2.2f1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * Unityを更新しました。
@@ -80,7 +85,7 @@
 
 ## `2019-08-08` 0.3.9 on `Unity 2019.2.0f1` `UniVRM 0.53.0` `VRoidSDK 0.0.17`
 * 一部画像を更新しました。
-* 🧪`Discord`関連機能を更新しました。☛ [`Discord関連機能`](manual.md#Discord関連機能) / [最新情報](https://scrapbox.io/XVRF/XVRF%E3%81%AEDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB)
+* 🧪`Discord`関連機能を更新しました。
   * `👤🆚👤`メニューを更新しました。
     * `P1`専用のキャラクター選択を開く`👤Character Selection`ボタンを追加しました。
     * 一部動作は調整中です。
