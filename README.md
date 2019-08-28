@@ -7,15 +7,15 @@
 
 ----
 
-# Virtueld (XVRF) Outpost
+# Virtueld Outpost
 * home site of `Virtueld` (draft title) / `XVRF` (project name)
 * A 🎮 game development project by individual developer
-* Works on `Unity 2019.2.2f1` / `UniVRM 0.53.0` / `VRoid SDK 0.0.18`
+* Works on `Unity 2019.3.0b0` / `UniVRM 0.53.0` / `VRoid SDK 0.0.18`
 * [License / Third party notices](LICENSE.md)
 
 ## Downloads
 
-☛ [Virtueld (XVRF) Download Site](https://xelf.booth.pm/items/1341365) for `Windows 10`
+☛ [Virtueld Download Site](https://xelf.booth.pm/items/1341365) for `Windows 10`
 
 ## User's Manual
 
@@ -23,7 +23,7 @@
 
 ## History
 
-* For more details and/or newer logs, see [`更新履歴 in Japanese`](ja/history.md).
+* For more details and/or newer patch notes, see [`更新履歴 in Japanese`](ja/history.md).
 
 📷2019-05-30: `0.1.108` `Snapshots in Japanese`<br/>
 <img src="snapshot/XVRF2019-05-30-00.png" width="20%"/><img src="snapshot/XVRF2019-05-30-01.png" width="20%"/><img src="snapshot/XVRF2019-05-30-02.png" width="20%"/><img src="snapshot/XVRF2019-05-30-03.png" width="20%"/>
