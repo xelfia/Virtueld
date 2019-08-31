@@ -9,6 +9,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-08-31` 0.3.110 on `Unity 2019.3.0b1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* `Settings`/`Screen Settings`/`Scene Settings`画面にて、それぞれを切り替える`Common`/`Screen`/Scene`タブを追加しました。
+
 ## `2019-08-30` 0.3.109 on `Unity 2019.3.0b1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `Screen Settings`画面を追加しました。
   * `[F1]`キーで開きます。
