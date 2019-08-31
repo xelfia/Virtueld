@@ -110,6 +110,9 @@
 
 ### How to open the Configuration dialog
 
+> ⚠ `0.3.101`+: Follwing is no longer available on `Unity 2019.3.0b1`+.  
+> Instead, press `[F1]` to open `Screen Settings` screen ingame.
+
 * Open XVRF's `.exe` file with holding `[Ctrl]` to start the game app.
 > ⚠ Configuration for the New Input System is not provided in current versions. I apologize for the inconvenience.
 > The existing `Input` tab is left blank.
