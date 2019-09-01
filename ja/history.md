@@ -9,6 +9,14 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-09-01` 0.3.111 on `Unity 2019.3.0b1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* `🏠Lobby`画面を調整しました。
+  * `⚙Settings`ボタンを押すと前回のタブ（`Common`/`Screen`/`Scene`）を開くようにしました。
+    * 起動時は`Common`が既定です。
+  * `Scene`ボタンを除去しました。上記の操作方法に統合しました。
+* `⚙Settings`画面を調整しました。
+  * `Screen Settings`のUIを調整しました。
+
 ## `2019-08-31` 0.3.110 on `Unity 2019.3.0b1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `Settings`/`Screen Settings`/`Scene Settings`画面にて、それぞれを切り替える`Common`/`Screen`/`Scene`タブを追加しました。
 
