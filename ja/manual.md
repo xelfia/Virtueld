@@ -120,18 +120,18 @@
 
 ## 概要
 
-* この機能を有効化すると、 https://xelfia.github.io/XVRF-Outpost/ のページにある`▶️XVRF`のリンクから、あなたのWindowsにあるXVRFが起動できるようになります。
+* この機能を有効化すると、 https://xelfia.github.io/Virtueld/ のページにある`▶️Virtueld`のリンクから、あなたのWindowsにあるVirtueldが起動できるようになります。
 
 ## 有効化する / `Bind Protocol`
 
 1. `Bind`を押すと`Bind Protocol`画面が開きます。
 > * 何らかの設定がすでにある場合は`Bind Protocol (overwrite)`と表示されます。
-> * 異なるフォルダ📁（またはバージョン）のXVRFを登録する場合は、再び有効化の手順を行ってください。
+> * 異なるフォルダ📁（またはバージョン）のVirtueldを登録する場合は、再び有効化の手順を行ってください。
 
 2. `OK`を押すと有効化を開始します。
 > * 通常はWindowsによるセキュリティの確認があります。
 
-3. XVRFがもう1つ起動して（`Unity`ロゴが出て）、まもなく閉じます。
+3. 白い画面のVirtueldがもう1つ起動して、まもなく閉じます。
 4. もとのゲーム内で`Succeeded`が表示されれば、有効化に成功しています。
 
 ## 無効化する / `Unbind Protocol`
