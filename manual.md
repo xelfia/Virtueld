@@ -121,19 +121,19 @@ Selection screen for Single Player game mode.
 
 ## Overview
 
-* If you enable this feature, you can launch XVRF on your Windows from the link `▶️XVRF` on the page https://xelfia.github.io/XVRF-Outpost/.
+* If you enable this feature, you can launch Virtueld on your Windows from the link `▶️Virtueld` on the page https://xelfia.github.io/Virtueld/.
 
 ## `Bind Protocol`
 
 1. Press `Bind` to open `Bind Protocol` screen.
 > * If you already have some settings, you will see `Bind Protocol (overwrite)`.
-> * If you want to register XVRF of different folder📁 (or version), please follow the activation procedure again.
+> * If you want to register Virtueld of different folder📁 (or version), please follow the activation procedure again.
 
 2. Press `OK` to start to enable.
 > * Usually, there is security confirmation by Windows.
 
-3. Launch the secondary game app (with the `Unity` logo) and close it shortly.
-4. If `Succeeded` is displayed in the primary game app, it has been successfully enabled.
+3. Launch the secondary game app with white screen and close it shortly.
+4. If `Succeeded` is displayed in the primary Virtueld game app, it has been successfully enabled.
 
 ## `Unbind Protocol`
 
