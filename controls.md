@@ -15,7 +15,7 @@
 * Though gamepad is recommended, you can also play with Keyboard/Mouse.
 
 <!-- * `deprecated` ~You can customize the input bindings on `Input` tab of Configuration dialog.~ -->
-* XVRF now works with the Unity [New Input System](https://github.com/Unity-Technologies/InputSystem).
+* Virtueld now works with the Unity [New Input System](https://github.com/Unity-Technologies/InputSystem).
   * Since 4 buttons of any gamepad are mapped as `Ⓝ`/`Ⓔ`/`Ⓦ`/`Ⓢ` below under the New Input System. So I think you can play by default as expected bindings.
 
 ### Abstract Gamepad on New Input System (overview)
@@ -30,17 +30,17 @@
 |`←`|L-stick|`→`|`Select` | `Start` |`Ⓦ`| |`Ⓔ`|
 | |`↓`| | | | |`Ⓢ`| |
 
-### Gamepad Bindings on XVRF (default)
+### Gamepad Bindings on Virtueld (default)
 
 * Following notations are for generalize input devices.
 * Symbols are shown as similar icons in game screen.
 
 | - | - | - | - | - | - | - | - |
 |----|----|----|----|----|----|----|----|
-| `🄻²` | | | | | | | `🅁²` |
-| `🄻¹` | | | | | | | `🅁¹` |
+| `🄻₂` | | | | | | | `🅁₂` |
+| `🄻₁` | | | | | | | `🅁₁` |
 | |`↑`| | | | |`Ⓐ`| |
-|`←`|L-stick|`→`|`🔙` | `▶️` |`Ⓣ`| |`Ⓚ`|
+|`←`|L-stick|`→`|`🔙` | `▶️` |`Ⓣ`|R-stick|`Ⓚ`|
 | |`↓`| | | | |`Ⓖ`| |
 
 * ⚠ Arrows are L-stick inputs (not D-pad).
@@ -63,14 +63,15 @@
 
 ### Controls in Menu
 
-|Controls|Basic Usage|
-|----|----|
-|↑/↓/←/→|Navigate (L-stick)|
-|⯅/⯆/⯇/⯈|Navigate (D-pad)|
-|Ⓖ|Select / OK|
-|Ⓚ|Cancel|
-|🄻²/🅁²/R-stick|Scroll on Scroll Rect|
-|🔙|Go Back to Previous Screen|
+|Controls|Basic Usage|⌨Keyboard (Alternative)|
+|----|----|----|
+|↑/↓/←/→|Navigate (L-stick)||
+|⯅/⯆/⯇/⯈|Navigate (D-pad)||
+|Ⓖ|Select / OK||
+|Ⓚ|Cancel||
+|🄻₁/🅁₁|Switch Tab|Hold `[Tab]`/`[Tab]`|
+|🄻₂/🅁₂/R-stick|Scroll on Scroll Rect||
+|🔙|Go Back to Previous Screen||
 
 ### Controls in Combat
 
@@ -80,7 +81,7 @@
 
 |Controls|Your Position|Opponent Position|Default Move|Skills (optional)|
 |----|----|----|----|----|
-|🄻¹+🅁¹|-|-|Reset Combat in Training Mode|-|
+|🄻₁+🅁₁|-|-|Reset Combat in Training Mode|-|
 |→|`Stand`|-|`Run Forward`|-|
 |←|`Stand`|-|`Step Backward`|-|
 |↑|`Stand`|-|`Step Leftward`|-|
@@ -113,7 +114,7 @@
 > ⚠ `0.3.101`+: Follwing is no longer available on `Unity 2019.3.0b1`+.  
 > Instead, press `[F1]` to open `Screen Settings` screen ingame.
 
-* Open XVRF's `.exe` file with holding `[Ctrl]` to start the game app.
+~~Open Virtueld's `.exe` file with holding `[Ctrl]` to start the game app.~~
 > ⚠ Configuration for the New Input System is not provided in current versions. I apologize for the inconvenience.
 > The existing `Input` tab is left blank.
 
