@@ -421,17 +421,17 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 
 > * ゲーム内の`📜Report`から動作についての報告ができない場合で、問題の特定にログが必要とみられる場合、以下の手順でご報告ください。
 
-1. XVRFを実行したWindowsに、以下のような形式のフォルダ階層内のファイルに、Unityプレイヤーによっておそらく最後に実行したときのログが残っています。
+1. Virtueldを実行したWindowsに、以下のような形式のフォルダ階層内のファイルに、Unityプレイヤーによっておそらく最後に実行したときのログが残っています。
 このテキストファイル（`.log`形式）を探してみてください。
 
-* `≪ドライブ名≫:\Users\≪ユーザー名≫\AppData\LocalLow\XELF\XVRF\Player.log`
+* `≪ドライブ名≫:\Users\≪ユーザー名≫\AppData\LocalLow\XELF\Virtueld\Player.log`
 > `≪≫`の部分は環境により異なります。
 
 2. 該当のファイルが見つかったら、そのファイルを開きます。
 3. 内容のテキストをクリップボードにコピーします。
 4. 以下のフォームを開いてください。
 
-☛ 📜[XVRF report form](https://docs.google.com/forms/d/e/1FAIpQLSdjhUb6AhpkO7nlG3015DIAD3Rq1K6cQPe_yP5--oi6qfcIZg/viewform)
+☛ 📜[Virtueld report form](https://docs.google.com/forms/d/e/1FAIpQLSdjhUb6AhpkO7nlG3015DIAD3Rq1K6cQPe_yP5--oi6qfcIZg/viewform)
 
 5. フォームの`Log`にペースト（貼り付け）してください。
 > * ログが長く、入りきらないようでしたら、先頭から入る範囲までを優先的に貼り付けてください。
