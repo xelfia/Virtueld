@@ -77,7 +77,7 @@ The following are current candidates:
 * As the **early access version**, an expiration date is set for each version.
 * The expiration date of the version ends when the expiration date `Expilation` at the bottom of the screen is reached.
 When start after the expiration date, a message containing the phrase `Expired on` will be displayed.
-Please look for the latest version on [XVRF Download Site](https://xelf.booth.pm/items/1341365).
+Please look for the latest version on [Download Site](https://xelf.booth.pm/items/1341365).
 
 > * Display is in UTC (Coordinated Universal Time).
 > * Treatment of future expiration dates are undecided.
