@@ -350,17 +350,17 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 > * If you can not report the operation from the `📜Report` in-game, and if it seems that you need a log to identify the problem, please report it according to the following procedure.
 
-1. On Windows running XVRF, files in the folder hierarchy of the following format have a log when they were probably last run by the Unity player.
+1. On Windows running Virtueld, files in the folder hierarchy of the following format have a log when they were probably last run by the Unity player.
 Look for this text file (`.log` format).
 
-* `≪drive_letter≫:\Users\≪user_name≫\AppData\LocalLow\XELF\XVRF\Player.log`
+* `≪drive_letter≫:\Users\≪user_name≫\AppData\LocalLow\XELF\Virtueld\Player.log`
 > The part of `≪≫` differs depending on the environment.
 
 2. If the file is found, open that file.
 3. Copy the text of the content to the clipboard.
 4. Open the form below.
 
-☛ 📜[XVRF report form](https://docs.google.com/forms/d/e/1FAIpQLSdjhUb6AhpkO7nlG3015DIAD3Rq1K6cQPe_yP5--oi6qfcIZg/viewform)
+☛ 📜[Virtueld report form](https://docs.google.com/forms/d/e/1FAIpQLSdjhUb6AhpkO7nlG3015DIAD3Rq1K6cQPe_yP5--oi6qfcIZg/viewform)
 
 5. Paste it into `Log` of the form.
 > * If the log is long and it does not fit, please paste in the range from the top as priority.
