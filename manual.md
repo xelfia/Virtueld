@@ -5,13 +5,13 @@
 
 ----
 
-# Virtueld (XVRF) | User's Manual
+# Virtueld | User's Manual
 
 * Although this software is a form of game, please think of it as a prototype (early access) still under development.
 * I'm hoping you enjoy as an app with your favorite VRM characters moving around.
 * I will update this work and descriptions as often as possible.
 
-* ☛ [Virtueld (XVRF) Dowload Site](https://xelf.booth.pm/items/1341365)
+* ☛ [Virtueld Dowload Site](https://xelf.booth.pm/items/1341365)
 
 # About Title
 
