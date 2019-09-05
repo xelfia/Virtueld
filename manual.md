@@ -53,7 +53,7 @@ The following are current candidates:
 # How to start
 
 1. Unzip all files in the zip file. (first time after download)
-2. Open the `Virtueld.exe` (`XVRF.exe`) in the unzipped folder📁.
+2. Open the `Virtueld.exe` in the unzipped folder📁.
 
 > * About protections by the Operating System `Windows 10` and/or anti-virus softwares, please treat with generic ways.
 > * For update versions, download it again, and do same way to start 🙇
