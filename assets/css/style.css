@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Virtueld-Symbols', 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     margin: 1% 5% 5% 5%;
     line-height: 200%;
     background-color: #FFF6F0;
@@ -30,7 +30,7 @@ a:active {
 }
 
 h1 {
-    font-family: 'Virtueld-Symbols', 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-weight: 900;
     font-size: 180%;
     margin: 0% -6% 0% -6%;
@@ -39,13 +39,13 @@ h1 {
 }
 
 h2 {
-    font-family: 'Virtueld-Symbols', 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-weight: 900;
     font-size: 160%;
 }
 
 h3 {
-    font-family: 'Virtueld-Symbols', 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-weight: 900;
     font-size: 140%;
 }
@@ -55,7 +55,7 @@ hr {
 }
 
 .copyright {
-    font-family: 'Virtueld-Symbols', 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 75%;
     color: #333333;
     margin: 0% -6% 0% -6%;
@@ -64,7 +64,7 @@ hr {
 }
 
 .note {
-    font-family: 'Virtueld-Symbols', 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 75%;
     color: #883333;
     background-color: #FFEE88;
@@ -99,6 +99,7 @@ hr {
 }
 
 code {
+    font-variant-ligatures: common-ligatures;
     font-family: 'Virtueld-Symbols', 'Noto Sans JP', sans-serif;
     border-radius: 4px;
     background: #EECC6644;

@@ -9,7 +9,7 @@
 > Contents may change
 
 * Gamepad is mainly used.
-  * For combat, L-stick (left stick) and 4 buttons are mainly used.
+  * For combat, `L-stick` (left stick) and 4 buttons are mainly used.
   * Additional buttons are also used auxiliary.
   * `Skill` (Command inputs) will be short (in planned).
 * Though gamepad is recommended, you can also play with Keyboard/Mouse.
@@ -27,7 +27,7 @@
 | `Lt` | | | | | | | `Rt` |
 | `Ls` | | | | | | | `Rs` |
 | |`↑`| | | | |`Ⓝ`| |
-|`←`|L-stick|`→`|`Select` | `Start` |`Ⓦ`| |`Ⓔ`|
+|`←`|`L-stick`|`→`|`Select` | `Start` |`Ⓦ`|`R-stick`|`Ⓔ`|
 | |`↓`| | | | |`Ⓢ`| |
 
 ### Gamepad Bindings on Virtueld (default)
@@ -40,19 +40,19 @@
 | `🄻₂` | | | | | | | `🅁₂` |
 | `🄻₁` | | | | | | | `🅁₁` |
 | |`↑`| | | | |`Ⓐ`| |
-|`←`|L-stick|`→`|`🔙` | `▶️` |`Ⓣ`|R-stick|`Ⓚ`|
+|`←`|`L-stick`|`→`|`🔙` | `▶️` |`Ⓣ`|`R-stick`|`Ⓚ`|
 | |`↓`| | | | |`Ⓖ`| |
 
-* ⚠ Arrows are L-stick inputs (not D-pad).
+* ⚠ Arrows are `L-stick` inputs (not D-pad).
 
 #### Notations and Input Bindings 
 
 |Symbols (notations)|<!-- ~Name on `Input` tab~ (deprecated)-->|Basic Usage|🎮Gamepad|⌨Keyboard|🖱Mouse|
 |----|----|----|----|----|----|
-|Ⓐ|<!--Ⓐ Attack-->|Attack|`Ⓝ`|`[↑]` or Left `[Alt]`|`Left`|
-|Ⓚ|<!--Ⓚ Kick-->|Kick|`Ⓔ`|`[→]` or `[Z]`|`Right`|
-|Ⓣ|<!--Ⓣ Throw-->|Throw / Face to Opponent / Clinch|`Ⓦ`|`[←]` or `[X]`|`Middle`|
-|Ⓖ|<!--Ⓖ Guard-->|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
+|`Ⓐ`|<!--Ⓐ Attack-->|Attack|`Ⓝ`|`[↑]` or Left `[Alt]`|`Left`|
+|`Ⓚ`|<!--Ⓚ Kick-->|Kick|`Ⓔ`|`[→]` or `[Z]`|`Right`|
+|`Ⓣ`|<!--Ⓣ Throw-->|Throw / Face to Opponent / Clinch|`Ⓦ`|`[←]` or `[X]`|`Middle`|
+|`Ⓖ`|<!--Ⓖ Guard-->|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
 |←/→|<!--Left Stick Horizontal-->|Move / Naviagte on Menu|`←`/`→`|`[A]`/`[D]`|-|
 |↑/↓|<!--Left Stick Vertical-->|Move / Navigate on Menu|`↑`/`↓`|`[W]`/`[S]`|-|
 |🄻¹|<!--L1-->|-|`Ls`|`[R]` (temporal)|-|
@@ -65,12 +65,12 @@
 
 |Controls|Basic Usage|⌨Keyboard (Alternative)|
 |----|----|----|
-|↑/↓/←/→|Navigate (L-stick)||
+|↑/↓/←/→|Navigate (`L-stick`)||
 |⯅/⯆/⯇/⯈|Navigate (D-pad)||
-|Ⓖ|Select / OK||
-|Ⓚ|Cancel||
+|`Ⓖ`|Select / OK||
+|`Ⓚ`|Cancel||
 |🄻₁/🅁₁|Switch Tab|Hold `[Tab]`/`[Tab]`|
-|🄻₂/🅁₂/R-stick|Scroll on Scroll Rect||
+|🄻₂/🅁₂/`R-stick`|Scroll on Scroll Rect||
 |🔙|Go Back to Previous Screen||
 
 ### Controls in Combat
@@ -88,20 +88,20 @@
 |↓|`Stand`|-|`Step Rightward`|-|
 |↗|`Stand`|Your Closed Forward|`Step Around Left`|-|
 |↘|`Stand`|Your Closed Forward|`Step Around Right`|-|
-|Ⓐ|`Stand`|Your Forward|-|`Punch`|
-|Ⓐ|`Stand`|Your Behind|-|`Round Back Fist`|
-|Ⓐ|`Punch`|-|-|`Jab`|
-|→Ⓐ|`Stand`|-|-|`Splash`|
-|←Ⓐ|`Stand`|-|-|`Dosal Tackle`|
-|Ⓚ|`Stand`|-|-|`Low Kick`|
-|→Ⓚ|`Stand`|-|-|`Sliding Kick`|
-|←Ⓚ|`Stand`|-|-|`Round Kick`|
-|Ⓖ|`Stand`|-|`Guard`|-|
-|→Ⓣ|`Stand`|`Stand` + Your Closed Forward|`Jumping Closed Guard`|
-|←Ⓣ|`Stand`|`Stand` + Your Closed Forward|`Round Throw`|
-|Ⓣ|`Stand`|`Supine`/`Prone`|-|`Kneeling Mount`|
-|Ⓣ|`Stand`|Not Face Forward|-|`Turn` to face forward|
-|Ⓐ|`Kneeling Mount`|`Supine`/`Prone`|-|`Kneeling Slam`|
+|`Ⓐ`|`Stand`|Your Forward|-|`Punch`|
+|`Ⓐ`|`Stand`|Your Behind|-|`Round Back Fist`|
+|`Ⓐ`|`Punch`|-|-|`Jab`|
+|→`Ⓐ`|`Stand`|-|-|`Splash`|
+|←`Ⓐ`|`Stand`|-|-|`Dosal Tackle`|
+|`Ⓚ`|`Stand`|-|-|`Low Kick`|
+|→`Ⓚ`|`Stand`|-|-|`Sliding Kick`|
+|←`Ⓚ`|`Stand`|-|-|`Round Kick`|
+|`Ⓖ`|`Stand`|-|`Guard`|-|
+|→`Ⓣ`|`Stand`|`Stand` + Your Closed Forward|`Jumping Closed Guard`|
+|←`Ⓣ`|`Stand`|`Stand` + Your Closed Forward|`Round Throw`|
+|`Ⓣ`|`Stand`|`Supine`/`Prone`|-|`Kneeling Mount`|
+|`Ⓣ`|`Stand`|Not Face Forward|-|`Turn` to face forward|
+|`Ⓐ`|`Kneeling Mount`|`Supine`/`Prone`|-|`Kneeling Slam`|
 |→|`Kneeling Mount`|-|`On All Fours`|-|
 |→|`Supine`|-|`Get up off`|-|
 |←|`Supine`|-|`Kip up`|-|
