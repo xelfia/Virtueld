@@ -98,7 +98,7 @@ Please look for the latest version on [Download Site](https://xelf.booth.pm/item
 |`👤Character Selection`| Move to Character selection screen. (See below)|
 |`🔎👤🆚👤`|Move to Lobby Search screen. Under dvelopment as `Discord`-related features. (See below)|
 |`💬Discord`|Open the invitation page for Virtueld public channel.|
-|`Web`| Open the [Offical Web Site](README.md).|
+|`Web`| Open the [Offical Web Site](.).|
 |`📜Report`|Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods. (See below)|
 |`⚙Settings`|Open the `⚙Settings` screen. (See below)|
 |`⚙Scene`|Open the `Scene Settings` screen. (See below)|
