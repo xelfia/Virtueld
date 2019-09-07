@@ -101,7 +101,6 @@ Please look for the latest version on [Download Site](https://xelf.booth.pm/item
 |`Web`| Open the [Offical Web Site](.).|
 |`📜Report`|Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods. (See below)|
 |`⚙Settings`|Open the `⚙Settings` screen. (See below)|
-|`⚙Scene`|Open the `Scene Settings` screen. (See below)|
 
 # `Single Player Menu`
 
@@ -146,6 +145,10 @@ Selection screen for Single Player game mode.
 
 # `⚙Settings`
 
+`Common`/`Screen`/`Scene` tabs in this screen. Tab move operation or mouse🖱 click to switch each screen.
+
+## `Common` tab
+
 |||
 |---|---|
 |`Back`|Back to the previous screen.|
@@ -160,13 +163,22 @@ Selection screen for Single Player game mode.
 |`English` / `Japanese`|☑ language is preferred. This setting is only reflected to the part that supports multiple languages. The initial setting depends on the execution environment (`Windows`).|
 > * Each setting is saved when you change it.
 
-# `Scene Settings`
+## `Screen` tab
 
 |||
 |---|---|
 |`Back`|Back to the previous screen.|
 |||
-|`Sky`|You can select either Sunny / Cloudy / Starry.|
+|`Resolution`|Screen resolution: Width×Height `pixels` (Refresh rate `Hz`). Refresh rate may not be reflected.|
+|`Mode`|`Full Screen Window`/`Maximized Window`/`Window`|
+
+## `Scene` tab
+
+|||
+|---|---|
+|`Back`|Back to the previous screen.|
+|||
+|`Sky`|You can select either `Sunny` / `Cloudy` / `Starry`.|
 |`Vine Density`|You can adjust the amount of vines generated in the background (`⇐` None - Many `⇒`). Press `⟳` to start regeneration. It doesn't affect gameplay directly, but please note that it may be **high loaded** until the process is completed after game startup or `⟳`.|
 
 > * Each setting is saved when you change it.
