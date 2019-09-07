@@ -145,7 +145,7 @@ Selection screen for Single Player game mode.
 
 # `⚙Settings`
 
-`Common`/`Screen`/`Scene` tabs in this screen. Tab move operation or mouse🖱 click to switch each screen.
+There are `Common`/`Screen`/`Scene` tabs in this screen. Tab move operation or mouse🖱 click to switch each screen.
 
 ## `Common` tab
 
