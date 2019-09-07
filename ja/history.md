@@ -10,6 +10,7 @@
 # 更新履歴 🙼 Update Logs
 
 ## `2019-09-06` 0.3.121 on `Unity 2019.3.0b1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* 一部画像を更新しました。
 * ゲームアプリ外の更新として
   * ウェブサイト [Virtueld](https://xelfia.github.io/Virtueld/)を更新しました。
     * トップページ以外のフォント（一部記号）を更新しました。
