@@ -9,6 +9,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-09-08` 0.3.123 on `Unity 2019.3.0b1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* `🏠Lobby`を更新しました。
+  * `Bind`/`Unbind`を撤去しました。（`Protocol`タブに機能を譲りました）
+
 ## `2019-09-07` 0.3.122 on `Unity 2019.3.0b1` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `⚙Settings`画面を更新しました。
   * `Protocol`タブを追加しました。`🏠Lobby`にあるものと機能は同等です。`🏠Lobby`にある方は撤去する予定です。
