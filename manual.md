@@ -94,7 +94,6 @@ Please look for the latest version on [Download Site](https://xelf.booth.pm/item
 |||
 |`👤🆚🤖`|Open `Single Player Menu` (Player versus AI). (See below)|
 |`🤖🆚🤖`|Start demo as AI versus AI.|
-|`Bind` / `Unbind`|Enable/Disable of the feature which makes the game startable from URL. (See below)|
 |`👤Character Selection`| Move to Character selection screen. (See below)|
 |`🔎👤🆚👤`|Move to Lobby Search screen. Under dvelopment as `Discord`-related features. (See below)|
 |`💬Discord`|Open the invitation page for Virtueld public channel.|
@@ -115,33 +114,6 @@ Selection screen for Single Player game mode.
 |`Training`|Start `Training` mode. Each `Life` will regenerate over time. There is no end of the round. A round reset operation is available.|
 
 > Depending on versions, game modes may change the content or increase/decrease.
-
-# `Protocol (Enable to start from URL)`
-
-## Overview
-
-* If you enable this feature, you can launch Virtueld on your Windows from the link `▶️Virtueld` on the page https://xelfia.github.io/Virtueld/.
-
-## `Bind Protocol`
-
-1. Press `Bind` to open `Bind Protocol` screen.
-> * If you already have some settings, you will see `Bind Protocol (overwrite)`.
-> * If you want to register Virtueld of different folder📁 (or version), please follow the activation procedure again.
-
-2. Press `OK` to start to enable.
-> * Usually, there is security confirmation by Windows.
-
-3. Launch the secondary game app with white screen and close it shortly.
-4. If `Succeeded` is displayed in the primary Virtueld game app, it has been successfully enabled.
-
-## `Unbind Protocol`
-
-* When already registered something:
-  * ➡ Press `Unbind` to open `Unbind Protocol` screen. It is the same way as `Bind Protocol`.
-> Please use especially when you want to disable (remove).
-
-* When not registered anything:
-  * ➡ Press `Unbind` to will display `Protocol Not Found`.
 
 # `⚙Settings`
 
@@ -182,6 +154,35 @@ There are `Common`/`Screen`/`Scene` tabs in this screen. Tab move operation or m
 |`Vine Density`|You can adjust the amount of vines generated in the background (`⇐` None - Many `⇒`). Press `⟳` to start regeneration. It doesn't affect gameplay directly, but please note that it may be **high loaded** until the process is completed after game startup or `⟳`.|
 
 > * Each setting is saved when you change it.
+
+## `Protocol` tab
+
+Enable/Disable of the feature which makes the game startable from URL.
+
+### Overview
+
+* If you enable this feature, you can launch Virtueld on your Windows from the link `▶️Virtueld` on the page https://xelfia.github.io/Virtueld/.
+
+### `Bind Protocol`
+
+1. Press `Bind` to open `Bind Protocol` screen.
+> * If you already have some settings, you will see `Bind Protocol (overwrite)`.
+> * If you want to register Virtueld of different folder📁 (or version), please follow the activation procedure again.
+
+2. Press `OK` to start to enable.
+> * Usually, there is security confirmation by Windows.
+
+3. Launch the secondary game app with white screen and close it shortly.
+4. If `Succeeded` is displayed in the primary Virtueld game app, it has been successfully enabled.
+
+### `Unbind Protocol`
+
+* When already registered something:
+  * ➡ Press `Unbind` to open `Unbind Protocol` screen. It is the same way as `Bind Protocol`.
+> Please use especially when you want to disable (remove).
+
+* When not registered anything:
+  * ➡ Press `Unbind` to will display `Protocol Not Found`.
 
 # `Escape Menu`
 
