@@ -1,18 +1,18 @@
 <img src="image/xvrf-title-icon-1280x640.png" width="50%"/>
 
 <!--[🔙](../README.md) | -->
-[`User's Manual`](manual.md) | `Controls` | ~`History`~ | ~`Debug Tools`~ | `English` | [`Japanese`](ja/controls.md)
+[`User's Manual`](manual.md) | `Controls` | ~`History`~ | [`Debug Tools`](debug.md) | `English` | [`Japanese`](ja/controls.md)
 
 ## 🎮 How to Control / Input Device
 
 <!-- > This is preliminary-->
 > Contents may change
 
-* Gamepad is mainly used.
+* 🎮Gamepad is mainly used.
   * For combat, `🄻🕹` (left stick) and 4 buttons are mainly used.
   * Additional buttons are also used auxiliary.
   * `Skill` (Command inputs) will be short (in planned).
-* Though gamepad is recommended, you can also play with Keyboard/Mouse.
+* Though 🎮gamepad is recommended, you can also play with ⌨Keyboard/🖱Mouse.
 
 <!-- * `deprecated` ~You can customize the input bindings on `Input` tab of Configuration dialog.~ -->
 * Virtueld now works with the Unity [New Input System](https://github.com/Unity-Technologies/InputSystem).
