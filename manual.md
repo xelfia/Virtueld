@@ -133,6 +133,7 @@ There are `Common`/`Screen`/`Scene` tabs in this screen. Tab move operation or m
 |`Debug Tools`|When ☑, `Debug Tools` related UI are displayed. (See below)|
 |`Move by Mouse`|When ☑, The relative movement of the mouse pointer corresponds to the movement input (equivalent to the left stick`🄻🕹` on the gamepad 🎮).|
 |`English` / `Japanese`|☑ language is preferred. This setting is only reflected to the part that supports multiple languages. The initial setting depends on the execution environment (`Windows`).|
+
 > * Each setting is saved when you change it.
 
 ## `Screen` tab
@@ -143,6 +144,7 @@ There are `Common`/`Screen`/`Scene` tabs in this screen. Tab move operation or m
 |||
 |`Resolution`|Screen resolution: Width×Height `pixels` (Refresh rate `Hz`). Refresh rate may not be reflected.|
 |`Mode`|`Full Screen Window`/`Maximized Window`/`Window`|
+> * Each setting is saved when you change it.
 
 ## `Scene` tab
 
