@@ -55,8 +55,8 @@
 |`Ⓖ`|<!--Ⓖ Guard-->|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
 |←/→|<!--Left Stick Horizontal-->|Move / Naviagte on Menu|`←`/`→`|`[A]`/`[D]`|-|
 |↑/↓|<!--Left Stick Vertical-->|Move / Navigate on Menu|`↑`/`↓`|`[W]`/`[S]`|-|
-|🄻¹|<!--L1-->|-|`Ls`|`[R]` (temporal)|-|
-|🅁¹|<!--R1-->|-|`Rs`|`[R]` (temporal)|-|
+|`🄻¹`|<!--L1-->|-|`Ls`|`[R]` (temporal)|-|
+|`🅁¹`|<!--R1-->|-|`Rs`|`[R]` (temporal)|-|
 |🔙|<!--Back-->|Go Back on Menu / Open Escape Menu|`Select`|`[Esc]`|-|
 |📷|<!-- - -->|Open `📷Screenshot` Screen|Hold `🔙`|`[F12]`|-|
 |🔨|<!-- - -->|Enter `🔨Debug Toolbar` (when debug tools is enabled)|Hold `▶️`|`[F11]`|-|
@@ -69,8 +69,8 @@
 |⯅/⯆/⯇/⯈|Navigate (D-pad)||
 |`Ⓖ`|Select / OK||
 |`Ⓚ`|Cancel||
-|🄻₁/🅁₁|Switch Tab|Hold `[Tab]`/`[Tab]`|
-|🄻₂/🅁₂/`🅁🕹`|Scroll on Scroll Rect||
+|`🄻₁`/`🅁₁`|Switch Tab|Hold `[Tab]`/`[Tab]`|
+|`🄻₂`/`🅁₂`/`🅁🕹`|Scroll on Scroll Rect||
 |🔙|Go Back to Previous Screen||
 
 ### Controls in Combat
@@ -81,7 +81,7 @@
 
 |Controls|Your Position|Opponent Position|Default Move|Skills (optional)|
 |----|----|----|----|----|
-|🄻₁+🅁₁|-|-|Reset Combat in Training Mode|-|
+|`🄻₁`+`🅁₁`|-|-|Reset Combat in Training Mode|-|
 |→|`Stand`|-|`Run Forward`|-|
 |←|`Stand`|-|`Step Backward`|-|
 |↑|`Stand`|-|`Step Leftward`|-|
