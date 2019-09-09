@@ -9,7 +9,7 @@
 > Contents may change
 
 * Gamepad is mainly used.
-  * For combat, `🄻🕹️` (left stick) and 4 buttons are mainly used.
+  * For combat, `🄻🕹` (left stick) and 4 buttons are mainly used.
   * Additional buttons are also used auxiliary.
   * `Skill` (Command inputs) will be short (in planned).
 * Though gamepad is recommended, you can also play with Keyboard/Mouse.
@@ -27,7 +27,7 @@
 | `Lt` | | | | | | | `Rt` |
 | `Ls` | | | | | | | `Rs` |
 | |`↑`| | | | |`Ⓝ`| |
-|`←`|`🄻🕹️`|`→`|`Select` | `Start` |`Ⓦ`|`🅁🕹️`|`Ⓔ`|
+|`←`|`🄻🕹`|`→`|`Select` | `Start` |`Ⓦ`|`🅁🕹`|`Ⓔ`|
 | |`↓`| | | | |`Ⓢ`| |
 
 ### Gamepad Bindings on Virtueld (default)
@@ -40,10 +40,10 @@
 | `🄻₂` | | | | | | | `🅁₂` |
 | `🄻₁` | | | | | | | `🅁₁` |
 | |`↑`| | | | |`Ⓐ`| |
-|`←`|`🄻🕹️`|`→`|`🔙` | `▶️` |`Ⓣ`|`🅁🕹️`|`Ⓚ`|
+|`←`|`🄻🕹`|`→`|`🔙` | `▶️` |`Ⓣ`|`🅁🕹`|`Ⓚ`|
 | |`↓`| | | | |`Ⓖ`| |
 
-* ⚠ Arrows are `🄻🕹️` inputs (not D-pad).
+* ⚠ Arrows are `🄻🕹` inputs (not D-pad).
 
 #### Notations and Input Bindings 
 
@@ -65,12 +65,12 @@
 
 |Controls|Basic Usage|⌨Keyboard (Alternative)|
 |----|----|----|
-|↑/↓/←/→|Navigate (`🄻🕹️`)||
+|↑/↓/←/→|Navigate (`🄻🕹`)||
 |⯅/⯆/⯇/⯈|Navigate (D-pad)||
 |`Ⓖ`|Select / OK||
 |`Ⓚ`|Cancel||
 |🄻₁/🅁₁|Switch Tab|Hold `[Tab]`/`[Tab]`|
-|🄻₂/🅁₂/`🅁🕹️`|Scroll on Scroll Rect||
+|🄻₂/🅁₂/`🅁🕹`|Scroll on Scroll Rect||
 |🔙|Go Back to Previous Screen||
 
 ### Controls in Combat
