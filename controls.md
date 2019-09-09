@@ -55,8 +55,8 @@
 |`Ⓖ`|<!--Ⓖ Guard-->|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
 |←/→|<!--Left Stick Horizontal-->|Move / Naviagte on Menu|`←`/`→`|`[A]`/`[D]`|-|
 |↑/↓|<!--Left Stick Vertical-->|Move / Navigate on Menu|`↑`/`↓`|`[W]`/`[S]`|-|
-|`🄻¹`|<!--L1-->|-|`Ls`|`[R]` (temporal)|-|
-|`🅁¹`|<!--R1-->|-|`Rs`|`[R]` (temporal)|-|
+|`🄻₁`|<!--L1-->|-|`Ls`|`[R]` (temporal)|-|
+|`🅁₁`|<!--R1-->|-|`Rs`|`[R]` (temporal)|-|
 |🔙|<!--Back-->|Go Back on Menu / Open Escape Menu|`Select`|`[Esc]`|-|
 |📷|<!-- - -->|Open `📷Screenshot` Screen|Hold `🔙`|`[F12]`|-|
 |🔨|<!-- - -->|Enter `🔨Debug Toolbar` (when debug tools is enabled)|Hold `▶️`|`[F11]`|-|
