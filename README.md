@@ -10,16 +10,18 @@
 # Virtueld Outpost
 * Home site of `Virtueld` (draft title) / `XVRF` (project name)
 * A 🎮 game development project by individual developer
-* Works on `Unity 2019.3.0b1` / `UniVRM 0.53.0` / `VRoid SDK 0.0.18`
+* Works on `Unity 2019.3.0b2` / `UniVRM 0.53.0` / `VRoid SDK 0.0.18`
 * [License / Third party notices](LICENSE.md)
 
 ## Downloads
 
 ☛ [Virtueld Download Site](https://xelf.booth.pm/items/1341365) for `Windows 10`
 
+<!--
 ## User's Manual
 
 [`English`](manual.md) / [`Japanease`](ja/manual.md)
+-->
 
 ## History
 
@@ -75,7 +77,7 @@ The following are current candidates: I will touch on it briefly.
 * `VRoid Hub` 🔗 [ᚡᛆᛚᚴᚤᚱᛄᛆ](https://hub.vroid.com/characters/5500341240985797385/models/2347767225951567710): Valkyrie / Valkyrja / ᚡᛆᛚᚴᚤᚱᛄᛆ / 🆅alky🆁ie created by XELF on `XISMO`
 * A working-in-progress character (1) created by XELF on `VRoid Studio`
 * `VRoid Hub` 🔗 [Victorine](https://hub.vroid.com/characters/1204568412013961579/models/5757254838117644958): XVRF Specimen Female 2 created by XELF on `VRoid Studio`
-* `VRoid Hub` 🔗 [XVRF Specimen Male 1](https://hub.vroid.com/characters/6507936595093002129/models/7670077723001265143) created by XELF on `VRoid Studio`
+* `VRoid Hub` 🔗 [Virtueld Specimen Male 1](https://hub.vroid.com/characters/6507936595093002129/models/7670077723001265143) created by XELF on `VRoid Studio`
 * `VRoid Hub` 🔗 [じんるい](https://hub.vroid.com/characters/7101894907524669339/models/7778036813709384965)
 * `VRoid Hub` 🔗 [うさ](https://hub.vroid.com/characters/8735174771329069411/models/7787870287866500519)
 
@@ -112,12 +114,12 @@ For example, characters on `VRoid Hub`, there are varied body type of characters
 |Early Access Date|2019-05-01 `0.1.37` Public Early Access released|
 |Release Date|TBD|
 
-## ✒Application form for XVRF closed alpha features
+## ✒Application form for Virtueld closed alpha features
 
 * Closed alpha features in 0.2.x or later
   * `Discord`-related features
 
-If you have interested in XVRF, feel free to submit the [✒Application form for XVRF closed alpha features](https://docs.google.com/forms/d/e/1FAIpQLSc65YglSrOXShY44_p9BFVY2vyvtz4U2IY4n2N3NwmA4jZvYg/viewform)
+If you have interested in Virtueld, feel free to submit the [✒Application form for Virtueld closed alpha features](https://docs.google.com/forms/d/e/1FAIpQLSc65YglSrOXShY44_p9BFVY2vyvtz4U2IY4n2N3NwmA4jZvYg/viewform)
 
 > This form is written in bilingual of `Japanese`/`English`.
 
