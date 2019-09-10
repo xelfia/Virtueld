@@ -22,7 +22,7 @@ It is supposed to be used so that the results can be seen more quickly in the fo
 
 ## Debug Toolbar
 
-When `Debug Tools` is ☑ in `⚙Settings`, you can use the the debug tools (developer functions) at the bottom of the screen.
+When `Debug Tools` is enabled☑ in `⚙Settings`, you can use the debug tools (developer functions) at the bottom of the screen.
 
 * Press `[F11]` or hold the gamepad🎮 `▶` to move into `🔨Debug Toolbar`. 
 > If another screen overlaps before the `🔨Debug Toolbar`, you cannot directly operate the `🔨Debug Toolbar` button with a mouse click, so please do the above operation first.
@@ -51,19 +51,19 @@ When `Debug Tools` is ☑ in `⚙Settings`, you can use the the debug tools (dev
 
 ## `Debug`
 
-If `Debug Tools` is enabled in `⚙Settings`, the `Debug` UI (user interface) is displayed in `🏠Lobby`.
+If `Debug Tools` is enabled☑ in `⚙Settings`, the `Debug` UI (user interface) is displayed in `🏠Lobby`.
 
 > * This feature is completely prototype.
 > * Commentary pending for prototype stage
 
 ## Statistics Monitor `Graphy`
 
-* If you display `Graphy`, you can check statistical information about operation performance.
+* If you display `Graphy`, you can check statistics about operation performance.
 
 > If you feel performance problems against the specification of the execution environment, it would be greatly appreciated if you could share the screenshots / videos showing `Graphy` with the contents of the `Report`.
 
 ### Outline
-* The following information is displayed in `Graphy` activated.
+* The following states are displayed in `Graphy` activated.
   * FPS (Frames Per Second)
   * Memory Usage
   * Output Volume
