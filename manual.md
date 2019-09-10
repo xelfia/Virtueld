@@ -205,7 +205,7 @@ In the combat screen as `👤🆚🤖` (Single Player), input 🔙 to display th
 
 I have added features that can be used effectively by creative people such as VRM authors.
 
-☛ `English (N/A)` [`Japanese`](ja/debug.md)
+☛ ~~`English`~~ | [`Japanese`](ja/debug.md)
 
 # Way to select a character / `👤Character Selection`
 
@@ -330,7 +330,7 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 ## ✒Update Logs
 
-☛ `English (N/A)` | [`Japanese`](ja/history.md)
+☛ ~~`English`~~ | [`Japanese`](ja/history.md)
 
 ## 🎮Controls and Input Devices
 
