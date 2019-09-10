@@ -16,7 +16,7 @@ It is supposed to be used so that the results can be seen more quickly in the fo
 
 ## ⚠Notes
 > * There is no guarantee for the functions classified as debug.
-> * The debug function may be changed / increased at any time.
+> * The debug functions may be changed / increased at any time.
 > * In many cases, it is useful to make verification easier or to save time.
 > * However, if there is a function that can be foreseen if an inappropriate problem occurs, please refrain from using it.
 
