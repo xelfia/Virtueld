@@ -1,7 +1,7 @@
 <img src="image/xvrf-title-icon-1280x640.png" width="50%"/> May the XVRF with you
 
 <!--[🔙](../README.md) | -->
-`User's Manual` | [`Controls`](controls.md) | ~`History`~ | [`Debug Tools`](debug.md) | `English` | [`Japanese`](ja/manual.md)
+`User's Manual` | [`Controls`](controls.md) | ~~`History`~~ | [`Debug Tools`](debug.md) | `English` | [`Japanese`](ja/manual.md)
 
 ----
 
@@ -144,7 +144,8 @@ There are `Common`/`Screen`/`Scene` tabs in this screen. Tab move operation or m
 |||
 |`Resolution`|Screen resolution: Width×Height `pixels` (Refresh rate `Hz`). Refresh rate may not be reflected.|
 |`Mode`|`Full Screen Window`/`Maximized Window`/`Window`|
-> * Each setting is saved when you change it.
+
+> * Each setting is saved when you change it.
 
 ## `Scene` tab
 
