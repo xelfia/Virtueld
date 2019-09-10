@@ -22,7 +22,7 @@ It is supposed to be used so that the results can be seen more quickly in the fo
 
 ## Debug Toolbar
 
-When `Debug Tools` is set to `☑Settings`, you can use the the debug tools (developer functions) at the bottom of the screen.
+When `Debug Tools` is ☑ in `⚙Settings`, you can use the the debug tools (developer functions) at the bottom of the screen.
 
 * Press `[F11]` or hold the gamepad🎮 `▶` to move into `🔨Debug Toolbar`. 
 > If another screen overlaps before the `🔨Debug Toolbar`, you cannot directly operate the `🔨Debug Toolbar` button with a mouse click, so please do the above operation first.
@@ -46,7 +46,7 @@ When `Debug Tools` is set to `☑Settings`, you can use the the debug tools (dev
 |`0.5x`|0.5x speed|
 |`1.0x`|1x speed|
 |`2.0x`|2x speed|
-|`AI🆚AI`|Immediately switch from AI versus AI.|
+|`AI🆚AI`|Immediately switch to AI versus AI.|
 |`P🆚AI`|Immediately switch to Player versus AI.|
 
 ## `Debug`
