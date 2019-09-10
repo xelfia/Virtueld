@@ -204,7 +204,7 @@ URLからゲームを起動可能にする機能の登録/解除です。
 
 VRM作者などのクリエイティブな方に、効果的に活用していただけるような機能を入れています。
 
-☛ `English (N/A)` [`Japanese`](debug.md)
+☛ ~~`English`~~ | [`Japanese`](debug.md)
 
 # キャラクターの選択方法 🙼 `👤Character Selection`
 
@@ -410,7 +410,7 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 
 バージョンの違いなどについては以下をご覧ください。
 
-☛ `English (N/A)` | [`Japanese`](history.md)
+☛ ~~`English`~~ | [`Japanese`](history.md)
 
 ## 🎮操作方法と入力デバイス
 
