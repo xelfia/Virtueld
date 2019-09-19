@@ -1,7 +1,7 @@
 <img src="../image/xvrf-title-icon-1280x640.png" width="50%"/>
 
 <!--[🔙](../README.md) | -->
-[`取扱説明書`](manual.md) | [`操作方法`](controls.md) | [`更新履歴`](history.md) | `デバッグツール` | ~~`English`~~ | `Japanese`
+[`取扱説明書`](manual.md) | [`操作方法`](controls.md) | [`更新履歴`](history.md) | `デバッグツール` | [`English`](../debug.md) | `Japanese`
 
 ----
 
@@ -51,10 +51,13 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 
 ## デバッグ / `Debug`
 
-`⚙Settings`で`Debug Tools`を☑にしている場合、`🏠ロビー`に`Debug`のUI（ユーザインタフェース）が表示されます。
+~~`⚙Settings`で`Debug Tools`を☑にしている場合、`🏠ロビー`に`Debug`のUI（ユーザインタフェース）が表示されます。~~
+> `0.3.161以降`: 暫定で常に非表示となりました。利用できません。
 
+<!--
 > * この機能は全面的に試作です。
 > * 試作段階につき解説を保留
+-->
 
 ## 統計モニタ`Graphy`
 
