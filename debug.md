@@ -51,10 +51,13 @@ When `Debug Tools` is enabled☑ in `⚙Settings`, you can use the debug tools (
 
 ## `Debug`
 
-If `Debug Tools` is enabled☑ in `⚙Settings`, the `Debug` UI (user interface) is displayed in `🏠Lobby`.
+~~If `Debug Tools` is enabled☑ in `⚙Settings`, the `Debug` UI (user interface) is displayed in `🏠Lobby`.~~
+> `0.3.161+`: Temporarily hidden. Not available.
 
+<!--
 > * This feature is completely prototype.
 > * Commentary pending for prototype stage
+-->
 
 ## Statistics Monitor `Graphy`
 
