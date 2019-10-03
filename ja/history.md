@@ -6,6 +6,7 @@
 ----
 
 > 履歴にある`Discord`関連機能とオンライン関連機能の項目は ☛ [`Discord関連機能`](manual.md#Discord関連機能) と [最新情報](https://scrapbox.io/XVRF/Virtueld%2FDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB) に、より詳細な情報があります。
+> また、更新の分野によらず [最新情報](https://scrapbox.io/XVRF/Virtueld%2FDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB) にて補足している場合があります。
 
 # 更新履歴 🙼 Update Logs
 
