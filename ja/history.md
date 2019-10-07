@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-10-07` 0.3.313 on Physics:`N` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* `Unity Physics`対応への試行中です。
+  * 試行中のため、公開版では基本的に従来の物理処理で動作します。
+
 ## `2019-10-06` 0.3.309 on Physics:`N` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `0.3.302`に示した**長押し入力操作の誤判定**について対策しました。
   * `Havok Physics preview - 0.1.1`パッケージを撤去しました。
