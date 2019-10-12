@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-10-12` 0.3.330 on Physics:`N` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* `Unity Physics`対応への試行中です。
+  * 試行中のため、公開版では基本的に従来の物理処理で動作します。
+
 ## `2019-10-11` 0.3.329 on Physics:`N` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `Unity Physics`対応への試行中です。
   * 試行中のため、公開版では基本的に従来の物理処理で動作します。
