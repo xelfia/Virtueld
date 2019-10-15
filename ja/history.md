@@ -10,6 +10,12 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-10-15` 0.3.340 on Physics:`U` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* `DOTS`関連の更新をしました。
+  * `Unity Physics`関連の処理を調整しました。
+  * `SpringBoneProxy`の処理を調整しました。
+  * 地面/地霧/草の処理方法を変更しました（サブシーン）。`暫定`
+
 ## `2019-10-14` 0.3.334 on Physics:`U` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `SpringBoneProxy`の動作を調整しました。
   * 原版の動作に近くなりました。
