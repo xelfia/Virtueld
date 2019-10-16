@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-10-16` 0.3.352 on Physics:`U` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* カメラの挙動を調整しました。
+* 一部の処理を最適化しました。
+
 ## `2019-10-15` 0.3.340 on Physics:`U` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * `DOTS`関連の更新をしました。
   * `Unity Physics`関連の処理を調整しました。
