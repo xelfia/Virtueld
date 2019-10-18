@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-10-18` 0.3.361 on Physics:`U` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
+* 一部の処理を最適化しました。
+
 ## `2019-10-17` 0.3.354 on Physics:`U` `Unity 2019.3.0b3` `UniVRM 0.53.0` `VRoidSDK 0.0.18`
 * 🦆鴨の一部の処理を最適化しました。
 
