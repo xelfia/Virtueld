@@ -195,6 +195,8 @@ In the combat screen as `👤🆚🤖` (Single Player), input 🔙 to display th
 |---|---|
 |`Continue▶`|Back to the combat screen and continue.|
 |||
+|`P1`|Display the character model profile (various model information) of Player 1 `P1` (or AI 1 `A1`).|
+|`P2`|Display the character model profile (various model information) of Player 2 `P2` (or AI 2 `A2`).|
 |`AI Level`|AI's capability can be adjusted by slider. In the current versions, it is simply involved in the percentage of guard actions.|
 |`👤Character Selection`|Open the `👤Character Selection`.|
 |`🏠Lobby`|Back to `🏠Lobby`.|
