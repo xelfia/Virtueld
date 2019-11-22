@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-11-22` 0.3.535 on Physics:`U` `Unity 2019.3.0b12` `UniVRM 0.53.0`+ `VRoidSDK 0.0.18`
+* Unityを更新しました。
+* `Discord`周辺の再調整を試行中です。
+
 ## `2019-11-21` 0.3.521 on Physics:`U` `Unity 2019.3.0b11` `UniVRM 0.53.0`+ `VRoidSDK 0.0.18`
 * `Discord`インスタンス管理の変更を試行中です。
 
