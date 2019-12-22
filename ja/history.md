@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2019-12-22` 0.3.571 on Physics:`U` `Unity 2019.3.0f4(rc4)` `UniVRM 0.54.0`+ `VRoidSDK 0.0.18`
+* `Life`バーの処理を変更しました。
+
 ## `2019-12-21` 0.3.570 on Physics:`U` `Unity 2019.3.0f4(rc4)` `UniVRM 0.54.0`+ `VRoidSDK 0.0.18`
 * ゲーム時間の処理を調整しました。
 
