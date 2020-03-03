@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-03-03` 0.5.3 on Physics:`U` `Unity 2019.3.3f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
+* 一部依存パッケージを更新しました。
+
 ## `2020-03-02` 0.5.2 on Physics:`U` `Unity 2019.3.3f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
 * 戦闘にて、試行中です。
   * `Ⓖ`+`Ⓣ`: `Step Backward`
