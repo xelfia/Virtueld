@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-03-05` 0.5.5 on Physics:`U` `Unity 2019.3.3f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
+* 地面/草を調整しました。
+
 ## `2020-03-04` 0.5.4 on Physics:`U` `Unity 2019.3.3f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
 * 一部依存パッケージを更新しました。
   * DOTS系の一部のみ更新しました。
