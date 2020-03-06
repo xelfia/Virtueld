@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-03-06` 0.5.6 on Physics:`U` `Unity 2019.3.4f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
+* Unityを更新しました。
+
 ## `2020-03-05` 0.5.5 on Physics:`U` `Unity 2019.3.3f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
 * 地面/草を調整しました。
 
