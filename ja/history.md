@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-03-09` 0.5.9 on Physics:`U` `Unity 2019.3.4f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
+* 試験的機能`Topocell`を試行中です。
+  * 動作を一部に限定しています。
+
 ## `2020-03-08` 0.5.8 on Physics:`U` `Unity 2019.3.4f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
 * 試験的機能`Topocell`を試行中です。
   * 動作を一部に限定しています。
