@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-03-15` 0.5.15 on Physics:`U` `Unity 2019.3.5f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
+* 試験的機能`Topocell`を試行中です。
+  * 動作/質感を調整しました。
+
 ## `2020-03-14` 0.5.14 on Physics:`U` `Unity 2019.3.5f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
 * 一部依存パッケージを更新しました。
   * DOTS 0.8.0系にしました。
