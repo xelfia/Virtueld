@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-03-25` 0.5.25 on Physics:`U` `Unity 2019.3.6f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
+* 一部動作を調整しました。
+
 ## `2020-03-24` 0.5.24 on Physics:`U` `Unity 2019.3.6f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
 * 地形（遠景）の衝突に対応しました。
   * `Unity Physics`上での地形の仮対応によるPhysics:`N`版相当の動作です。
