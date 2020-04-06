@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-04-06` 0.5.37 on Physics:`U` `Unity 2019.3.7f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
+* AIの処理の一部に経路探索を導入しました。
+
 ## `2020-04-05` 0.5.36 on Physics:`U` `Unity 2019.3.7f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.20`
 * 一部動作を調整しました。
 
