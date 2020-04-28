@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-04-28` 0.5.59 on Physics:`U` `Unity 2020.1.0b6` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
 ## `2020-04-27` 0.5.58 on Physics:`U` `Unity 2020.1.0b6` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
 * 一部依存パッケージを更新しました。
   * `UniTask 1.3.1`+に更新しました。
