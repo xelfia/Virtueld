@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-07-10` 0.6.39 on Physics:`U` `Unity 2020.1.0b15` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
+* Unityを更新しました。
+* 一部動作を調整しました。
+
 ## `2020-07-09` 0.6.38 on Physics:`U` `Unity 2020.1.0b14` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
