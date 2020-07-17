@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-07-17` 0.6.46 on Physics:`U` `Unity 2020.1.0b16` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
 ## `2020-07-16` 0.6.45 on Physics:`U` `Unity 2020.1.0b16` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
 * リングの切り替え動作を調整しました。
   * ここでのリングとは草のある床`Grassy Platform`と試験的機能`Chamber`/`Maze`を指しています。
