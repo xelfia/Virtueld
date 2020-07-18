@@ -61,9 +61,9 @@ The following are current candidates: I will touch on it briefly.
 
 |`English` Words|Related Words|Related `Japanese` Words|
 |--|--|--|
-|virtue|| 剛勇 武勇 美徳|
-|virtual reality|| 仮想現実|
-|eld|age, era| 時代 世代 古代|
+|virtue||剛勇 武勇 美徳|
+|virtual reality||仮想現実|
+|eld|age, era|時代 世代 古代|
 |world|(hu)man + age|世界|
 
 > * Use the new draft title `Virtueld` since `0.3.21` `2019-08-12`.
