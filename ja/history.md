@@ -10,6 +10,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-07-19` 0.6.48 on Physics:`U` `Unity 2020.1.0b16` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
+* `Scene Settings`/`つる植物の密度`のリロード`⟳`の動作を復元しました。
+* `Scene Settings`/`映像フィルタ`設定の反映を復元しました。
+* 一部動作を調整しました。
+
 ## `2020-07-18` 0.6.47 on Physics:`U` `Unity 2020.1.0b16` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
 * `Discord`周辺の更新をしました。
   * ドメインを更新しました。
