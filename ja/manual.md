@@ -126,7 +126,8 @@
 |||
 |`Audio`|スライダーで全体の音量を調節できます。|
 |`Music`|スライダーで音楽の音量を調節できます。|
-|`Sound Effect`|スライダーで効果音の音量を調節できます。|
+|`System Sound Effect`|スライダーでシステム効果音の音量を調節できます。|
+|`World Sound Effect`|スライダーでワールド効果音の音量を調節できます。|
 |`AI Level`|スライダーでAIの腕前を調節できます。現在のところ単純に防御行動の割合に関与します。|
 |`Active Camera`|☑のとき、カメラが被写体に合わせて動き回ります。|
 |`Debug Tools`|☑のとき、デバッグツール関連のUIが表示されます。（後述）|
@@ -474,4 +475,4 @@ VRM作者などのクリエイティブな方に、効果的に活用してい�
 
 --------
 🆇🅴🅻🅵
-©2018-2019 XELF
+©2018-2020 XELF
