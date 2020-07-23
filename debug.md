@@ -41,7 +41,7 @@ When `Debug Tools` is enabled☑ in `⚙Settings`, you can use the debug tools (
 |`In Fight`|Move both to a close position.|
 |`On Edge`|Force both to move onto the ring boundary. However, since it is currently prevented from falling off the ring, it will be pushed back slightly inward.|
 |`Ring Out`|Force both to move out of the ring. However, it is currently pushed back inward because it does not fall out of the ring.|
-|`Supine`|Force both to be `Supine`.|
+|`Supine`|Force both to be `Supine`. However, in `0.6.52`, it is now a feature that allows you to see staggering by ragdoll physics.|
 |`0.25x`|0.25x speed|
 |`0.5x`|0.5x speed|
 |`1.0x`|1x speed|
@@ -85,4 +85,4 @@ When `Debug Tools` is enabled☑ in `⚙Settings`, you can use the debug tools (
 
 --------
 🆇🅴🅻🅵
-©2018-2019 XELF
+©2018-2020 XELF
