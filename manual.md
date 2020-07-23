@@ -127,7 +127,8 @@ There are `Common`/`Screen`/`Scene` tabs in this screen. Tab move operation or m
 |||
 |`Audio`|Master volume can be adjusted by slider.|
 |`Music`|Music volume can be adjusted by slider.|
-|`Sound Effect`|Sound Effect volume can be adjusted by slider.|
+|`System Sound Effect`|System Sound Effect volume can be adjusted by slider.|
+|`World Sound Effect`|World Sound Effect volume can be adjusted by slider.|
 |`AI Level`|AI's capability can be adjusted by slider. In the current versions, it is simply involved in the percentage of guard actions.|
 |`Active Camera`|When ☑, the camera moves around the subject.|
 |`Debug Tools`|When ☑, `Debug Tools` related UI are displayed. (See below)|
@@ -401,4 +402,4 @@ Look for this text file (`.log` format).
 
 --------
 🆇🅴🅻🅵
-©2018-2019 XELF
+©2018-2020 XELF
