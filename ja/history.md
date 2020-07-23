@@ -10,6 +10,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-07-23` 0.6.52 on Physics:`U` `Unity 2020.1.0b16` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
+* 一部依存パッケージを更新しました。
+  * DOTS 0.13.0-preview.24系にしました。
+* 一部動作を調整しました。
+
 ## `2020-07-22` 0.6.51 on Physics:`U` `Unity 2020.1.0b16` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
 * `音量`関連の反映動作を調整しました。
 * `Common Settings`の一部を更新しました。
