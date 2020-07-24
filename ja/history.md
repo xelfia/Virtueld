@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-07-24` 0.6.53 on Physics:`U` `Unity 2020.1.0f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
+* Unityを更新しました。
+* つる植物の生成動作を調整しました。
+
 ## `2020-07-23` 0.6.52 on Physics:`U` `Unity 2020.1.0b16` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
 * 一部依存パッケージを更新しました。
   * DOTS 0.13.0-preview.24系にしました。
