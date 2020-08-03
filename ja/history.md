@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-08-03` 0.7.3 on Physics:`U` `Unity 2020.1.0f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
+* ラグドール物理の動作を調整しました。
+
 ## `2020-08-02` 0.7.2 on Physics:`U` `Unity 2020.1.0f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
 * ラグドール物理の動作を調整しました。
 
