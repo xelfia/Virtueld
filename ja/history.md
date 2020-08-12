@@ -10,6 +10,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-08-12` 0.7.12 on Physics:`U` `Unity 2020.1.1f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
+* 試験的機能`Portal`を追加しました。
+  * `[F5]`キーで、部屋`Portal`に切り替えます。
+  * 内容は調整中です。
+
 ## `2020-08-11` 0.7.11 on Physics:`U` `Unity 2020.1.1f1` `UniVRM 0.54.0`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
