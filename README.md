@@ -10,7 +10,7 @@
 # Virtueld Outpost
 * Home site of `Virtueld` (draft title) / `XVRF` (project name)
 * A 🎮 game development project by individual developer
-* Works on `Unity 2020.1.2f1` / `UniVRM 0.54.0`+ / `VRoid SDK 0.0.21`
+* Works on `Unity 2020.1.2f1` / `UniVRM 0.58.0`+ / `VRoid SDK 0.0.21`
 * [License / Third party notices](LICENSE.md)
 
 ## Downloads
@@ -93,11 +93,13 @@ The following are current candidates: I will touch on it briefly.
 
 For example, characters on `VRoid Hub`, there are varied body type of characters. Now under investigation that, but I have not in this time whether enable to provide good combat or not. If it is unfair but both players can be enjoyable, that will be provided as a special mode I think.
 
+<!-- obsolete due to dead link
 ### Informative Characters
 * `VRoid Hub` イフリート 🔗 https://hub.vroid.com/characters/852382471780392945/models/6959713455822728834
   * Spinning hair
   * High load at `VRMSpringBone` updating
   * Transparent legs
+-->
 
 ## 🎮 ☛ [How to Control / Input Device](controls.md) [`English`](controls.md) [`Japanese`](ja/controls.md)
 
