@@ -319,13 +319,13 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 
 ## 🚪Portal
 
-This is a portal for moving to other places.
+Portal: These are portals for moving to other places.
 * If any character moves between the stone pillars, it will move to the place indicated by the destination sign.
 
 > ⚠Some `experimental` features are included.
 
 * Currently, controls are similar on a combat ring.
-* right stick `🅁🕹` to rotate the camera up/down/left/right.
+* Gamepad🎮 right stick `🅁🕹` to rotate the camera up/down/left/right.
 * No damage will occur.
 
 |Destination Sign|About Placement|
