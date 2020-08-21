@@ -95,6 +95,7 @@ Please look for the latest version on [Download Site](https://xelf.booth.pm/item
 |`👤🆚🤖`|Open `Single Player Menu` (Player versus AI). (See below)|
 |`🤖🆚🤖`|Start demo as AI versus AI.|
 |`👤Character Selection`| Move to Character selection screen. (See below)|
+|`🚪Portal`| Move to Portal. (See below)|
 |`🔎👤🆚👤`|Move to Lobby Search screen. Under dvelopment as `Discord`-related features. (See below)|
 |`💬Discord`|Open the invitation page for Virtueld public channel.|
 |`Web`| Open the [Offical Web Site](.).|
@@ -315,6 +316,23 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 > This page contains `not translated`: Please also refer to the [`Japanese`](ja/manual.md) edition using machine translation etc. 🙇
 
 `not translated`
+
+## 🚪Portal
+
+This is a portal for moving to other places.
+* If any character moves between the stone pillars, it will move to the place indicated by the destination sign.
+
+> ⚠Some `experimental` features are included.
+
+* Currently, controls are similar on a combat ring.
+* right stick `🅁🕹` to rotate the camera up/down/left/right.
+* No damage will occur.
+
+|Destination Sign|About Placement|
+|--|--|
+|`Grassy Platform`|Ring `Grassy Platform`|
+|`Chamber`|Ring `Chamber`|
+|`Maze`|Maze. This is a `experimental` feature.|
 
 ## ⚠Known Issues
 
