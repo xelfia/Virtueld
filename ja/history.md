@@ -10,7 +10,7 @@
 
 # 更新履歴 🙼 Update Logs
 
-## `2020-08-32` 0.7.32 on Physics:`U` `Unity 2020.1.4f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2020-09-01` 0.7.32 on Physics:`U` `Unity 2020.1.4f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * Unityを更新しました。
 * 試験的機能`Fragile`を更新しました。
 
