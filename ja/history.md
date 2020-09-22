@@ -10,6 +10,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-09-22` 0.7.53 on Physics:`U` `Unity 2020.2.0b2` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 試験的機能`Fragile`を更新しました。
+* 試験的機能`Portal`を更新しました。
+  * `Fragile`の物理特性を変更しました。
+
 ## `2020-09-21` 0.7.52 on Physics:`U` `Unity 2020.2.0b2` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的機能`Fragile`を更新しました。
 
