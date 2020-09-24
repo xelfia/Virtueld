@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-09-24` 0.7.55 on Physics:`U` `Unity 2020.2.0b2` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* キャラクターの物理応答を変更しました。
+* 一部動作を調整しました。
+
 ## `2020-09-23` 0.7.54 on Physics:`U` `Unity 2020.2.0b2` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的機能`Fragile`を更新しました。
 
