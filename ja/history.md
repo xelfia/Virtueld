@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-10-17` 0.7.78 on Physics:`U` `Unity 2020.2.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 描画に関する設定を調整しました。
+
 ## `2020-10-16` 0.7.77 on Physics:`U` `Unity 2020.2.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * Unityを更新しました。
 * 試験的機能`Maze`を更新しました。
