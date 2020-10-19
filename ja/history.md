@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-10-19` 0.7.80 on Physics:`U` `Unity 2020.2.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 試験的機能`Maze`を更新しました。
+  * 壁掛け燭台`Sconce`を更新しました。
+
 ## `2020-10-18` 0.7.79 on Physics:`U` `Unity 2020.2.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的機能`Maze`を更新しました。
   * 質感を変更しました。
