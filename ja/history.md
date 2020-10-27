@@ -10,6 +10,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-10-27` 0.7.88 on Physics:`U` `Unity 2020.2.0b8` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 飛竜`Wyvern`を更新しました。
+  * 一部動作は調整中です。
+
 ## `2020-10-26` 0.7.87 on Physics:`U` `Unity 2020.2.0b8` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 飛竜`Wyvern`を更新しました。
   * 一部動作は調整中です。
