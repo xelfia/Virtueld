@@ -10,6 +10,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-10-31` 0.8.0 on Physics:`U` `Unity 2020.2.0b9` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部依存パッケージを更新しました。
+  * DOTS 0.11.1-preview.4系にしました。
+* 一部動作を調整しました。
+
 ## `2020-10-30` 0.7.91 on Physics:`U` `Unity 2020.2.0b9` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 飛竜`Wyvern`を更新しました。
   * 一部動作は調整中です。
