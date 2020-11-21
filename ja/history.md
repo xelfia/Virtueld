@@ -10,6 +10,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-11-21` 0.8.21 on `HDRP` Physics:`U` `Unity 2020.2.0b12` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 試験的機能`Maze`を更新しました。
+  * 壁掛け燭台`Sconce`を調整しました。
+* 一部動作を調整しました。
+
 ## `2020-11-20` 0.8.20 on `HDRP` Physics:`U` `Unity 2020.2.0b12` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * Unityを更新しました。
 * 戦闘キャラクターアイコンの動作を更新しました。
