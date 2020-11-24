@@ -10,6 +10,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-11-24` 0.8.24 on `HDRP` Physics:`U` `Unity 2020.2.0b12` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
 ## `2020-11-23` 0.8.23 on `HDRP` Physics:`U` `Unity 2020.2.0b12` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的機能`Maze`を更新しました。
   * 汚れ表現を追加しました。(`HDRP`用)
