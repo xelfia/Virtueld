@@ -10,6 +10,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-11-27` 0.8.27 on `HDRP` Physics:`U` `Unity 2020.2.0b13` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* Unityを更新しました。
+* `つる植物`を更新しました。
+  * 質感を調整しました。
+
 ## `2020-11-26` 0.8.26 on `HDRP` Physics:`U` `Unity 2020.2.0b12` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `草`を更新しました。
   * 質感を調整しました。
