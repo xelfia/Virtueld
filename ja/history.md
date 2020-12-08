@@ -8,7 +8,12 @@
 > * ☛ [更新記録](https://scrapbox.io/XVRF/Virtueld:_%E6%9B%B4%E6%96%B0%E8%A8%98%E9%8C%B2)にて、内容を補足している場合があります。
 > * 履歴にある`Discord`関連機能とオンライン関連機能の項目は ☛ [`Discord関連機能`](manual.md#Discord関連機能) と [最新情報](https://scrapbox.io/XVRF/Virtueld%2FDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%81%AE%E6%9A%AB%E5%AE%9A%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB) に、より詳細な情報があります。
 
+
 # 更新履歴 🙼 Update Logs
+
+## `2020-12-08` 0.8.38 on `HDRP` Physics:`U` `Unity 2020.2.0b13` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部依存パッケージを更新しました。
+* 一部動作を調整しました。
 
 ## `2020-12-07` 0.8.37 on `HDRP` Physics:`U` `Unity 2020.2.0b13` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
