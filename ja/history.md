@@ -11,6 +11,8 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-12-12` 0.8.42 on `HDRP` Physics:`U` `Unity 2020.2.0b13` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
 
 ## `2020-12-11` 0.8.41 on `HDRP` Physics:`U` `Unity 2020.2.0b13` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
