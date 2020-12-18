@@ -11,6 +11,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2020-12-18` 0.8.48 on `HDRP` Physics:`U` `Unity 2020.2.0f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部依存パッケージを更新しました。
+* 一部動作を調整しました。
+
 ## `2020-12-17` 0.8.47 on `HDRP` Physics:`U` `Unity 2020.2.0f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部依存パッケージを更新しました。
 * 飛竜`Wyvern`を更新しました。
