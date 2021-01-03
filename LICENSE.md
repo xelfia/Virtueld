@@ -1,7 +1,8 @@
 # Credits of Virtueld (preliminary)
 
 
-* ©2018-2020 XELF
+
+* ©2018-2021 XELF
 
 `Other License`
 
@@ -14,6 +15,7 @@
 
 
 ## SEGI
+
 
 
 
@@ -51,6 +53,7 @@ SOFTWARE.
 
 
 
+
 `MIT`
 
 🔗 https://github.com/vrm-c/UniVRM
@@ -83,6 +86,7 @@ SOFTWARE.
 ## UniTask
 
 
+
 * Copyright © 2019 Yoshifumi Kawai / Cysharp, Inc.
 
 `MIT`
@@ -95,6 +99,7 @@ SOFTWARE.
 
 
 
+
 `MIT`
 
 🔗 https://gist.github.com/CloudyWater/9dc32b60f73e4a3c300e067c11caa027
@@ -103,6 +108,7 @@ SOFTWARE.
 
 
 ## CloudSkybox
+
 
 
 
@@ -122,6 +128,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Ceto
+
 
 
 
@@ -156,6 +163,7 @@ SOFTWARE.
 
 
 
+
 `MIT`
 
 🔗 https://github.com/Shinao/Unity-GPU-Boids
@@ -184,6 +192,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Resonance Audio Unity SDK
+
 
 
 
@@ -384,6 +393,7 @@ Copyright © 2018, Google Inc.
 ## Mesh Cutter
 
 
+
 * Copyright © 2019 Hugo Scurti
 
 `MIT`
@@ -393,6 +403,7 @@ Copyright © 2018, Google Inc.
 
 
 ## Thud-dry.wav
+
 
 
 
@@ -406,6 +417,7 @@ Copyright © 2018, Google Inc.
 
 
 
+
 `Creative Commons Zero v1.0 Universal`
 
 🔗 https://freesound.org/people/awesomemann1234/sounds/100466/
@@ -413,6 +425,7 @@ Copyright © 2018, Google Inc.
 
 
 ## Hard Female Footstep (1)
+
 
 
 * Owlish Media
@@ -427,6 +440,7 @@ Copyright © 2018, Google Inc.
 
 
 
+
 `Creative Commons Attribution 3.0 Unported`
 
 🔗 https://freesound.org/people/CosmicEmbers/sounds/161415/
@@ -434,6 +448,7 @@ Copyright © 2018, Google Inc.
 
 
 ## Punch, slap, n' kick.wav
+
 
 
 * CGEffex
@@ -447,6 +462,7 @@ Copyright © 2018, Google Inc.
 ## Jacket Handling
 
 
+
 * leonelmail
 
 `Creative Commons Attribution 3.0 Unported`
@@ -456,6 +472,7 @@ Copyright © 2018, Google Inc.
 
 
 ## Menu FX 02
+
 
 
 * Nightflame
@@ -469,6 +486,7 @@ Copyright © 2018, Google Inc.
 ## blip2.wav
 
 
+
 * nsstudios
 
 `Creative Commons Attribution 3.0 Unported`
@@ -478,6 +496,7 @@ Copyright © 2018, Google Inc.
 
 
 ## buttonchime02up.wav
+
 
 
 * JustinBW
@@ -491,6 +510,7 @@ Copyright © 2018, Google Inc.
 ## Menu Interface - Cancel 003.wav
 
 
+
 * DWOBoyle
 
 `Creative Commons Attribution 3.0 Unported`
@@ -500,6 +520,7 @@ Copyright © 2018, Google Inc.
 
 
 ## Autumn beach sound.wav
+
 
 
 * straget
@@ -514,6 +535,7 @@ Copyright © 2018, Google Inc.
 
 
 
+
 `SIL OPEN FONT LICENSE Version 1.1`
 
 🔗 https://www.google.com/get/noto/
@@ -521,6 +543,7 @@ Copyright © 2018, Google Inc.
 
 
 ## Graphy
+
 
 
 
