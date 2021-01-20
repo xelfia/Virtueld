@@ -11,6 +11,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-01-20` 0.8.81 on `HDRP` Physics:`U` `Unity 2020.2.1f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
 ## `2021-01-19` 0.8.80 on `HDRP` Physics:`U` `Unity 2020.2.1f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部依存パッケージを更新しました。
   * 統計モニタ`Graphy`を2.0.1に更新しました。
