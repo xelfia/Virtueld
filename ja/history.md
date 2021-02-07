@@ -11,6 +11,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-02-07` 0.9.7 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b5` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部依存パッケージを更新しました。
+* ラグドール物理の動作を調整しました。
+
 ## `2021-02-06` 0.9.6 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b5` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * ラグドール物理の動作を調整しました。
   * 一部は調整中です。
