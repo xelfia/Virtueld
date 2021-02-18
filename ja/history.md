@@ -11,6 +11,13 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-02-18` 0.9.17 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* Unityを更新しました。
+* 揺れ物`VRMSpringBone`を`DOTS`ベース実行に置き換えた揺れ物`SpringBoneProxy`を再び有効にしました。
+  * 一部動作を調整しました。
+* 一部VRMキャラクターにおいて、ロード後にクラッシュする問題を調整中です。
+* 一部動作を調整しました。
+
 ## `2021-02-16` 0.9.16 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b6` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * アクティブカメラの挙動を調整しました。
 * キャラクターの移動処理を調整しました。
