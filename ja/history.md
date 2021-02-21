@@ -11,6 +11,13 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-02-21` 0.9.20 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部依存パッケージを更新しました。
+* 揺れ物`VRMSpringBone`を`DOTS`ベース実行に置き換えた揺れ物`Dangle`（`SpringBoneProxy`から改称）を更新しました。
+  * 視覚的な動作に反映していなかった問題を修正しました。
+* 被写界深度の表現に対応しました。
+  * `ビルトインRP`版にあった表現の`HDRP`版対応です。
+
 ## `2021-02-20` 0.9.19 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
