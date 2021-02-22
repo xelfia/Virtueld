@@ -11,6 +11,13 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-02-22` 0.9.21 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* `Portal`/`Maze`に関する動作を調整しました。
+  * 不要な`P2`とコネクタの一部を非表示にしました。
+  * `P2`のラグドールを停止して、ほかの動作に影響しないようにしました。
+  * `Portal`/`Maze`開始後の動作は調整中です。
+* 一部動作を調整しました。
+
 ## `2021-02-21` 0.9.20 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部依存パッケージを更新しました。
 * 揺れ物`VRMSpringBone`を`DOTS`ベース実行に置き換えた揺れ物`Dangle`（`SpringBoneProxy`から改称）を更新しました。
