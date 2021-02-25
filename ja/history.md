@@ -11,9 +11,16 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-02-25` 0.9.24 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b8` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* Unityを更新しました。
+* ゲーム時間の処理を調整しました。
+* 揺れ物`VRMSpringBone`を`DOTS`ベース実行に置き換えた揺れ物`Dangle`を更新しました。
+  * 一部調整中です。
+* 一部動作を調整しました。
+
 ## `2021-02-24` 0.9.23 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
-* 
+ 
 ## `2021-02-23` 0.9.22 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b7` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
