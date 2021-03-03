@@ -11,6 +11,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-03-03` 0.9.30 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b8` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
 ## `2021-03-02` 0.9.29 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b8` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `曇り空`/`星空`の動作を復元しました。
 * 一部動作を調整しました。
