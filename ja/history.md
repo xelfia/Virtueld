@@ -11,6 +11,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-03-06` 0.9.33 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b8` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 地形を更新しました。
+  * 試験的な表示処理に変更しました。そのため質感や精細度などに違いがあります。
+
 ## `2021-03-05` 0.9.32 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b8` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
