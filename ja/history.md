@@ -12,6 +12,10 @@
 # 更新履歴 🙼 Update Logs
 
 
+## `2021-03-15` 0.9.42 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b11` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* `Chamber`にて、炎を更新しました。
+* 一部動作を調整しました。
+
 ## `2021-03-14` 0.9.41 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b11` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Chamber`にて、炎を追加しました。
   * 試験的な機能です。現在のところゲームプレイには関係していません。
