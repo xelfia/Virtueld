@@ -11,6 +11,8 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-03-16` 0.9.43 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b11` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
 
 ## `2021-03-15` 0.9.42 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b11` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Chamber`にて、炎を更新しました。
