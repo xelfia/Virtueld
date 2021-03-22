@@ -11,6 +11,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-03-22` 0.9.49 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b12` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* `Drip`を追加しました。
+  * 水滴がキャラクターから落下します。
+  * 試験的な機能です。現在のところゲームプレイには関係していません。
+
 ## `2021-03-21` 0.9.48 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0b12` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Chamber`にて、炎を更新しました。
 * 一部動作を調整しました。
