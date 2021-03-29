@@ -11,6 +11,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-03-29` 0.9.56 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 🌸`桜の花弁`を追加しました。
+  * `Grassy Platform`にて、ひらひらと舞います。
+  * 現在のところゲームプレイには関係していません。
+
 ## `2021-03-28` 0.9.55 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
