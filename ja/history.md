@@ -11,6 +11,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-03-31` 0.9.58 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 🌊`海`の動作を調整しました。
+* 一部動作を調整しました。
+
 ## `2021-03-30` 0.9.57 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.0f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 🍁`紅葉`/`紅葉の翼果`を追加しました。
   * `Portal`にて、ひらひらと舞います。
