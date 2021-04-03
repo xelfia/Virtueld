@@ -11,6 +11,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-04-03` 0.9.61 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.1f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* `Portal`にて、照明を調整しました。
+* `曇り空`/🌙`月`/`星空`を調整しました。
+
 ## `2021-04-02` 0.9.60 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.1f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Portal`/`Maze`に関する動作を調整しました。
   * `Portal`/`Maze`開始後のキャラクターの動作を一部改善しました。
