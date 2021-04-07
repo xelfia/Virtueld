@@ -11,6 +11,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-04-07` 0.9.65 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.1f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* `曇り空`/🌙`月`/`星空`を調整しました。
+  * 一部調整中です。
+
 ## `2021-04-06` 0.9.64 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.1f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `曇り空`/🌙`月`/`星空`を調整しました。
   * 一部調整中です。
