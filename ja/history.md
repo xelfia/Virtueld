@@ -11,6 +11,8 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-04-17` 0.9.75 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.2f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 戦闘画面にて、`P1`/`P2`の表示を更新しました。
 
 ## `2021-04-16` 0.9.74 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.2f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 戦闘画面にて、`P1`/`P2`の表示を更新しました。
