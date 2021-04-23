@@ -11,6 +11,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-04-23` 0.9.81 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.2f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 戦闘キャラクターアイコンの動作を更新しました。
+* 一部動作を調整しました。
+
 ## `2021-04-22` 0.9.80 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.2f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Chamber`にて、照明を更新しました。
 * 一部動作を調整しました。
