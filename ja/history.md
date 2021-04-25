@@ -11,6 +11,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-04-25` 0.9.83 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.4f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 🌊`海`の動作を調整しました。
+* 霧/地霧に関する調整をしました。
+* 一部動作を調整しました。
+
 ## `2021-04-24` 0.9.82 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.4f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * Unityを更新しました。
 * 🌊`海`の動作を調整しました。
