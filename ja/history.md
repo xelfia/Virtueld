@@ -12,6 +12,10 @@
 # 更新履歴 🙼 Update Logs
 
 
+## `2021-05-03` 0.10.3 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.5f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* マウス🖱カーソルの動作を調整しました。
+  * 外観を調整しました。
+
 ## `2021-05-02` 0.10.2 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.5f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * マウス🖱カーソルの動作を調整しました。
   * 外観を調整しました。
