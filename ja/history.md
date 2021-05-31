@@ -12,6 +12,10 @@
 # 更新履歴 🙼 Update Logs
 
 
+## `2021-05-31 0.10.31 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 試験的リング`Balistraria`(仮名)を更新しました。
+  * 現在のところ視覚的な実験のみです。また、その表示も調整中です。
+
 ## `2021-05-30 0.10.30 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
