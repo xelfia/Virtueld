@@ -12,71 +12,74 @@
 # 更新履歴 🙼 Update Logs
 
 
-## `2021-05-31 0.10.31 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-06-01` 0.10.32 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
+## `2021-05-31` 0.10.31 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Balistraria`(仮名)を更新しました。
   * 現在のところ視覚的な実験のみです。また、その表示も調整中です。
 
-## `2021-05-30 0.10.30 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-30` 0.10.30 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-29 0.10.29 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-29` 0.10.29 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.9f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * Unityを更新しました。
 * 一部依存パッケージを更新しました。
 * 一部動作を調整しました。
 
-## `2021-05-28 0.10.28 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-28` 0.10.28 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-27 0.10.27 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-27` 0.10.27 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-26 0.10.26 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-26` 0.10.26 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Balistraria`(仮名)を更新しました。
   * 現在のところ視覚的な実験のみです。また、その表示も調整中です。
 
-## `2021-05-25 0.10.25 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-25` 0.10.25 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部依存パッケージを更新しました。
 * 一部動作を調整しました。
 
-## `2021-05-24 0.10.24 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-24` 0.10.24 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Balistraria`(仮名)を更新しました。
   * 現在のところ視覚的な実験のみです。また、その表示も調整中です。
 
-## `2021-05-23 0.10.23 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-23` 0.10.23 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Balistraria`(仮名)を更新しました。
   * 現在のところ視覚的な実験のみです。また、その表示も調整中です。
 
-## `2021-05-22 0.10.22 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-22` 0.10.22 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-21 0.10.21 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-21` 0.10.21 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-20 0.10.20 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-20` 0.10.20 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Balistraria`(仮名)を追加しました。
   * 現在のところ視覚的な実験のみです。また、その表示も調整中です。
   * `[F5]`長押しで`Balistraria`に移動します。
 
-## `2021-05-19 0.10.19 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-19` 0.10.19 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-18 0.10.18 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-18` 0.10.18 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-17 0.10.17 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-17` 0.10.17 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-16 0.10.16 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-16` 0.10.16 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-15 0.10.15 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-15` 0.10.15 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-## `2021-05-14 0.10.14 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-14` 0.10.14 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.7f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * Unityを更新しました。
 * 一部動作を調整しました。
 
-## `2021-05-13 0.10.13 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.6f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+## `2021-05-13` 0.10.13 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.6f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
 ## `2021-05-12` 0.10.12 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.6f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
