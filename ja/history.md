@@ -11,6 +11,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+## `2021-06-16` 0.10.47 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.11f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 試験的リング`Brace`(仮名)を追加しました。
+  * 現在のところ視覚/挙動的な実験のみです。
+  * 新たに追加した植物がキャラクターや石の接触で変形します。
+
 ## `2021-06-15` 0.10.46 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.11f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
