@@ -11,6 +11,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+# `2021-06-30` 0.11.0 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.12f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 試験的リング`Brace`(仮名)を更新しました。
+  * 🍁`紅葉`を追加しました。ここでは`Soft`/`Lift`システムの併用を試しています。
+  * 一部動作を調整しました。
+
 # `2021-06-29` 0.10.60 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.12f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Brace`(仮名)を更新しました。
   * 一部動作を調整しました。
