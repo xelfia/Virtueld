@@ -11,6 +11,10 @@
 
 # 更新履歴 🙼 Update Logs
 
+# `2021-10-07` 0.12.37 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.23f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 試験的リング`Brace`(仮名)を更新しました。
+  * 🐉`龍の像`を更新しました。
+
 # `2021-10-06` 0.12.36 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.23f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Brace`(仮名)を更新しました。
   * 🐉`龍の像`を更新しました。
