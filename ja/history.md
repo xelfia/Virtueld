@@ -12,27 +12,31 @@
 # 更新履歴 🙼 Update Logs
 
 
-# `2021-10-13` 0.12.43 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.23f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+# `2021-10-14` 0.12.44 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.24f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 試験的リング`Voxel`(仮名)を更新しました。内容は初期段階です。
+> `[F7]`長押しで試験的リング`Voxel`に移動します。
+
+# `2021-10-13` 0.12.43 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.24f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部依存パッケージを更新しました。
 * 試験的リング`Voxel`(仮名)を調整しました。内容は初期段階です。
 > `[F7]`長押しで試験的リング`Voxel`に移動します。
 * 一部動作を調整しました。
 
-# `2021-10-12` 0.12.42 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.23f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+# `2021-10-12` 0.12.42 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.24f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Voxel`(仮名)を追加しました。内容は初期段階です。
 > `[F7]`長押しで試験的リング`Voxel`に移動します。
 * 一部動作を調整しました。
 
-# `2021-10-11` 0.12.41 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.23f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+# `2021-10-11` 0.12.41 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.24f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-# `2021-10-10` 0.12.40 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.23f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+# `2021-10-10` 0.12.40 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.24f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-# `2021-10-09` 0.12.39 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.23f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+# `2021-10-09` 0.12.39 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.24f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
-# `2021-10-08` 0.12.38 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.23f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+# `2021-10-08` 0.12.38 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.24f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * Unityを更新しました。
 * 一部動作を調整しました。
 
