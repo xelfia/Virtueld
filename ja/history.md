@@ -12,6 +12,10 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2021-10-15` 0.12.45 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.25f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* Unityを更新しました。
+* 一部動作を調整しました。
+
 # `2021-10-14` 0.12.44 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.24f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Voxel`(仮名)を更新しました。内容は初期段階です。
 > `[F7]`長押しで試験的リング`Voxel`に移動します。
