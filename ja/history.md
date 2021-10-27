@@ -12,6 +12,12 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2021-10-27` 0.12.57 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.27f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* Unityを更新しました。
+* 試験的リング`Voxel`(仮名)を更新しました。
+  * 🌊`水`を更新しました。
+  * 波紋を追加しました。
+
 # `2021-10-26` 0.12.56 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.26f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Voxel`(仮名)を更新しました。
   * 🌊`水`を更新しました。
