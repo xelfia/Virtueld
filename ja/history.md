@@ -12,6 +12,9 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2021-11-01` 0.13.2 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.27f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
 # `2021-10-31` 0.13.1 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.27f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Voxel`(仮名)を更新しました。
   * 漂流物の浮力の動作を調整しました。漂流物が流れるようにしました。
