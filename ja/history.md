@@ -13,7 +13,7 @@
 
 # `2021-11-11` 0.13.12 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Voxel`(仮名)を更新しました。
-  * 石球を🌊`水`に沈むように変更しました。
+  * 石球が🌊`水`に沈むようにしました。
 
 # `2021-11-10` 0.13.11 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 試験的リング`Voxel`(仮名)を更新しました。
