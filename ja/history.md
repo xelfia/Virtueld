@@ -11,6 +11,8 @@
 
 # 更新履歴 🙼 Update Logs
 
+# `2021-11-22` 0.13.23 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* `Life`バーを調整しました。
 
 # `2021-11-21` 0.13.22 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Life`バーを更新しました。一部調整中です。
