@@ -11,6 +11,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+# `2021-11-23` 0.13.24 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部依存パッケージを更新しました。
+  * 統計モニタ`Graphy`を2.1.3に更新しました。
+* 一部動作を調整しました。
+
 # `2021-11-22` 0.13.23 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Life`バーを調整しました。
 
