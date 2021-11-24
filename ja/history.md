@@ -11,6 +11,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+# `2021-11-24` 0.13.25 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 待機表示を復元/変更しました。
+
 # `2021-11-23` 0.13.24 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部依存パッケージを更新しました。
   * 統計モニタ`Graphy`を2.1.3に更新しました。
