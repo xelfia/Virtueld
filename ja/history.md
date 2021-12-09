@@ -12,6 +12,9 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2021-12-09` 0.13.40 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
 # `2021-12-08` 0.13.39 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Chamber`にて、流れる塵を追加しました。
 
