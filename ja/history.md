@@ -12,6 +12,12 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2021-12-16` 0.13.47 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* `Grassy Platform`を更新しました。
+  * `草`の挙動と外観を変更しました。一部調整中です。
+  * 流れる塵を追加しました。
+* 一部動作を調整しました。
+
 # `2021-12-15` 0.13.46 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
