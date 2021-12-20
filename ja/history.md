@@ -12,6 +12,9 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2021-12-20` 0.13.51 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
+* 一部動作を調整しました。
+
 # `2021-12-19` 0.13.50 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * `Grassy Platform`を更新しました。
   * `草`の挙動を一部調整しました。
