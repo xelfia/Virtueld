@@ -12,6 +12,14 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2021-12-21` 0.13.52 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`preview+
+* UniVRMを更新しました。
+* VRoidSDKを更新しました。
+* 一部依存パッケージを更新しました。
+* UniVRM/VRoidSDKの更新に伴って、一部挙動が変わっています。
+  * パッケージの仕様変更によるものと、そうではなく今後調整する可能性があるものを含みます。
+  * `VRoid Hub`連携で認可コードの貼り付け手順が省かれました。
+
 # `2021-12-20` 0.13.51 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.58.1`+ `VRoidSDK 0.0.21`
 * 一部動作を調整しました。
 
