@@ -12,6 +12,9 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2021-12-29` 0.13.60 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`preview+
+* 多くのUIの設定を変更しました。これにより以前の外観に近くなりました。
+
 # `2021-12-28` 0.13.59 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`preview+
 * マウス🖱カーソルの動作を調整しました。
   * これにより描画順序の制約が減ったことで、一部UIの設定を変更して処理負荷を軽減しました。
