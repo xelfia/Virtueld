@@ -11,6 +11,8 @@
 
 # 更新履歴 🙼 Update Logs
 
+# `2022-01-01` 0.14.1 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`preview+
+* 一部動作を調整しました。
 
 # `2021-12-31` 0.14.0 on `HDRP` Physics:`U` Ragdoll:`N` `Unity 2021.1.28f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`preview+
 * 一部動作を調整しました。
@@ -4278,4 +4280,4 @@ c
 
 --------
 🆇🅴🅻🅵
-©2018-2021 XELF
+©2018-2022 XELF
