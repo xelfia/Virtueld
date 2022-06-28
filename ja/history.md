@@ -11,6 +11,17 @@
 
 # 更新履歴 🙼 Update Logs
 
+# `2022-06-28` 0.15.89 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.5f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* Unityを更新しました。
+* 一部依存パッケージを更新しました。
+  * DOTS 0.51.0-preview.32系にしました。
+    * これに依存した互換パッケージがない`Unity Animation`に関する動作を停止しました。
+* `Chamber`にて、🔥`炎`を更新しました。
+* 💧`Drip`を更新しました。
+* 待機表示を調整しました。
+* 以下を含む一部は調整中です。
+  * 戦闘画面の`P1`/`P2`の表示
+  * 迷路`Maze`
 
 # `2022-06-27` 0.15.88 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.1.28f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * `Portal`で起きるクラッシュを修正しました。
