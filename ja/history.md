@@ -12,6 +12,10 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2022-07-12` 0.16.12 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.6f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* `Chamber`にて、🔥`炎`を更新しました。
+* 一部動作を調整しました。
+
 # `2022-07-11` 0.16.11 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.6f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * 一部動作を調整しました。
 
