@@ -12,6 +12,12 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2022-07-14` 0.16.14 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.6f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* 遠景の表示を復元しました。
+* `Fragile`の表示を復元しました。
+* 試験的リング`Voxel`(仮名)の一部動作を復元しました。
+* 一部動作を調整しました。
+
 # `2022-07-13` 0.16.13 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.6f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * 💧`Drip`を更新しました。
 * 一部動作を調整しました。
