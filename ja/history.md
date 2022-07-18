@@ -12,6 +12,11 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2022-07-18` 0.16.18 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.6f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* `Portal`で起きるクラッシュへの対策を加えました。
+* 照明の挙動を調整しました。
+* 一部動作を調整しました。
+
 # `2022-07-17` 0.16.17 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.6f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * 遠景の表示を調整しました。
 * `Chamber`にて、🔥`炎`を更新しました。
