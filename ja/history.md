@@ -12,6 +12,12 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2022-08-27` 0.16.58 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.8f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* 一部依存パッケージを更新しました。
+  * DOTS 0.51.1-preview.21系にしました。
+* 一部座標変換を試験的に変更しました。
+* 🎶音楽関連を更新しました。
+
 # `2022-08-26` 0.16.57 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.8f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * 🎶音楽関連を更新しました。
 
