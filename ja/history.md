@@ -12,6 +12,11 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2022-08-28` 0.16.59 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.8f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* 🎶音楽関連を更新しました。
+  * 新しい（0.16.55以降の）演奏機能において、`⚙Settings`の`音量`/`音楽`に対応しました。
+  * クロスフェード挙動を修正しました。
+
 # `2022-08-27` 0.16.58 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.8f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * 一部依存パッケージを更新しました。
   * DOTS 0.51.1-preview.21系にしました。
