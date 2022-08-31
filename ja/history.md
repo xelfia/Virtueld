@@ -12,6 +12,10 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2022-08-31` 0.17.0 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.8f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* 一部依存パッケージを更新しました。
+* UIの効果音を復元しました。
+
 # `2022-08-30` 0.16.61 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.8f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * 🎶音楽関連を更新しました。
 
