@@ -12,7 +12,8 @@
 # 更新履歴 🙼 Update Logs
 
 
-# `2022-09-02` 0.17.2 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.8f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+# `2022-09-02` 0.17.2 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.9f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* Unityを更新しました。
 * 試験的リング`Voxel`(仮名)を更新しました。
   * キャラクターに試験的な浮力を追加しました。
   * 一部描画を復元しました。
