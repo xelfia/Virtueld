@@ -12,6 +12,9 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2022-11-03` 0.17.64 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.12f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* 一部動作を調整しました。
+
 # `2022-11-02` 0.17.63 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.12f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * ⌖照準`Reticle`を追加しました。
   * 現在のところゲームプレイとの直接の関連はなく、3D酔い止め効果を意図しています。
