@@ -12,6 +12,9 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2022-11-05` 0.17.66 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.12f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
+* 一部依存パッケージを更新しました。
+
 # `2022-11-04` 0.17.65 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.12f1` `UniVRM 0.89.0`+ `VRoidSDK 0.1.0`+
 * ⌖照準`Reticle`を更新しました。
   * 外観を調整しました。
