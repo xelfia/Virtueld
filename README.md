@@ -10,7 +10,7 @@
 # Virtueld Outpost
 * Home site of `Virtueld` (draft title) / `XVRF` (project name)
 * A 🎮 game development project by individual developer
-* Works on `Unity 2021.3.13f1` / `UniVRM 0.89.0`+ / `VRoid SDK 0.1.0`+
+* Works on `Unity 2021.3.14f1` / `UniVRM 0.89.0`+ / `VRoid SDK 0.1.0`+
 * [License / Third party notices](LICENSE.md)
 
 ## Downloads
