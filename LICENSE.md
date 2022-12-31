@@ -2,7 +2,7 @@
 
 
 
-* ©2018-2022 XELF
+* ©2018-2023 XELF
 
 `Other License`
 
@@ -379,6 +379,19 @@ Copyright © 2018, Google Inc.
       of your accepting any such warranty or additional liability.
 
    END OF TERMS AND CONDITIONS
+
+## BeepBox 4.1 (ported subset)
+
+
+
+* Copyright © 2012-2022 John Nesky and contributing authors
+* Porting © 2022 XELF
+
+`MIT`
+
+🔗 https://github.com/johnnesky/beepbox
+
+
 
 ## Mesh Cutter
 
