@@ -12,6 +12,9 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2023-03-25` 0.19.25 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.21f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
+* 一部動作を調整しました。
+
 # `2023-03-24` 0.19.24 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.21f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * UniVRMを更新しました。
   * `VRoid SDK 0.1.4`対応のための更新です。更新後の挙動は確認中です。`VRM 1.0`モデルには未対応です。
