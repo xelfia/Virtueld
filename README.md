@@ -1,4 +1,4 @@
-<img src="image/xvrf-title-icon-1280x640.png" width="50%"/>
+<img src="image/virtueld-icon-2023-1280x640.png" width="50%"/>
 
 ||||||
 |-|-|-|-|-|

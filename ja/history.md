@@ -1,4 +1,4 @@
-<img src="../image/xvrf-title-icon-1280x640.png" width="50%"/>
+<img src="../image/virtueld-icon-2023-1280x640.png" width="50%"/>
 
 <!--[🔙](../README.md) | -->
 [`取扱説明書`](manual.md) | [`操作方法`](controls.md) | `更新履歴` | [`デバッグツール`](debug.md) || ~~**English**~~ | **Japanese**
@@ -11,6 +11,9 @@
 
 # 更新履歴 🙼 Update Logs
 
+
+# `2023-07-02` 0.20.32 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.27f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
+* `[Tab]`で開閉できるスライド（情報）表示を追加しました。挙動と内容は調整予定です。
 
 # `2023-07-01` 0.20.31 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.27f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * 一部動作を調整しました。
