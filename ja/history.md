@@ -12,6 +12,13 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2023-07-06` 0.20.36 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
+* Unityを更新しました。
+* `[Tab]`で開閉できるスライド（情報）表示を一部調整しました。
+
+# `2023-07-05` 0.20.35 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.27f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
+* `[Tab]`で開閉できるスライド（情報）表示の内容を追加/更新しました。挙動と内容は調整予定です。
+
 # `2023-07-04` 0.20.34 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.27f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * `[Tab]`で開閉できるスライド（情報）表示を一部調整しました。
 
