@@ -131,6 +131,11 @@ If you have interested in Virtueld, feel free to submit the [✒Application form
 * 🔗 `Japanese` Anyone can help: Unity Editor crash [Shared Stack Traces](https://scrapbox.io/XVRF/Shared_Stack_Traces)
 
 --------
+
+## Supporters' References
+
+* 🔗 `Japanese`/`English` [Virtueld Slides](https://docs.google.com/presentation/d/1ng-sWbF17Eg-Ieo2U1gAv6zUXnTuOmTnI_l-NA66R8I/present?usp=sharing)
+
 Support Me ☛ [Patreon](https://www.patreon.com/XELF) or [PixivFANBOX](https://www.pixiv.net/fanbox/creator/33312285)
 
 --------
