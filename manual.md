@@ -258,7 +258,7 @@ I have added features that can be used effectively by creative people such as VR
 * `Loading...` after a while and combat starts.
 
 > * If there is any problem with the compatibility between XVRF and the selected character model, unusual behavior may occur during or after `Loading...`.
-> * Please let me know if there is a possibility of new discorveries☺
+> * Please let me know if there is a possibility of new discovery☺
 
 ## Link to VRoid Hub
 
