@@ -11,7 +11,7 @@
 * I'm hoping you enjoy as an app with your favorite VRM characters moving around.
 * I will update this work and descriptions as often as possible.
 
-* ☛ [Virtueld Dowload Site](https://xelf.booth.pm/items/1341365)
+* ☛ [Virtueld Download Site](https://xelf.booth.pm/items/1341365)
 
 # About Title
 
@@ -96,9 +96,9 @@ Please look for the latest version on [Download Site](https://xelf.booth.pm/item
 |`🤖🆚🤖`|Start demo as AI versus AI.|
 |`👤Character Selection`| Move to Character selection screen. (See below)|
 |`🚪Portal`| Move to Portal. (See below)|
-|`🔎👤🆚👤`|Move to Lobby Search screen. Under dvelopment as `Discord`-related features. (See below)|
+|`🔎👤🆚👤`|Move to Lobby Search screen. Under development as `Discord`-related features. (See below)|
 |`💬Discord`|Open the invitation page for Virtueld public channel.|
-|`Web`| Open the [Offical Web Site](.).|
+|`Web`| Open the [Official Web Site](.).|
 |`📜Report`|Report form for this software behavior. If there is no problem with the content, you can `Send`. If this is not available and let me know by other contact methods. (See below)|
 |`⚙Settings`|Open the `⚙Settings` screen. (See below)|
 
@@ -248,17 +248,17 @@ I have added features that can be used effectively by creative people such as VR
 ## Way to select a character
 
 * First, please confirm (set) the state ☑ or ☐ of `P1` and `P2`.
-* Depending on the filters at the almost bottom of the screen, character model icons will be displayed at the abeve.
+* Depending on the filters at the almost bottom of the screen, character model icons will be displayed at the above.
 
 > * If not found, it will be blank.
-> * If 🛇 is displyed, it can not be used because it does not meet the conditions of use.
+> * If 🛇 is displayed, it can not be used because it does not meet the conditions of use.
 
 * Once a character model icon is selected, its descriptions are displayed on the screen.
 * With the character model icon is selected, select it again to determine to use that character.
 * `Loading...` after a while and combat starts.
 
-> * If there is any problem with the compatibility between XVRF and the selected chartacter model, unusual behavior may occur during or after `Loading...`.
-> * Please let me know if there is a posslbility of new discorveries☺
+> * If there is any problem with the compatibility between XVRF and the selected character model, unusual behavior may occur during or after `Loading...`.
+> * Please let me know if there is a possibility of new discorveries☺
 
 ## Link to VRoid Hub
 
@@ -402,8 +402,8 @@ Look for this text file (`.log` format).
 5. Paste it into `Log` of the form.
 > * If the log is long and it does not fit, please paste in the range from the top as priority.
 
-6. Enter other fileds.
-> * Rquired fields may be in a range that you know. For fields that you do not know, please enter an appropriate sentence (e.g. `Unknown`).
+6. Enter other fields.
+> * Required fields may be in a range that you know. For fields that you do not know, please enter an appropriate sentence (e.g. `Unknown`).
 
 7. Press `Send`.
 8. If you do not mind, it would be appreciated if you could post the form via Twitter etc.
@@ -411,7 +411,7 @@ Look for this text file (`.log` format).
 
 ## 📧Contacts
 
-* recommended Twitter hashtags (priliminary): `#Virtueld`
+* recommended Twitter hashtags (preliminary): `#Virtueld`
 > `#XVRF`
 * ☛ [xelfia@twitter.com](https://twitter.com/xelfia)
 * [License](LICENSE.md)
