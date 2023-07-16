@@ -53,7 +53,7 @@
 |`Ⓚ`|<!--Ⓚ Kick-->|Kick|`Ⓔ`|`[→]` or `[Z]`|`Right`|
 |`Ⓣ`|<!--Ⓣ Throw-->|Throw / Face to Opponent / Clinch|`Ⓦ`|`[←]` or `[X]`|`Middle`|
 |`Ⓖ`|<!--Ⓖ Guard-->|Guard|`Ⓢ`|`↓` or `Space`|`Forward`|
-|←/→|<!--Left Stick Horizontal-->|Move / Naviagte on Menu|`←`/`→`|`[A]`/`[D]`|-|
+|←/→|<!--Left Stick Horizontal-->|Move / Navigate on Menu|`←`/`→`|`[A]`/`[D]`|-|
 |↑/↓|<!--Left Stick Vertical-->|Move / Navigate on Menu|`↑`/`↓`|`[W]`/`[S]`|-|
 |`🄻₁`|<!--L1-->|-|`Ls`|`[R]` (temporal)|-|
 |`🅁₁`|<!--R1-->|-|`Rs`|`[R]` (temporal)|-|
@@ -69,7 +69,7 @@
 |⯅/⯆/⯇/⯈|Navigate (D-pad)||
 |`Ⓖ`|Select / OK||
 |`Ⓚ`|Cancel||
-|`🄻₁`/`🅁₁`|Switch Tab|Hold `[Tab]`/`[Tab]`|
+|`🄻₁`/`🅁₁`|Switch Tab|`Shift`+`[Tab]`/`[Tab]`|
 |`🄻₂`/`🅁₂`/`🅁🕹`|Scroll on Scroll Rect||
 |🔙|Go Back to Previous Screen||
 
@@ -111,7 +111,7 @@
 
 ### How to open the Configuration dialog
 
-> ⚠ `0.3.101`+: Follwing is no longer available on `Unity 2019.3.0b1`+.  
+> ⚠ `0.3.101`+: Following is no longer available on `Unity 2019.3.0b1`+.  
 > Instead, press `[F1]` to open `Screen Settings` screen ingame.
 
 ~~Open Virtueld's `.exe` file with holding `[Ctrl]` to start the game app.~~
