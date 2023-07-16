@@ -36,8 +36,8 @@ When `Debug Tools` is enabled☑ in `⚙Settings`, you can use the debug tools (
 |`Skill`|Show/Hide the Skill List.|
 |`❙◁`|Restart the combat round.|
 |`▷❙`|Start the next combat round.|
-|`⊝P1`|Set the health of `P1` or` A1` to 0.|
-|`⊝P2`|Set the health of `P2` or` A2` to 0.|
+|`⊝P1`|Set the health of `P1` or `A1` to 0.|
+|`⊝P2`|Set the health of `P2` or `A2` to 0.|
 |`In Fight`|Move both to a close position.|
 |`On Edge`|Force both to move onto the ring boundary. However, since it is currently prevented from falling off the ring, it will be pushed back slightly inward.|
 |`Ring Out`|Force both to move out of the ring. However, it is currently pushed back inward because it does not fall out of the ring.|
