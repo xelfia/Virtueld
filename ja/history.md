@@ -1,8 +1,7 @@
 <img src="../image/virtueld-icon-2023-1280x640.png" width="50%"/>
 
 <!--[🔙](../README.md) | -->
-[`取扱説明書`](manual.md) | [`操作方法`](controls.md) | `更新履歴` | [`デバッグツール`](debug.md) || ~~**English**~~ | **Japanese**
-
+[`取扱説明書`](manual.md) | [`操作方法`](c
 ----
 
 > * ☛ [更新記録](https://scrapbox.io/XVRF/Virtueld:_%E6%9B%B4%E6%96%B0%E8%A8%98%E9%8C%B2)にて、内容を補足している場合があります。
@@ -11,6 +10,13 @@
 
 # 更新履歴 🙼 Update Logs
 
+
+# `2023-07-16` 0.20.46 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できる📕スライド（情報）表示を更新しました。
+  * スクロール操作を追加/調整しました。
+    * 🎮🄻₁ / ⌨[Shift]+[Tab] or [PageUp] / 🖱ホイール↑で前のページへ移動します。
+    * 🎮🅁₁ / ⌨[Tab] or [PageDown] / 🖱ホイール↓で次のページへ移動します。
+* メニューでのタブ切り替えの⌨キーボード操作を[Shift]+[Tab]/[Tab]に変更しました。
 
 # `2023-07-15` 0.20.45 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できる📕スライド（情報）表示を一部調整しました。
