@@ -1,7 +1,7 @@
 <img src="../image/virtueld-icon-2023-1280x640.png" width="50%"/>
 
 <!--[🔙](../README.md) | -->
-[`取扱説明書`](manual.md) | [`操作方法`](c
+[`取扱説明書`](manual.md) | [`操作方法`](controls.md) | `更新履歴` | [`デバッグツール`](debug.md) || ~~**English**~~ | **Japanese**
 ----
 
 > * ☛ [更新記録](https://scrapbox.io/XVRF/Virtueld:_%E6%9B%B4%E6%96%B0%E8%A8%98%E9%8C%B2)にて、内容を補足している場合があります。
@@ -10,6 +10,11 @@
 
 # 更新履歴 🙼 Update Logs
 
+
+# `2023-07-19` 0.20.49 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
+* 一部依存パッケージを更新しました。
+* `[Home]`で開閉できるスライド（情報）表示を一部調整しました。
+  * スライドとそれ以外への入力の応答を調整しました。
 
 # `2023-07-18` 0.20.48 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * 一部依存パッケージを更新しました。
