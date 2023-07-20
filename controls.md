@@ -92,7 +92,7 @@
 |`Ⓐ`|`Stand`|Your Behind|-|`Round Back Fist`|
 |`Ⓐ`|`Punch`|-|-|`Jab`|
 |→`Ⓐ`|`Stand`|-|-|`Splash`|
-|←`Ⓐ`|`Stand`|-|-|`Dosal Tackle`|
+|←`Ⓐ`|`Stand`|-|-|`Dorsal Tackle`|
 |`Ⓚ`|`Stand`|-|-|`Low Kick`|
 |→`Ⓚ`|`Stand`|-|-|`Sliding Kick`|
 |←`Ⓚ`|`Stand`|-|-|`Round Kick`|
@@ -103,7 +103,7 @@
 |`Ⓣ`|`Stand`|Not Face Forward|-|`Turn` to face forward|
 |`Ⓐ`|`Kneeling Mount`|`Supine`/`Prone`|-|`Kneeling Slam`|
 |→|`Kneeling Mount`|-|`On All Fours`|-|
-|→|`Supine`|-|`Get up off`|-|
+|→|`Prone`|-|`Get up off`|-|
 |←|`Supine`|-|`Kip up`|-|
 |→|`Prone`|-|`Get up off via Crouch`|-|
 |↑/↓|`Supine`/`Prone`|Not Mounted|`Roll Over`|-|
