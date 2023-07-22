@@ -1,4 +1,4 @@
-<img src="image/virtueld-icon-2023-1280x640.png" width="50%"/> May the XVRF with you
+<img src="image/virtueld-icon-2023-1280x640.png" width="50%"/> May the Virtueld with you
 
 <!--[🔙](../README.md) | -->
 `User's Manual` | [`Controls`](controls.md) | ~~`History`~~ | [`Debug Tools`](debug.md) || **English** | [**Japanese**](ja/manual.md)
@@ -55,7 +55,7 @@ The following are current candidates:
 1. Unzip all files in the zip file. (first time after download)
 2. Open the `Virtueld.exe` in the unzipped folder📁.
 
-> * About protections by the Operating System `Windows 10` and/or anti-virus softwares, please treat with generic ways.
+> * About protections by the Operating System `Windows 10` and/or anti-virus software, please treat with generic ways.
 > * For update versions, download it again, and do same way to start 🙇
 
 ## About `Latest Version Checker`
@@ -257,7 +257,7 @@ I have added features that can be used effectively by creative people such as VR
 * With the character model icon is selected, select it again to determine to use that character.
 * `Loading...` after a while and combat starts.
 
-> * If there is any problem with the compatibility between XVRF and the selected character model, unusual behavior may occur during or after `Loading...`.
+> * If there is any problem with the compatibility between Virtueld and the selected character model, unusual behavior may occur during or after `Loading...`.
 > * Please let me know if there is a possibility of new discovery☺
 
 ## Link to VRoid Hub
@@ -266,7 +266,7 @@ I have added features that can be used effectively by creative people such as VR
 2. Web browser will automatically open and display the `VRoid Hub` authorization code.
 3. `Copy` the authorization code in that page.
 4. The authorization code is automatically pasted on the game screen.
-> If you can not enter the authorization code, please contact me (XVRF side) because there is a possibility of specification change etc.
+> If you can not enter the authorization code, please contact me (Virtueld side) because there is a possibility of specification change etc.
 
 5. Once you have confirmed that the authorization code is pasted, press `Link`.
 6. If it `Succeeded`, go to the next step.
@@ -277,7 +277,7 @@ I have added features that can be used effectively by creative people such as VR
 
 1. After linking, let's search your favorite character in [VRoid Hub](https://hub.vroid.com).
 2. Let's press ♡ in that page.
-> * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
+> * In Virtueld, characters are only available for `Violence: YES` under the conditions of use.
 
 3. In-game `👤Character Selection` screen, press `VRoid Hub` to turn it into ☑.
 4. You will surely find the character and you can play with it.
@@ -287,9 +287,9 @@ I have added features that can be used effectively by creative people such as VR
 1. After linking, in-game `👤Character Selection` screen, press `VRoid Hub` to turn it into ☑.
 2. You will surely find the character and you can play with it.
 
-> * In XVRF, you can always play with your character in `VRoid Hub`, regardless of conditions of use.
+> * In Virtueld, you can always play with your character in `VRoid Hub`, regardless of conditions of use.
 > * If it does not work better than the bundled or standard characters, please refer:
-> ☛ `Japanese` [XVRF Model Definitions / XVRFで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
+> ☛ `Japanese` [Virtueld Model Definitions / Virtueldで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
 
 ## Play with local VRM files
 
@@ -303,9 +303,9 @@ You can also use your self-made VRM files or others-made VRM files that meet the
 3. `👤Character Selection` screen ingame, press `Local` to turn it into ☑.
 4. You will surely find the character and you can play with it.
 
-> * In XVRF, characters are only available for `Violence: YES` under the conditions of use.
+> * In Virtueld, characters are only available for `Violence: YES` under the conditions of use.
 > * If it does not work better than the bundled or standard characters, please refer:
-> ☛ `Japanese` [XVRF Model Definitions / XVRFで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
+> ☛ `Japanese` [Virtueld Model Definitions / Virtueldで良く動くVRMのために](https://scrapbox.io/XVRF/XVRF_Model_Definitions_%2F_XVRF%E3%81%A7%E8%89%AF%E3%81%8F%E5%8B%95%E3%81%8FVRM%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB)
 
 ## Skill List
 
@@ -345,7 +345,7 @@ Portal: These are portals for moving to other places.
 >   * `Discord` features can be started mainly from `🔎👤🆚👤` button that opens the lobby search in `🏠Lobby` screen.
 >   * Also, if you can connect to the `Discord` client on your operating system, `Discord` user information is displayed in `P1`.
 
-* How to apply for `XVRF Discord Related Testers` is explained below.
+* How to apply for `Virtueld Discord Related Testers` is explained below.
 
 ☛ [Virtueld/Discord関連機能テスター応募方法](https://scrapbox.io/XVRF/Virtueld%2FDiscord%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95)
 
@@ -412,7 +412,6 @@ Look for this text file (`.log` format).
 ## 📧Contacts
 
 * recommended Twitter hashtags (preliminary): `#Virtueld`
-> `#XVRF`
 * ☛ [xelfia@twitter.com](https://twitter.com/xelfia)
 * [License](LICENSE.md)
 
