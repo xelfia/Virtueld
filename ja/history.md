@@ -11,26 +11,29 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2023-07-23` 0.20.53 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部追加/調整しました。
+
 # `2023-07-22` 0.20.52 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
-* `[Home]`or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部追加/調整しました。
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部追加/調整しました。
 
 # `2023-07-21` 0.20.51 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
-* `[Home]`or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部調整しました。
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部調整しました。
 
 # `2023-07-20` 0.20.50 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
-* `[Home]`or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部追加/調整しました。
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部追加/調整しました。
 
 # `2023-07-19` 0.20.49 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * 一部依存パッケージを更新しました。
-* `[Home]`or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部調整しました。
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部調整しました。
   * スライドとそれ以外への入力の応答を調整しました。
 
 # `2023-07-18` 0.20.48 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * 一部依存パッケージを更新しました。
-* `[Home]`or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部調整しました。
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部調整しました。
 
 # `2023-07-17` 0.20.47 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
-* `[Home]`or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部追加/調整しました。
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部追加/調整しました。
 
 # `2023-07-16` 0.20.46 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.28f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できる📕スライド（情報）表示を更新しました。
