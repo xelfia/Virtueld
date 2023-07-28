@@ -10,6 +10,8 @@
 
 # 更新履歴 🙼 Update Logs
 
+# `2023-07-28` 0.20.58 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.29f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
+* `[Home]` or `▭`(🎮のTouchpad)長押しで開閉できるスライド（情報）表示を一部調整しました。
 
 # `2023-07-27` 0.20.57 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.29f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.4`+
 * Unityを更新しました。
