@@ -11,6 +11,9 @@
 # 更新履歴 🙼 Update Logs
 
 
+# `2023-12-15` 0.22.45 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.33f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
+* 一部動作を調整しました。
+
 # `2023-12-14` 0.22.44 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.33f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
 * 一部動作を調整しました。
 
