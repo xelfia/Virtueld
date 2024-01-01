@@ -406,17 +406,17 @@ Look for this text file (`.log` format).
 > * Required fields may be in a range that you know. For fields that you do not know, please enter an appropriate sentence (e.g. `Unknown`).
 
 7. Press `Send`.
-8. If you do not mind, it would be appreciated if you could post the form via Twitter etc.
+8. If you do not mind, it would be appreciated if you could post the form via X (Twitter) etc.
 > * Sorry to trouble you🙇
 
 ## 📧Contacts
 
-* recommended Twitter hashtags (preliminary): `#Virtueld`
+* recommended X (Twitter) hashtags (preliminary): `#Virtueld`
 * ☛ [xelfia@twitter.com](https://twitter.com/xelfia)
 * [License](LICENSE.md)
 
-> Thank you very much for everyone who `retweet`s/`like`s 🙇
+> Thank you very much for everyone who `repost`s/`like`s 🙇
 
 --------
 🆇🅴🅻🅵
-©2018-2023 XELF
+©2018-2024 XELF
