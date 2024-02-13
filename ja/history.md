@@ -11,22 +11,22 @@
 # 更新履歴 🙼 Update Logs
 
 
-# `2024-02-13` 0.23.44 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.34f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
+# `2024-02-13` 0.23.44 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.35f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
 * 一部動作を調整しました。
 
-# `2024-02-12` 0.23.43 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.34f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
+# `2024-02-12` 0.23.43 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.35f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
 * 一部動作を調整しました。
 
-# `2024-02-11` 0.23.42 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.34f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
+# `2024-02-11` 0.23.42 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.35f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
 * 一部動作を調整しました。
 
-# `2024-02-10` 0.23.41 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.34f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
+# `2024-02-10` 0.23.41 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.35f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
 * 一部動作を調整しました。
 
-# `2024-02-09` 0.23.40 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.34f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
+# `2024-02-09` 0.23.40 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.35f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
 * 一部動作を調整しました。
 
-# `2024-02-08` 0.23.39 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.34f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
+# `2024-02-08` 0.23.39 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.35f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
 * Unityを更新しました。
 * 一部依存パッケージを更新しました。
 
