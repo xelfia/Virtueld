@@ -12,7 +12,7 @@
 
 
 # `2024-05-02` 0.24.32 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.37f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
-* 一部動作を調整しました。
+* 一部依存パッケージを更新しました。
 
 # `2024-05-01` 0.24.31 on `HDRP` Physics:`U` Ragdoll:`U+` `Unity 2021.3.37f1` `UniVRM 0.108.0`+ `VRoidSDK 0.1.5`+
 * 一部動作を調整しました。
